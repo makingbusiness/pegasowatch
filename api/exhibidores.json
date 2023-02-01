@@ -1,0 +1,139 @@
+{
+  "productos": [
+    {
+      "CodProd": "137",
+      "Descrip": "LLAVERO LINTERNA REDONDO",
+      "CodInst": 1253,
+      "Precio": "924.3697",
+      "PrecioInternet": "2521.008",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "AF-P001",
+      "Descrip": "AFICHES PEGASO",
+      "CodInst": 1253,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "BOLSA-PA",
+      "Descrip": "BOLSA DE PANA PARA RELOJ",
+      "CodInst": 1253,
+      "Precio": "327.5862",
+      "PrecioInternet": "862.069",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "CJC04.08",
+      "Descrip": "CAJA PARA RELO CASIO VINOTINTO",
+      "CodInst": 1253,
+      "Precio": "2100.8403",
+      "PrecioInternet": "0.000",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "CJC04.13",
+      "Descrip": "CAJA PARA RELOJ CASIO AZUL R",
+      "CodInst": 1253,
+      "Precio": "2100.8403",
+      "PrecioInternet": "0.000",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "CJQ.01",
+      "Descrip": "CAJA PARA RELOJ QYQ",
+      "CodInst": 1253,
+      "Precio": "2100.8403",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "CJQ03.10",
+      "Descrip": "CAJA PARA RELOJ QYQ",
+      "CodInst": 1253,
+      "Precio": "2100.8403",
+      "PrecioInternet": "0.000",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "E-001",
+      "Descrip": "CAJA PARA RELOJ",
+      "CodInst": 1253,
+      "Precio": "1896.5517",
+      "PrecioInternet": "0.000",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "E-001C",
+      "Descrip": "CAJA PARA RELOJ DE COLOMBIA",
+      "CodInst": 1253,
+      "Precio": "2268.9076",
+      "PrecioInternet": "0.000",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "EX-2",
+      "Descrip": "EXHIBIDOR DE ACRILICO PARA RELOJ",
+      "CodInst": 1253,
+      "Precio": "420.1681",
+      "PrecioInternet": "0.000",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "MEX-135",
+      "Descrip": "EXHIBIDOR DE PULSOS COB PROTECTOR 12 P",
+      "CodInst": 1253,
+      "Precio": "10084.0336",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "TC-553",
+      "Descrip": "EXHIBIDOR PEGASO PARA RELOJ",
+      "CodInst": 1253,
+      "Precio": "1260.5042",
+      "PrecioInternet": "3361.345",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "TC-6203",
+      "Descrip": "VITRINA PEGASO PARA RELOJ",
+      "CodInst": 1253,
+      "Precio": "235294.1176",
+      "PrecioInternet": "294117.647",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "TC-9222A",
+      "Descrip": "EXHIBIDOR PEGASO PARA RELOJ",
+      "CodInst": 1253,
+      "Precio": "672.2689",
+      "PrecioInternet": "2100.840",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "TMP-001",
+      "Descrip": "TERMO PEGASO PUBLICITARIO",
+      "CodInst": 1253,
+      "Precio": "1176.4706",
+      "PrecioInternet": "2941.176",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    }
+  ]
+}

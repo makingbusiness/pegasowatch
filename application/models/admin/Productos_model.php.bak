@@ -1,0 +1,317 @@
+<?php
+class Productos_model extends CI_Model{
+
+	public function __construct()
+	{
+		parent::__construct();
+		$this->load->library('session');
+    }
+
+    public function eliminar_productos($statur){
+        $data = array('Activo' => 'N');
+
+        //$this->db->where('ST',$statur ? 'S' : 'N');
+        $this->db->update($this->session->tabla_idiomas == 'S' ? 'productos_ingles' : 'productos',$data);
+    }
+
+    public function existeProducto($producto){
+        $this->db->from($this->session->tabla_idiomas == 'S' ? 'productos_ingles' : 'productos');
+        $this->db->where('CodProd',$producto);
+
+        return $this->db->count_all_results();
+    }
+
+    public function inserta_producto($producto,$statur){
+
+        $data = array(
+            'CodProd'         => $producto->codprod,
+            'CodInst'         => $producto->codinst,
+            'Impuesto'        => $producto->impuesto,
+            'Marca'           => $producto->marca,
+            'CodigoAux'       => $producto->codigoaux,
+            'RefBase'         => $producto->refBase,
+            'Activo'          => 'S',
+            'ST'              => $statur ? 'S' : 'N',
+            'EsNuevo'         => $producto->EsNuevo,
+            'ImgPrincipal'    => $producto->imgPrincipal,
+            'ImgAdicionales'  => $producto->imgAdicional,
+            'ImgTexturas'     => $producto->imgTextura,
+            'ImgStatur'       => $producto->imgStatur,
+            'UltimaCompra'    => $producto->FechaUC
+        );
+
+        $this->db->insert($this->session->tabla_idiomas == 'S' ? 'productos_ingles' : 'productos',$data);
+     }
+
+     public function actualizar_productos($producto,$statur){
+         $data = array(
+            'CodInst'         => $producto->codinst,
+            'Impuesto'        => $producto->impuesto,
+            'Marca'           => $producto->marca,
+            'CodigoAux'       => $producto->codigoaux,
+            'RefBase'         => $producto->refBase,
+            'Activo'          => 'S',
+            'ST'              => $statur ? 'S' : 'N',
+            'EsNuevo'         => $producto->EsNuevo,
+            'ImgPrincipal'    => $producto->imgPrincipal,
+            'ImgAdicionales'  => $producto->imgAdicional,
+            'ImgTexturas'     => $producto->imgTextura,
+            'ImgStatur'       => $producto->imgStatur,
+            'UltimaCompra'    => $producto->FechaUC
+         );
+
+         $this->db->where('CodProd',$producto->codprod);
+         $tabla = $this->session->tabla_idiomas == 'S' ? 'productos_ingles' : 'productos';
+         $this->db->update($tabla,$data);
+     }
+
+     public function eliminar_auxiliares(){
+        $data = array('Activo' => 'N');
+
+        $this->db->update('auxiliares_producto',$data);
+    }
+
+    public function existeAuxiliar($producto){
+        $this->db->from('auxiliares_producto');
+        $this->db->where('CodigoAux',$producto);
+
+        return $this->db->count_all_results();
+    }
+
+    public function inserta_auxiliar($producto){
+
+        $data = array(
+            'CodigoAux'      => $producto->codigoaux,
+            'ListaProductos' => $producto->listaProductos,
+            'RefBase'        => $producto->refBase,
+            'Activo'         => 'S'
+        );
+
+        $this->db->insert('auxiliares_producto',$data);
+     }
+
+     public function actualizar_auxiliar($producto){
+         $data = array(
+            'ListaProductos' => $producto->listaProductos,
+            'RefBase'        => $producto->refBase,
+            'Activo'         => 'S'
+         );
+
+         $this->db->where('CodigoAux',$producto->codigoaux);
+         $this->db->update('auxiliares_producto',$data);
+     }
+
+    public function eliminar_productos_idioma(){
+        $data = array('Activo' => 'N');
+
+        $this->db->update('productos_idioma',$data);
+    }
+
+    public function inserta_producto_idioma($producto){
+
+        $data = array(
+            'CodProd'      => $producto->codprod,
+            'Descrip'      => $producto->descrip,
+            'Descrip2'     => $producto->descrip2,
+            'Descrip3'     => $producto->descrip3,
+            'IDIdioma'     => $producto->IDIdioma,
+            'DescAmpliada' => $producto->descAmpliada,
+            'Activo'       => 'S'
+        );
+
+        $this->db->insert('productos_idioma',$data);
+     }
+
+     public function actualizar_producto_idioma($producto){
+        $data = array(
+            'Descrip'      => $producto->descrip,
+            'Descrip2'     => $producto->descrip2,
+            'Descrip3'     => $producto->descrip3,
+            'DescAmpliada' => $producto->descAmpliada,
+            'Activo'       => 'S'
+        );
+
+        $this->db->where('CodProd', $producto->codprod);
+        $this->db->where('IDIdioma',$producto->IDIdioma);
+        $this->db->update('productos_idioma',$data);
+     }
+
+     public function existe_producto_idioma($producto){
+         $this->db->from('productos_idioma');
+         $this->db->where('CodProd',$producto->codprod);
+         $this->db->where('IDIdioma',$producto->IDIdioma);
+
+         return $this->db->count_all_results();
+     }
+
+     public function eliminar_precios_producto(){
+        $data = array('Activo' => 'N');
+
+        $this->db->update($this->session->tabla_idiomas == 'S' ? 'precios_producto_ingles' : 'precios_producto',$data);
+    }
+
+    public function inserta_precio_producto($producto){
+
+        $data = array(
+            'CodProd'          => $producto->CodProd,
+            'Precio1'          => $producto->Precio1,
+            'Precio2'          => $producto->Precio2,
+            'Precio3'          => $producto->Precio3,
+            'Precio4'          => $producto->Precio4,
+            'PrecioInternet'   => $producto->PrecioInternet,
+            'Activo'           => 'S'
+        );
+
+        $this->db->insert($this->session->tabla_idiomas == 'S' ? 'precios_producto_ingles' : 'precios_producto',$data);
+     }
+
+     public function actualizar_precio_producto($producto){
+        $data = array(
+            'Precio1'        => $producto->Precio1,
+            'Precio2'        => $producto->Precio2,
+            'Precio3'        => $producto->Precio3,
+            'Precio4'        => $producto->Precio4,
+            'PrecioInternet' => $producto->PrecioInternet,
+            'Activo'         => 'S'
+        );
+
+        $this->db->where('CodProd', $producto->CodProd);
+        $this->db->update($this->session->tabla_idiomas == 'S' ? 'precios_producto_ingles' : 'precios_producto',$data);
+     }
+
+     public function existe_precio_producto($producto){
+         $this->db->from($this->session->tabla_idiomas == 'S' ? 'precios_producto_ingles' : 'precios_producto');
+         $this->db->where('CodProd',$producto->CodProd);
+
+         return $this->db->count_all_results();
+     }
+
+     public function eliminar_pulsos(){
+        $data = array('Activo' => 'N');
+
+        $this->db->update($this->session->tabla_idiomas == 'S' ? 'referencias_manilla_ingles' : 'referencias_manilla',$data);
+    }
+
+    public function inserta_pulso($producto){
+
+        $data = array(
+            'CodProd'       => $producto->codprod,
+            'Descrip'       => $producto->descrip,
+            'ListaCalibres' => $producto->calibre,
+            'ListaColores'  => $producto->color,
+            'ListaPartes'   => $producto->partes,
+            'CodInst'       => $producto->codinst,
+            'Impuesto'      => $producto->impuesto,
+            'Activo'        => 'S'
+        );
+
+        $this->db->insert($this->session->tabla_idiomas == 'S' ? 'referencias_manilla_ingles' : 'referencias_manilla',$data);
+     }
+
+     public function actualizar_pulso($producto){
+        $data = array(
+            'Descrip'       => $producto->descrip,
+            'ListaCalibres' => $producto->calibre,
+            'ListaColores'  => $producto->color,
+            'ListaPartes'   => $producto->partes,
+            'CodInst'       => $producto->codinst,
+            'Impuesto'      => $producto->impuesto,
+            'Activo'        => 'S'
+        );
+
+        $this->db->where('CodProd', $producto->codprod);
+        $this->db->update($this->session->tabla_idiomas == 'S' ? 'referencias_manilla_ingles' : 'referencias_manilla',$data);
+     }
+
+     public function existe_pulso($producto){
+         $this->db->from($this->session->tabla_idiomas == 'S' ? 'referencias_manilla_ingles' : 'referencias_manilla');
+         $this->db->where('CodProd',$producto->codprod);
+
+         return $this->db->count_all_results();
+     }
+
+     /******************* Idioma2 - **** */
+
+     public function eliminar_auxiliares2(){
+        $data = array('Activo2' => 'N');
+
+        $this->db->update('auxiliares_producto',$data);
+    }
+
+    public function existeAuxiliar2($producto){
+        $this->db->from('auxiliares_producto');
+        $this->db->where('CodigoAux',$producto);
+
+        return $this->db->count_all_results();
+    }
+
+    public function inserta_auxiliar2($producto){
+
+        $data = array(
+            'CodigoAux'      => $producto->codigoaux,
+            'ListaProductos' => $producto->listaProductos,
+            'RefBase'        => $producto->refBase,
+            'Activo2'        => 'S'
+        );
+
+        $this->db->insert('auxiliares_producto',$data);
+     }
+
+     public function actualizar_auxiliar2($producto){
+         $data = array(
+            'ListaProductos' => $producto->listaProductos,
+            'RefBase'        => $producto->refBase,
+            'Activo'         => 'S'
+         );
+
+         $this->db->where('CodigoAux',$producto->codigoaux);
+         $this->db->update('auxiliares_producto',$data);
+     }
+
+    public function eliminar_productos_idioma2(){
+        $data = array('Activo2' => 'N');
+
+        $this->db->update('productos_idioma',$data);
+    }
+
+    public function inserta_producto_idioma2($producto){
+
+        $data = array(
+            'CodProd'      => $producto->codprod,
+            'Descrip'      => $producto->descrip,
+            'Descrip2'     => $producto->descrip2,
+            'Descrip3'     => $producto->descrip3,
+            'IDIdioma'     => $producto->IDIdioma,
+            'DescAmpliada' => $producto->descAmpliada,
+            'Activo'       => 'N',
+            'Activo2'      => 'S'
+        );
+
+        $this->db->insert('productos_idioma',$data);
+     }
+
+     public function actualizar_producto_idioma2($producto){
+        $data = array(
+            'Descrip'      => $producto->descrip,
+            'Descrip2'     => $producto->descrip2,
+            'Descrip3'     => $producto->descrip3,
+            'DescAmpliada' => $producto->descAmpliada,
+            'Activo2'      => 'S'
+        );
+
+        $this->db->where('CodProd', $producto->codprod);
+        $this->db->where('IDIdioma',$producto->IDIdioma);
+        $this->db->update('productos_idioma',$data);
+     }
+
+     public function existe_producto_idioma2($producto){
+         $this->db->from('productos_idioma');
+         $this->db->where('CodProd',$producto->codprod);
+         $this->db->where('IDIdioma',$producto->IDIdioma);
+
+         return $this->db->count_all_results();
+     }
+
+     /***********************************************************************/ 
+
+}

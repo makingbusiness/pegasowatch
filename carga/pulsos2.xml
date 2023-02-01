@@ -1,0 +1,2820 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pulsos>
+  <pulso>
+    <codprod>1010</codprod>
+    <descrip>PULSO PU PARA G-SHOCK CACQUI CAMUFLADO</descrip>
+    <calibre>16</calibre>
+    <color>1,10,11,11M,13,13M,16,16M,21,21M,22,5M</color>
+    <partes>16.1,16.10,16.11,16.11M,16.13,16.13M,16.16,16.16M,16.21,16.21M,16.22,16.5M,16.6,16.6M</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>1010SP</codprod>
+    <descrip>PULSO PU TRNASPARENTE G-SHOCK #16 PP/PLA</descrip>
+    <calibre>16</calibre>
+    <color>0,19M,1M,22B,5</color>
+    <partes>16.0,16.19M,16.1B,16.1M,16.22B,16.5</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>1010SS</codprod>
+    <descrip>PULSO PEGASO PU PARA G-SHOCK P/ACERO #16</descrip>
+    <calibre>16</calibre>
+    <color>1,13M</color>
+    <partes>16.1,16.13M</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>1011SP</codprod>
+    <descrip>PULSO PEGASO PU BABY-G HEB. O.R. NB #14</descrip>
+    <calibre>14</calibre>
+    <color>1,11,11M,1B,6M</color>
+    <partes>14.1,14.11,14.11M,14.1B,14.6M,16.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>1035</codprod>
+    <descrip>PULSO PEGASO PU G-SHOCK  HEB. MET.</descrip>
+    <calibre />
+    <color>10,13,6,9</color>
+    <partes>10,13,6,9</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>1109S</codprod>
+    <descrip>PULSO ACERO RESORTE #20</descrip>
+    <calibre>12,18,20</calibre>
+    <color />
+    <partes>12,16,18,20</partes>
+    <codinst>1054</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>111</codprod>
+    <descrip>PULSO PU PARA G-SHOCK CAMUFLADO ROJO</descrip>
+    <calibre />
+    <color>1,10,11,11M,13,13M,16,21,6M,7M</color>
+    <partes>1,10,11,11M,13,13M,16,21,6,6M,7M</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>1189</codprod>
+    <descrip>PULSO SILICONA TACHES NEG.HILO NEG.#24</descrip>
+    <calibre>24</calibre>
+    <color>101</color>
+    <partes>24.101</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>127</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK #26</descrip>
+    <calibre>18,20,22,24,26,28</calibre>
+    <color>1</color>
+    <partes>18.1,20.1,22.1,24.1,26.1,28.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>127SP</codprod>
+    <descrip>PULSO PU VERDE MI.PARA CASIO G-SHOCK #24</descrip>
+    <calibre>22,24</calibre>
+    <color>11,16</color>
+    <partes>22.11,22.16,24.11,24.16</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>1602SP</codprod>
+    <descrip>PULSO PEGASO PU G-SHOCK TRANSPARENTE</descrip>
+    <calibre />
+    <color>0</color>
+    <partes>0</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>1607SP</codprod>
+    <descrip>PULSO PEGASO PU G-SHOCK NEGRO</descrip>
+    <calibre />
+    <color>1</color>
+    <partes>1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>1608SP</codprod>
+    <descrip>PULSO PEGASO PU G-SHOCK NEGRO</descrip>
+    <calibre />
+    <color>1</color>
+    <partes>1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>1702SP</codprod>
+    <descrip>PULSO PEGASO PU G-SHOCK NEGRO</descrip>
+    <calibre />
+    <color>1</color>
+    <partes>1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>1806SCH</codprod>
+    <descrip>PULSO PEGASO PARA G-SHOCK CHAPA ACERO#30</descrip>
+    <calibre>30</calibre>
+    <color>1</color>
+    <partes>30.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>1810SP</codprod>
+    <descrip>PULSO PEGASO PU PARA G-SHOCK #33</descrip>
+    <calibre>26,33</calibre>
+    <color>1</color>
+    <partes>26.1,33.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>1918SP</codprod>
+    <descrip>PULSO PEGASO PU VERDE MILITAR NEGRO  #24</descrip>
+    <calibre>24</calibre>
+    <color>0106,0701,0901,1101</color>
+    <partes>24.0101,24.0106,24.0116,24.0119,24.0601,24.0701,24.0901,24.1101,24.1105,24.1606</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>200</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK VERDE M#20</descrip>
+    <calibre>18,20,22,24,26,28</calibre>
+    <color>11,13,22,6,16,10,15,21,9,19</color>
+    <partes>18.11,18.13,18.22,18.6,20.11,20.16,20.22,20.6,22.1,22.10,22.11,22.15,22.16,22.21,22.22,22.6,24.1,24.10,24.11,24.13,24.16,24.22,24.6,24.9,26.1,26.10,26.19,26.2,26.21,26.22,26.9,28.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2008</codprod>
+    <descrip>PULSO PEGASO SILICONA NEGRO/NEGRO .#22</descrip>
+    <calibre>22</calibre>
+    <color>101,119,122</color>
+    <partes>22.101,22.119,22.122</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2027</codprod>
+    <descrip>PULSO SILICONA NEGRO 2 COST. H/VERD#24</descrip>
+    <calibre />
+    <color>121,122</color>
+    <partes>24.121,24.122</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>204P</codprod>
+    <descrip>PULSO PU PARA DATABANK HEBILLA PLAST.#22</descrip>
+    <calibre>22</calibre>
+    <color>1</color>
+    <partes>22.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>204S</codprod>
+    <descrip>PULSO PU DATABANK HHEBILLA DE ACERO #22</descrip>
+    <calibre>22</calibre>
+    <color>1</color>
+    <partes>22.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2145S</codprod>
+    <descrip>PULSO PU PARA  COLOR NEGRO #28</descrip>
+    <calibre>28</calibre>
+    <color>1</color>
+    <partes>28.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2169</codprod>
+    <descrip>PULSO SILICONA NEGRO #22</descrip>
+    <calibre>20,22</calibre>
+    <color>1,12,22</color>
+    <partes>20.1,20.12,20.2,20.22,22.1</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2169ASK</codprod>
+    <descrip>PULSO PEGASO SILICONA ROJO M.LUNA #24</descrip>
+    <calibre>24</calibre>
+    <color>1,10,13,6</color>
+    <partes>24.1,24.10,24.13,24.6</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2178</codprod>
+    <descrip>PULSO PEGASO SILICONA NEGRO H/VERD.#26</descrip>
+    <calibre>22,24</calibre>
+    <color>101,116,119,110,121</color>
+    <partes>22.101,22.116,22.119,24.101,24.110,24.119,26.110,26.119,26.121</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2200</codprod>
+    <descrip>PULSO PEGASO SILICONA ROJO #24</descrip>
+    <calibre>22,24</calibre>
+    <color>1,16,2,22</color>
+    <partes>22.1,22.16,22.2,22.22,22.6,24.1,24.16,24.2,24.22,24.6</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2204</codprod>
+    <descrip>PULSO PEGASO SILICONA PARA MULCO #26</descrip>
+    <calibre>26</calibre>
+    <color>1</color>
+    <partes>26.1</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2236</codprod>
+    <descrip>PULSO SILICONA ROJO #24</descrip>
+    <calibre>22,24</calibre>
+    <color>1,16,2,22</color>
+    <partes>22.1,22.16,22.22,22.6,24.1,24.16,24.2,24.22,24.6</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2247</codprod>
+    <descrip>PULSO SILICONA ENTERIZO NEGRO H/NEGRO#24</descrip>
+    <calibre>24</calibre>
+    <color>101</color>
+    <partes>24.101</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2258</codprod>
+    <descrip>PULSO SILICONA NEGRO #24</descrip>
+    <calibre>22,24</calibre>
+    <color>12</color>
+    <partes>22.12,24.1</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2260</codprod>
+    <descrip>PULSO SILICONA NEGRO HILO NARANJA #22</descrip>
+    <calibre>22</calibre>
+    <color>119</color>
+    <partes>22.119</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2265</codprod>
+    <descrip>PULSO SILICONA NEGRO 2 COST. H/VERD#26</descrip>
+    <calibre>26</calibre>
+    <color>110,121</color>
+    <partes>26.110,26.121</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2269</codprod>
+    <descrip>PULSO PEGASO SILICONA M.LUNA NEGRO #26</descrip>
+    <calibre>26</calibre>
+    <color>1</color>
+    <partes>26.1</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2280</codprod>
+    <descrip>PULSO SILICONA NEGRO HILO NEGRO #22</descrip>
+    <calibre>22</calibre>
+    <color>101</color>
+    <partes>22.101</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2284</codprod>
+    <descrip>PULSO SILICONA NEGRO COSIDO H/BLANCO #28</descrip>
+    <calibre>26,28</calibre>
+    <color>1,16,122</color>
+    <partes>26.1,26.16,26.6,28.1,28.122</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2285</codprod>
+    <descrip>PULSO SILICONA NEGRO #28</descrip>
+    <calibre>28</calibre>
+    <color>1</color>
+    <partes>28.1</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2290</codprod>
+    <descrip>PULSO SILICONA NEGRO #24</descrip>
+    <calibre>24</calibre>
+    <color>1</color>
+    <partes>24.1</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2301</codprod>
+    <descrip>PULSO PEGASO SILICONA ROJO #24</descrip>
+    <calibre>24</calibre>
+    <color>1,10,16,19,22</color>
+    <partes>24.1,24.10,24.16,24.19,24.22,24.6</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2303</codprod>
+    <descrip>PULSO SILICONA PARA SWACHTAZUL O#24</descrip>
+    <calibre>24</calibre>
+    <color>10,13,16,22,9</color>
+    <partes>24.1,24.10,24.13,24.16,24.22,24.6,24.9</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2308</codprod>
+    <descrip>PULSO SILICONA MEDIA LUNA VERDE AZUL #18</descrip>
+    <calibre>18</calibre>
+    <color>12,19,9V</color>
+    <partes>18.12,18.19,18.9V</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2309</codprod>
+    <descrip>PULSO PEGASO SILICONA NEGRO#24</descrip>
+    <calibre>24</calibre>
+    <color>1,16,2</color>
+    <partes>24.1,24.16,24.2</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2315</codprod>
+    <descrip>PULSO SILICONA BLANCO #24</descrip>
+    <calibre>24</calibre>
+    <color>22</color>
+    <partes>24.22</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2318</codprod>
+    <descrip>PULSO PEGASO SILICONA NEG.2/COST/R.#22</descrip>
+    <calibre>22</calibre>
+    <color>106,110,116,119,122</color>
+    <partes>22.106,22.110,22.116,22.119,22.122</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2324</codprod>
+    <descrip>PULSO PEGASO SILICONA NEGRO H/VERD.#24</descrip>
+    <calibre>22,24,26</calibre>
+    <color>101,106,110,121,122</color>
+    <partes>22.101,22.106,22.110,22.121,24.101,24.121,24.122,26.101</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2328</codprod>
+    <descrip>PULSO SILICONA MORADO #24</descrip>
+    <calibre>24,26</calibre>
+    <color>10,1001,101,106,113,15,601,110,122,1310</color>
+    <partes>24.10,24.1001,24.101,24.106,24.113,24.13,24.15,24.601,26.1001,26.110,26.113,26.122,26.1310,26.2,26.601</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2329</codprod>
+    <descrip>PULSO PEGASO SILICONA M.L NEG./H/A.#24</descrip>
+    <calibre>24</calibre>
+    <color>110</color>
+    <partes>24.110</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2330</codprod>
+    <descrip>PULSO DE SILICONA PARA SWACHT ROSADO #20</descrip>
+    <calibre>20</calibre>
+    <color>11,12,13,14,15,16,22</color>
+    <partes>20.1,20.11,20.12,20.13,20.14,20.15,20.16,20.22,20.5,20.6</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2332</codprod>
+    <descrip>PULSO SILICONA PLANO NEGRO #24</descrip>
+    <calibre>24</calibre>
+    <color>1</color>
+    <partes>24.1</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2333</codprod>
+    <descrip>PULSO SILICONA ROSADO #20</descrip>
+    <calibre>20</calibre>
+    <color>14</color>
+    <partes>20.12,20.14</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2336</codprod>
+    <descrip>PULSO PEGASO SILICONA ROJO.#24</descrip>
+    <calibre>22,24</calibre>
+    <color>1,16,2</color>
+    <partes>22.1,22.16,22.2,22.6,24.1,24.16,24.2,24.6</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2338</codprod>
+    <descrip>PULSO PEGASO SILICONA NEGRO .#24</descrip>
+    <calibre>17</calibre>
+    <color>1,13,2</color>
+    <partes>17.1,17.13,17.2</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2340</codprod>
+    <descrip>PULSO PEGASO SILICONA NEGRO .#24</descrip>
+    <calibre>24</calibre>
+    <color>1,16,2,22</color>
+    <partes>24.1,24.16,24.2,24.22</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2341</codprod>
+    <descrip>PULSO PEGASO SILICONA CAFE .#24</descrip>
+    <calibre>24</calibre>
+    <color>16,2</color>
+    <partes>24.16,24.2</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2342S</codprod>
+    <descrip>PULSO PEGASO SILICONA NEGRO #24</descrip>
+    <calibre>24</calibre>
+    <color>1</color>
+    <partes>24.1</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2344</codprod>
+    <descrip>PULSO SILICONA NEGRO COSIDO H/VERDE#22</descrip>
+    <calibre>22</calibre>
+    <color>106,121,122</color>
+    <partes>22.106,22.121,22.122</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2346</codprod>
+    <descrip>PULSO SILICONA NEGRO CON AP/MET. #25</descrip>
+    <calibre>25</calibre>
+    <color>1</color>
+    <partes>25.1,25.16</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2346AG</codprod>
+    <descrip>PULSO SILICONA NEGRO APLIQUE DORADO #24</descrip>
+    <calibre>24</calibre>
+    <color>1</color>
+    <partes>24.1</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2347</codprod>
+    <descrip>PULSO SILICONA NEGRO COSIDO H/NEGRO#24</descrip>
+    <calibre>20,22,24</calibre>
+    <color>101,122</color>
+    <partes>20.101,20.122,22.101,24.101</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2348</codprod>
+    <descrip>PULSO SILICONA NEGRO-ROJO #20</descrip>
+    <calibre>20</calibre>
+    <color>106,122</color>
+    <partes>20.106,20.122</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2354</codprod>
+    <descrip>PULSO SILICONA MARRON #22</descrip>
+    <calibre>22</calibre>
+    <color>2</color>
+    <partes>22.2</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2357</codprod>
+    <descrip>PULSO QELLO SIL. NEG. AP. PLATEADO #24</descrip>
+    <calibre>24</calibre>
+    <color>117</color>
+    <partes>24.117</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>2371</codprod>
+    <descrip>PULSO QELLO SILICONA NEGRO #28</descrip>
+    <calibre>28</calibre>
+    <color>1</color>
+    <partes>28.1</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>254P</codprod>
+    <descrip>PULSO PU TELEMEMO HEBILLA PLASTICA #18</descrip>
+    <calibre>18</calibre>
+    <color>1</color>
+    <partes>18.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>254S</codprod>
+    <descrip>PULSO PU PARA CASIO TELEMEMO  H.M.#18</descrip>
+    <calibre>18</calibre>
+    <color>1</color>
+    <partes>18.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>259S</codprod>
+    <descrip>PULSO PU 3 VENTANAS HEBILLA METAL #20</descrip>
+    <calibre>20</calibre>
+    <color>1</color>
+    <partes>20.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>283P</codprod>
+    <descrip>PULSO PU F-91 HEBILLA PLASTICO NARAN #18</descrip>
+    <calibre>18</calibre>
+    <color>19</color>
+    <partes>18.19,18.2</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>283S</codprod>
+    <descrip>PULSO PU F-91 HEBILLA ACERO V/MIL #12</descrip>
+    <calibre>12,18</calibre>
+    <color>1,10,11,12,13,14,15,16,19,21</color>
+    <partes>12.1,12.10,12.11,12.12,12.13,12.14,12.15,12.16,12.19,12.2,12.21,12.6,12.9,18.1,18.10,18.11,18.12,18.13,18.14,18.15,18.16,18.2,18.9</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>3004</codprod>
+    <descrip>PULSO PLASTICO CON APLIQUES MET. #24</descrip>
+    <calibre>20,22,24</calibre>
+    <color>1</color>
+    <partes>20.1,22.1,24.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>304</codprod>
+    <descrip>PULSO PEGASO PARA CASIO G-SHOCK VER/MI</descrip>
+    <calibre />
+    <color>11,13,16,22</color>
+    <partes>1,11,13,16,22,6</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>321P</codprod>
+    <descrip>PULSO PU HEBILLA PLASTICA #22</descrip>
+    <calibre>20,22</calibre>
+    <color>1</color>
+    <partes>20.1,22.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>321S</codprod>
+    <descrip>PULSO PU HEBILLA ACERO #22</descrip>
+    <calibre>22</calibre>
+    <color>1</color>
+    <partes>20.1,22.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>3228</codprod>
+    <descrip>PULSO PU PARA CASIO LA111 #14</descrip>
+    <calibre>14</calibre>
+    <color>1</color>
+    <partes>14.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>337</codprod>
+    <descrip>PULSO PEGASO PU TELEMEMO #24 HEB. MET.</descrip>
+    <calibre>20,22,24</calibre>
+    <color>1</color>
+    <partes>18.1,20.1,22.1,24.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>338</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK VERDE M#28</descrip>
+    <calibre>18,20,22,24,26,28</calibre>
+    <color>11,2,22,6,10,21,9,16,19,13</color>
+    <partes>18.1,18.11,18.16,18.2,18.22,18.6,20.1,20.10,20.16,20.19,20.21,20.22,20.6,20.9,22.1,22.10,22.11,22.16,22.21,22.22,22.9,24.1,24.10,24.11,24.16,24.19,24.2,24.21,24.22,24.6,24.9,26.1,26.10,26.13,26.16,26.19,26.2,26.21,26.22,26.6,26.9,28.1,28.11,28.13,28.16,28.2,28.22,28.6</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>338SP</codprod>
+    <descrip>PULSO PEGASO PU G-SHOCK #30 HEB. MET.</descrip>
+    <calibre>30</calibre>
+    <color>1</color>
+    <partes>30.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>339S</codprod>
+    <descrip>PULSO PU TELEMEMO HEBILLA ACERO #26</descrip>
+    <calibre>20,24,26</calibre>
+    <color>1</color>
+    <partes>20.1,22.1,24.1,26.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>3441</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK</descrip>
+    <calibre />
+    <color>1</color>
+    <partes>1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>3443</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK</descrip>
+    <calibre />
+    <color>1</color>
+    <partes>1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>3444</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK</descrip>
+    <calibre />
+    <color>1</color>
+    <partes>1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>3445</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK AZUL OSCURO</descrip>
+    <calibre />
+    <color>16</color>
+    <partes>1,16</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>3446</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK VERDE MILIT.</descrip>
+    <calibre />
+    <color>0,1,11,11M,13,5M,6,7</color>
+    <partes>0,1,11,11M,13,1M,5M,6,7</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>3447</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK</descrip>
+    <calibre />
+    <color>1</color>
+    <partes>1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>3448</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK</descrip>
+    <calibre />
+    <color>1</color>
+    <partes>1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>3449</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK</descrip>
+    <calibre />
+    <color>1,11,16</color>
+    <partes>1,11,16,6</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>3452</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK</descrip>
+    <calibre />
+    <color>1</color>
+    <partes>1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>3454</codprod>
+    <descrip>PULSO PEGASO PU TRASP. PARA G-SHOCK</descrip>
+    <calibre />
+    <color>0,1</color>
+    <partes>0,1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>3456</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK</descrip>
+    <calibre />
+    <color>1</color>
+    <partes>1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>3458</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK</descrip>
+    <calibre />
+    <color>1</color>
+    <partes>1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>3464</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK</descrip>
+    <calibre />
+    <color>1</color>
+    <partes>1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>3465</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK</descrip>
+    <calibre />
+    <color>1</color>
+    <partes>1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>3466</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK</descrip>
+    <calibre />
+    <color>1</color>
+    <partes>1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>3467</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK VERDE MILIT.</descrip>
+    <calibre />
+    <color>0,1,11,6,7</color>
+    <partes>0,1,11,6,7</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>3468</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK</descrip>
+    <calibre />
+    <color>1</color>
+    <partes>1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>3469</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK</descrip>
+    <calibre />
+    <color>1</color>
+    <partes>1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>3470SP</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK</descrip>
+    <calibre>22</calibre>
+    <color>1</color>
+    <partes>22.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>351S</codprod>
+    <descrip>PULSO PU HEBILLA ACERO #24</descrip>
+    <calibre>24</calibre>
+    <color>1</color>
+    <partes>24.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>356P</codprod>
+    <descrip>PULSO PU ANATOMICO HEBILLA PLASTICA #16</descrip>
+    <calibre>16</calibre>
+    <color>1</color>
+    <partes>16.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>356S</codprod>
+    <descrip>PULSO PU ANATOMICO HEBILLA ACERO #16</descrip>
+    <calibre>16</calibre>
+    <color>1</color>
+    <partes>16.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>398P</codprod>
+    <descrip>PULSO PU C/REMOTO HEBILLA PLASTICA #22</descrip>
+    <calibre>22</calibre>
+    <color>1</color>
+    <partes>22.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>398S</codprod>
+    <descrip>PULSO PU C/REMOTO HEBILLA ACERO #22</descrip>
+    <calibre>22</calibre>
+    <color>1</color>
+    <partes>22.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>4014</codprod>
+    <descrip>PULSO QELLO PU T.G-SHOCK VERDE MIL. #22</descrip>
+    <calibre>22</calibre>
+    <color>1,10,11,13,16,19,21,22</color>
+    <partes>22.1,22.10,22.11,22.13,22.16,22.19,22.21,22.22</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>488</codprod>
+    <descrip>PULSO PEGASO PARA CASIO DE UÑA NEGRO</descrip>
+    <calibre />
+    <color>1</color>
+    <partes>1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5014SP</codprod>
+    <descrip>PULSO PEGASO PU G-SHOCK TRAP PP/PL#16X24</descrip>
+    <calibre>24</calibre>
+    <color>0,1,19,22</color>
+    <partes>14.1,24.0,24.1,24.11M,24.19,24.22,24.5,24.5M</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>50163SP</codprod>
+    <descrip>PULSO PU MEDIALUNA #26</descrip>
+    <calibre>26</calibre>
+    <color>1</color>
+    <partes>26.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>501BK</codprod>
+    <descrip>PULSO PEGASO SILICONA NEGRO VERDE M. #22</descrip>
+    <calibre>22</calibre>
+    <color>0102,0106,0111,0113,0119,0122</color>
+    <partes>22.0102,22.0106,22.0111,22.0113,22.0119,22.0122</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>501S</codprod>
+    <descrip>PULSO PEGASO SILICONA VERDE M. NEGRO #22</descrip>
+    <calibre>22</calibre>
+    <color>0601,0901,1101,2201</color>
+    <partes>22.0601,22.0901,22.1101,22.2201</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5054</codprod>
+    <descrip>PULSO PEGASO PARA CASIO TERMINAL ESPEC</descrip>
+    <calibre />
+    <color>1</color>
+    <partes>1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5110</codprod>
+    <descrip>PULSO PVC TRANSPARENTE #18</descrip>
+    <calibre>12,14,16,18</calibre>
+    <color>0</color>
+    <partes>12.0,14.0,16.0,18.0</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5128</codprod>
+    <descrip>PULSO PEGASO PU NEGRO</descrip>
+    <calibre>26</calibre>
+    <color>1</color>
+    <partes>26.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5157</codprod>
+    <descrip>PULSO PEGASO PU TIPO CASIO</descrip>
+    <calibre>20</calibre>
+    <color>1</color>
+    <partes>20.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5158</codprod>
+    <descrip>PULSO PU PARA CASIO UÑA # 15 HEB. MET.</descrip>
+    <calibre>15</calibre>
+    <color>1</color>
+    <partes>15.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5200</codprod>
+    <descrip>PULSO PU DE ENCAJE #20</descrip>
+    <calibre>20</calibre>
+    <color>1</color>
+    <partes>20.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5202</codprod>
+    <descrip>PULSO PEGASO PU NEGRO .#24</descrip>
+    <calibre>24</calibre>
+    <color>1</color>
+    <partes>24.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5263S</codprod>
+    <descrip>PULSO PU MEDIA LUNA #22</descrip>
+    <calibre>22</calibre>
+    <color>1</color>
+    <partes>22.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5268</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK #16</descrip>
+    <calibre>16</calibre>
+    <color>1</color>
+    <partes>16.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5270</codprod>
+    <descrip>PULSO PU PERFORADO #24</descrip>
+    <calibre>22,24</calibre>
+    <color>1</color>
+    <partes>22.1,24.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5271</codprod>
+    <descrip>PULSO PU EN U HEBILA METAL #32</descrip>
+    <calibre>32</calibre>
+    <color>1</color>
+    <partes>32.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5273</codprod>
+    <descrip>PULSO PEGASO PU NEGRO</descrip>
+    <calibre>31</calibre>
+    <color>1</color>
+    <partes>31.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5282</codprod>
+    <descrip>PULSO PU HEBILLA METAL #22</descrip>
+    <calibre>22</calibre>
+    <color>1</color>
+    <partes>22.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5284</codprod>
+    <descrip>PULSO PU HEBILLA METAL #24</descrip>
+    <calibre>24</calibre>
+    <color>1</color>
+    <partes>24.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5285</codprod>
+    <descrip>PULSO PU PULSO METAL #24</descrip>
+    <calibre>24</calibre>
+    <color>1</color>
+    <partes>24.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5327</codprod>
+    <descrip>PULSO PEGASO PARA G-SHOCK NEGRO</descrip>
+    <calibre>22</calibre>
+    <color>1</color>
+    <partes>22.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5328</codprod>
+    <descrip>PULSO PU DE UÑA ENCAJE #20</descrip>
+    <calibre>20</calibre>
+    <color>1</color>
+    <partes>20.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5332</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK #16 2 PINE</descrip>
+    <calibre>16</calibre>
+    <color>1</color>
+    <partes>16.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5337</codprod>
+    <descrip>PULSO PU ANATOMICO NEGRO #24</descrip>
+    <calibre>24</calibre>
+    <color>1</color>
+    <partes>24.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5340</codprod>
+    <descrip>PULSO PEGASO PU NEGRO/ROJO M.LUNA #24</descrip>
+    <calibre>24</calibre>
+    <color>106,119,122</color>
+    <partes>24.106,24.119,24.122</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5342</codprod>
+    <descrip>PULSO PEGASO PU N/NA</descrip>
+    <calibre>24</calibre>
+    <color>110,119</color>
+    <partes>24.110,24.119</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5351SP</codprod>
+    <descrip>PULSO PU PLANO NEGRO #20</descrip>
+    <calibre>20</calibre>
+    <color>1</color>
+    <partes>20.1,20.13,20.2,20.5,20.6,20.7,20.8</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5381</codprod>
+    <descrip>PULSO PEGASO PU N/N</descrip>
+    <calibre>20</calibre>
+    <color>1</color>
+    <partes>20.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5386SP</codprod>
+    <descrip>PULSO PEGASO PU NEGRO LISO H.ACERO #26</descrip>
+    <calibre>20,22,24,26</calibre>
+    <color>1,16,2</color>
+    <partes>20.1,20.16,20.2,22.1,22.16,22.2,24.1,24.16,24.2,26.1,26.16,26.2</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5396SP</codprod>
+    <descrip>PULSO PEGASO PU LISO NEGRO # 24</descrip>
+    <calibre>22,24</calibre>
+    <color>1</color>
+    <partes>22.1,24.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5411SK</codprod>
+    <descrip>PULSO SILICONA BLANCO CON TERM. NEG. #28</descrip>
+    <calibre>28</calibre>
+    <color>2201</color>
+    <partes>28.2201</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5425</codprod>
+    <descrip>PULSO PU GRUESO TIPO TAG #24</descrip>
+    <calibre>24</calibre>
+    <color>1</color>
+    <partes>24.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5467</codprod>
+    <descrip>PULSO PU PARA CASIO F-305 HEB/MET. #24</descrip>
+    <calibre>24</calibre>
+    <color>1</color>
+    <partes>24.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5476</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK #16</descrip>
+    <calibre>16</calibre>
+    <color>1</color>
+    <partes>16.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5532S</codprod>
+    <descrip>PULSO PU GRABADO CULEBRA NEGRO # 24</descrip>
+    <calibre>12,14,16,18,20,22,24</calibre>
+    <color>1,16,4,2</color>
+    <partes>12.1,12.16,12.4,14.1,14.16,14.4,16.1,16.16,16.4,18.1,18.16,18.2,20.1,20.16,20.2,22.1,22.16,22.2,24.1,24.16,24.2</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5541SP</codprod>
+    <descrip>PULSO PEGASO PU NEGRO #24</descrip>
+    <calibre>22</calibre>
+    <color>1</color>
+    <partes>22.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5573S</codprod>
+    <descrip>PULSO PU NEGRO #18</descrip>
+    <calibre>18</calibre>
+    <color>1</color>
+    <partes>18.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5584SP</codprod>
+    <descrip>PULSO PEGASO PU PARA G-SHOCK #20</descrip>
+    <calibre>20</calibre>
+    <color>1</color>
+    <partes>20.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5608SP</codprod>
+    <descrip>PULSO PEGASO PU PARA G-SHOCK #20</descrip>
+    <calibre>20</calibre>
+    <color>1</color>
+    <partes>20.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5610S</codprod>
+    <descrip>PULSO PEGASO PU HEBILLA METALICA #18</descrip>
+    <calibre>18</calibre>
+    <color>1</color>
+    <partes>18.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5612P</codprod>
+    <descrip>PULSO PEGASO PU HEBILLA PLASTICO #18</descrip>
+    <calibre>18</calibre>
+    <color>1</color>
+    <partes>18.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5612S</codprod>
+    <descrip>PULSO PEGASO PU HEBILLA METALICA #18</descrip>
+    <calibre>18</calibre>
+    <color>1</color>
+    <partes>18.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5650SP</codprod>
+    <descrip>PULSO PEGASO PU NEGRO #24</descrip>
+    <calibre>24</calibre>
+    <color>1</color>
+    <partes>24.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5659SP</codprod>
+    <descrip>PULSO PEGASO PU NEGRO #27</descrip>
+    <calibre>27</calibre>
+    <color>1</color>
+    <partes>27.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5666SP</codprod>
+    <descrip>PULSO PEGASO NEGRO PARA G-SHOCK #15</descrip>
+    <calibre>15</calibre>
+    <color>1</color>
+    <partes>15.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>5723SP</codprod>
+    <descrip>PULSO PEGASO PU NEGRO PARA G-SHOCK</descrip>
+    <calibre />
+    <color>1</color>
+    <partes>1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>574P</codprod>
+    <descrip>PULSO PU HEBILLA PLASTICA #18</descrip>
+    <calibre>18</calibre>
+    <color>1</color>
+    <partes>18.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>574S</codprod>
+    <descrip>PULSO PU HEBILLA ACERO #18</descrip>
+    <calibre>18</calibre>
+    <color>1</color>
+    <partes>18.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>577S</codprod>
+    <descrip>PULSO PU DE UÑA NEGRA</descrip>
+    <calibre />
+    <color>1</color>
+    <partes>1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>582P</codprod>
+    <descrip>PULSO PU TELEMEMO HEBILLA PLASTICA #20</descrip>
+    <calibre>18,20</calibre>
+    <color>1</color>
+    <partes>18.1,20.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>582S</codprod>
+    <descrip>PULSO PU TELEMEMO HEBILLA ACERO #20</descrip>
+    <calibre>20</calibre>
+    <color>1</color>
+    <partes>20.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>6002SP</codprod>
+    <descrip>PULSO PEGASO PU VERDE M PARA G-SHOCK #24</descrip>
+    <calibre>24</calibre>
+    <color>1,10,11,16,19</color>
+    <partes>24.1,24.10,24.11,24.16,24.19</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>6009S</codprod>
+    <descrip>PULSO PU PARA G-SHOCK #24</descrip>
+    <calibre>24</calibre>
+    <color>1</color>
+    <partes>24.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>6009SP</codprod>
+    <descrip>PULSO PU PARA G-SHOCK TRANSPARENTE #24</descrip>
+    <calibre>24</calibre>
+    <color>0,11M,13M,16,19M,5,5M</color>
+    <partes>24.0,24.11,24.11M,24.13M,24.16,24.19M,24.1M,24.5,24.5M</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>6015SP</codprod>
+    <descrip>PULSO PEGASO PU NEGRO #18</descrip>
+    <calibre>18</calibre>
+    <color>1</color>
+    <partes>18.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>657P</codprod>
+    <descrip>PULSO PU HEBILLA PLASTICA #22</descrip>
+    <calibre>20,22</calibre>
+    <color>1</color>
+    <partes>20.1,22.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>657S</codprod>
+    <descrip>PULSO PU HEBILLA ACERO #22</descrip>
+    <calibre>20,22</calibre>
+    <color>1</color>
+    <partes>20.1,22.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>671P</codprod>
+    <descrip>PULSO PU HEBILLA PLASTICA #22</descrip>
+    <calibre>18,20,22</calibre>
+    <color>1</color>
+    <partes>18.1,20.1,22.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>671S</codprod>
+    <descrip>PULSO PU HEBILLA ACERO #22</descrip>
+    <calibre>18,20,22</calibre>
+    <color>1</color>
+    <partes>18.1,20.1,22.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>7002SP</codprod>
+    <descrip>PULSO PEGASO PU NEGRO #24</descrip>
+    <calibre>24</calibre>
+    <color>1</color>
+    <partes>24.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>7011S</codprod>
+    <descrip>PULSO QELLO PU VERDE MILITAR #18</descrip>
+    <calibre>18</calibre>
+    <color>1,11,16</color>
+    <partes>18.1,18.11,18.16,18.6</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>7012S</codprod>
+    <descrip>PULSO QELLO PU VERDE MILITAR HEB. M. #18</descrip>
+    <calibre>18</calibre>
+    <color>1,10,11,16,19</color>
+    <partes>18.1,18.10,18.11,18.16,18.19,18.6</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>8098SP</codprod>
+    <descrip>PULSO PEGASO PU NEGRO #16</descrip>
+    <calibre>16</calibre>
+    <color>1</color>
+    <partes>16.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>8828</codprod>
+    <descrip>PULSO Q&amp;Q PLSTICA #14</descrip>
+    <calibre>14,18</calibre>
+    <color>1</color>
+    <partes>14.1,18.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>8829SP</codprod>
+    <descrip>PULSO PVC NEGRO #18</descrip>
+    <calibre>18</calibre>
+    <color>1</color>
+    <partes>18.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>9186P</codprod>
+    <descrip>PULSO PVC TELEMEMO HEBILLA PLASTICA #20</descrip>
+    <calibre>20</calibre>
+    <color>1</color>
+    <partes>20.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>9186S</codprod>
+    <descrip>PULSO PVC TELEMEMO HEBILLA ACERO #20</descrip>
+    <calibre>20</calibre>
+    <color>1</color>
+    <partes>20.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>9596S</codprod>
+    <descrip>PULSO TRANSPARENTE VERDE #18</descrip>
+    <calibre>12,18</calibre>
+    <color>0,11,14,9</color>
+    <partes>12.0,12.11,12.14,12.9,18.0,18.11</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>9602P</codprod>
+    <descrip>PULSO PU PARA CASIO #16</descrip>
+    <calibre>16,18</calibre>
+    <color>1</color>
+    <partes>16.1,18.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>B099BK</codprod>
+    <descrip>PULSO ACERO ENTERIZO PAVONADO  #20</descrip>
+    <calibre>16,18,20</calibre>
+    <color />
+    <partes>16,18,20</partes>
+    <codinst>1054</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>B099DB</codprod>
+    <descrip>PULSO ACERO ENTERIZO AZUL PETROLEO  #20</descrip>
+    <calibre>16,20</calibre>
+    <color />
+    <partes>16,20</partes>
+    <codinst>1054</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>B099G</codprod>
+    <descrip>PULSO ACERO ENTERIZO ORO ROSA #20</descrip>
+    <calibre>16,18,20</calibre>
+    <color />
+    <partes>16,18,20</partes>
+    <codinst>1054</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>B099RG</codprod>
+    <descrip>PULSO ACERO ENTERIZO ORO ROSA #18</descrip>
+    <calibre>16,18</calibre>
+    <color />
+    <partes>16,18</partes>
+    <codinst>1054</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>B099S</codprod>
+    <descrip>PULSO ACERO ENTERIZO #20</descrip>
+    <calibre>18,20</calibre>
+    <color />
+    <partes>18,20</partes>
+    <codinst>1054</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>C201</codprod>
+    <descrip>PULSO CONDOR T/CUERO TAN #24</descrip>
+    <calibre>12,14,16,18,20,22,24,26</calibre>
+    <color>1,16,2,22,3</color>
+    <partes>12.1,12.16,12.2,12.22,12.3,14.1,14.16,14.2,14.22,14.3,16.1,16.16,16.2,16.22,16.3,18.1,18.16,18.2,18.22,18.3,20.1,20.16,20.2,20.22,20.3,22.1,22.16,22.2,22.22,22.3,24.1,24.16,24.2,24.22,24.3,26.22</partes>
+    <codinst>1307</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>C203</codprod>
+    <descrip>PULSO CUERO TORTUGA ABOLLONADA TAN #20</descrip>
+    <calibre>12,14,16,18,20,22,24,26</calibre>
+    <color>1,16,2,3,22</color>
+    <partes>12.1,12.16,12.2,12.3,12.6,14.1,14.16,14.2,14.3,14.6,16.1,16.16,16.2,16.3,16.6,18.1,18.16,18.2,18.22,18.3,18.6,20.1,20.16,20.2,20.22,20.3,20.6,22.1,22.16,22.2,22.22,22.3,22.6,24.1,24.16,24.2,24.22,24.3,24.6,26.1,26.2</partes>
+    <codinst>1307</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>C206</codprod>
+    <descrip>PULSO CONDOR 2 COSTURAS NEGRO H/ROJ#22</descrip>
+    <calibre>22</calibre>
+    <color>106,116</color>
+    <partes>22.106,22.116</partes>
+    <codinst>1307</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>C207</codprod>
+    <descrip>PULSO CONDOR ABOLLONADO NEGRO #24</descrip>
+    <calibre>12,18,20,22,24</calibre>
+    <color>1,4</color>
+    <partes>12.1,12.4,18.1,18.4,20.1,20.4,22.1,22.4,24.1,24.4</partes>
+    <codinst>1307</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>C208</codprod>
+    <descrip>PULSO CONDOR PLANO COCODRILO VERDE AZ#24</descrip>
+    <calibre>12,14,16,18,20,22,24</calibre>
+    <color>1,10,12,4,9V,14,6</color>
+    <partes>12.1,12.10,12.12,12.14,12.2,12.22,12.4,12.6,12.9,12.9V,14.10,14.12,14.14,14.2,14.22,14.4,14.6,14.9,14.9V,16.1,16.10,16.12,16.14,16.2,16.22,16.4,16.6,16.9,16.9V,18.1,18.10,18.12,18.14,18.2,18.22,18.4,18.6,18.9,18.9V,20.1,20.10,20.12,20.14,20.2,20.22,20.4,20.6,20.9,20.9V,22.1,22.10,22.12,22.14,22.22,22.4,22.6,22.9,22.9V,24.1,24.10,24.2,24.22,24.4,24.6,24.9V</partes>
+    <codinst>1307</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>J8043</codprod>
+    <descrip>PULSO SILICONA NEGRO CHAPA METALICO#18</descrip>
+    <calibre>18</calibre>
+    <color>1</color>
+    <partes>18.1</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>J8083</codprod>
+    <descrip>PULSO SILICONA NEGRO CHAPA METALICO#24</descrip>
+    <calibre>20,24</calibre>
+    <color>1</color>
+    <partes>20.1,24.1</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>J8085</codprod>
+    <descrip>PULSO SILICONA CHAPA METALICO #22</descrip>
+    <calibre>22</calibre>
+    <color>1,2</color>
+    <partes>22.1,22.2</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>K001</codprod>
+    <descrip>PULSO PEGASO PU G-SHOCK #26 HEB. MET.</descrip>
+    <calibre>26</calibre>
+    <color>1</color>
+    <partes>26.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>K002</codprod>
+    <descrip>PULSO PEGASO PARA G-SHOCK NEGRO</descrip>
+    <calibre>16</calibre>
+    <color>1</color>
+    <partes>16.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>K003</codprod>
+    <descrip>PULSO PEGASO SILICONA ROJO.#26</descrip>
+    <calibre>26</calibre>
+    <color>13,16,2,22</color>
+    <partes>26.1,26.13,26.16,26.2,26.22,26.6</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>K005</codprod>
+    <descrip>PISA PULSO DE SILICONA NEGRO #28</descrip>
+    <calibre>14,16,18,20,22,24,26,28,30</calibre>
+    <color>22,1</color>
+    <partes>14.22,16.22,18.22,20.22,22.22,24.1,26.1,26.22,28.1,28.22,30.22</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>K007</codprod>
+    <descrip>PULSO PEGASO CUERO CAFE</descrip>
+    <calibre>32</calibre>
+    <color>1,2</color>
+    <partes>32.1,32.2</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>LRW200S</codprod>
+    <descrip>PULSO PU PARA CASIO LRW200 NEGRO #14</descrip>
+    <calibre>14</calibre>
+    <color>1,9V</color>
+    <partes>14.1,14.22,14.9V</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>MRW200S</codprod>
+    <descrip>PULSO PEGASO PU ROJO HEBILLA METAL #18</descrip>
+    <calibre>18</calibre>
+    <color>1,16,22</color>
+    <partes>18.1,18.16,18.22,18.6</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>MS01</codprod>
+    <descrip>PULSO PEGASO SILICONA NEGRO AZ/OSC.#24</descrip>
+    <calibre>24</calibre>
+    <color>1,16</color>
+    <partes>24.1,24.16</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>MS01G</codprod>
+    <descrip>PULSO SILICONA BLANCO HEB. DORADA #22</descrip>
+    <calibre>22</calibre>
+    <color>22</color>
+    <partes>22.22</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>MS02</codprod>
+    <descrip>PULSO PEGASO SILICONA AZUL OSCURO #34</descrip>
+    <calibre>34</calibre>
+    <color>16</color>
+    <partes>34.16</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>MS03</codprod>
+    <descrip>PULSO PEGASO SILICONA ROJO #20</descrip>
+    <calibre>18,20,22,24</calibre>
+    <color>21,9,6,22</color>
+    <partes>18.21,18.9,20.1,20.6,20.9,22.22,24.1,24.22</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>MS04</codprod>
+    <descrip>PULSO SILICONA AZUL REY #26</descrip>
+    <calibre>26</calibre>
+    <color>1,10,13,16,19,2,21</color>
+    <partes>26.1,26.10,26.13,26.16,26.19,26.2,26.21,26.6,26.9</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>MS05A</codprod>
+    <descrip>PULSO PEGASO SILICONA NEGRO #18</descrip>
+    <calibre>18</calibre>
+    <color>1,2</color>
+    <partes>18.1,18.2</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>MS06</codprod>
+    <descrip>PULSO PEGASO SILICONA ROSADA #22</descrip>
+    <calibre>20,22,24</calibre>
+    <color>1,14,6,22</color>
+    <partes>20.1,22.1,22.14,22.6,24.1,24.22,24.6</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>MS06B</codprod>
+    <descrip>PULSO PEGASO SILICONA NEGRO #20</descrip>
+    <calibre>20</calibre>
+    <color>22,9</color>
+    <partes>20.22,20.9</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>MS07</codprod>
+    <descrip>PULSO PEGASO SILICONA NEGRO #24</descrip>
+    <calibre>22,24</calibre>
+    <color>1,22,19</color>
+    <partes>22.1,22.22,24.1,24.19,24.22</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>MS09</codprod>
+    <descrip>PULSO PEGASO SILICONA VERDE/V #24</descrip>
+    <calibre>18,20,22,24,26</calibre>
+    <color>1,22,21,6</color>
+    <partes>18.1,18.22,20.1,20.22,22.1,22.22,24.1,24.16,24.21,24.22,24.6,26.1,26.22</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>MS12</codprod>
+    <descrip>PULSO SILICONA NEGRO #20</descrip>
+    <calibre>20</calibre>
+    <color>1</color>
+    <partes>20.1</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>MS14</codprod>
+    <descrip>PULSO PEGASO SILICONA NEGRO H/ROJO.#24</descrip>
+    <calibre>20,22,24</calibre>
+    <color>1,116,119,121,10,110,22,106</color>
+    <partes>20.1,20.106,20.116,20.119,20.121,22.1,22.10,22.106,22.110,22.116,22.22,24.1,24.10,24.106,24.116,24.119,24.121,24.19,24.22</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>MS21</codprod>
+    <descrip>PULSO SILICONA VERDE LIMON #26</descrip>
+    <calibre>22,24,26</calibre>
+    <color>22,21,10,15,6</color>
+    <partes>22.22,24.21,26.10,26.15,26.21,26.22,26.6</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>MS23</codprod>
+    <descrip>PULSO PEGASO SILICONA NEGRO H/BLAN.#26</descrip>
+    <calibre>24,26</calibre>
+    <color>1,122</color>
+    <partes>24.1,26.122</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>MS30</codprod>
+    <descrip>PULSO PEGASO SILICONA NEGRO #20</descrip>
+    <calibre>18,20,22</calibre>
+    <color>1,22,16</color>
+    <partes>18.1,18.22,20.1,20.16,20.22,22.22</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>NL345</codprod>
+    <descrip>PULSO NYLON NEGRO #20</descrip>
+    <calibre>20</calibre>
+    <color>1,7</color>
+    <partes>20.1,20.13,20.7</partes>
+    <codinst>1664</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>NL346</codprod>
+    <descrip>PULSO NYLON NEGRO CON  BRAND.BRUJULA #22</descrip>
+    <calibre>22</calibre>
+    <color>0104</color>
+    <partes>22.0104</partes>
+    <codinst>1664</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>NL445S</codprod>
+    <descrip>PULSO NYLON VERDE MILITAR #24</descrip>
+    <calibre>20,22,24</calibre>
+    <color>16,7,13,11</color>
+    <partes>18.11,18.13,20.13,20.16,20.7,22.13,22.16,22.7,24.1,24.11,24.13,24.16,24.7</partes>
+    <codinst>1664</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>NL446S</codprod>
+    <descrip>PULSO NYLON ESTERIZO NEGRO/VINOTINTO #20</descrip>
+    <calibre>20</calibre>
+    <color>108</color>
+    <partes>20.108</partes>
+    <codinst>1664</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>NL580S</codprod>
+    <descrip>PULSO NYLON NEGRO FRANJAS VERDE/ROJO #24</descrip>
+    <calibre>24</calibre>
+    <color>1106,1221,12213,1226,1606,1711,1722</color>
+    <partes>22.1106,22.1221,22.12213,22.1226,22.1606,22.1711,22.1722,24.1106,24.1221,24.12213,24.1226,24.1606,24.1711,24.1722</partes>
+    <codinst>1664</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>NL7015</codprod>
+    <descrip>PULSO NYLON NEGRO #20</descrip>
+    <calibre>24</calibre>
+    <color>1</color>
+    <partes>24.1</partes>
+    <codinst>1664</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P001S</codprod>
+    <descrip>PULSO CUERO PEGASO NEGRO FRANJAS VERD#24</descrip>
+    <calibre>22,24</calibre>
+    <color>010505,010606,011111,011313,012222,020505</color>
+    <partes>22.010505,22.010606,22.011111,22.011313,22.012222,22.020505,24.010505,24.010606,24.011111,24.011313,24.012222,24.020505</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P002S</codprod>
+    <descrip>PULSO PEGASO CUERO 3 COST. NEG.H/VERD#24</descrip>
+    <calibre>24</calibre>
+    <color>121,122</color>
+    <partes>22.121,22.122,24.121,24.122</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P003S</codprod>
+    <descrip>PULSO PEGASO PERF. CUERO NEGRO H.VERD#24</descrip>
+    <calibre>20,22,24</calibre>
+    <color>105,111,122,101,106,116</color>
+    <partes>20.105,20.106,20.111,20.116,20.122,22.101,22.105,22.106,22.111,22.116,22.122,24.105,24.106,24.111,24.116,24.122</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P004S</codprod>
+    <descrip>PULSO PEGASO CUERO NEGRO VERDE #24</descrip>
+    <calibre>20,22,24</calibre>
+    <color>101,107,111,116,122,102,106</color>
+    <partes>20.101,20.102,20.106,20.107,20.111,20.116,20.122,22.102,22.106,22.107,22.111,22.116,22.122,24.102,24.106,24.107,24.111,24.116,24.122</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P009S</codprod>
+    <descrip>PULSO PEGASO CUERO GRASO TAN #22</descrip>
+    <calibre>22</calibre>
+    <color>101,303</color>
+    <partes>22.101,22.303</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P024S</codprod>
+    <descrip>PULSO PEGASO CUERO TAN P/P ANCHO #24</descrip>
+    <calibre>18,20,22,24</calibre>
+    <color>101,122,1616,1622,202,222,303,322</color>
+    <partes>18.101,18.122,18.1616,18.1622,18.202,18.222,18.303,20.101,20.122,20.1616,20.1622,20.202,20.222,20.303,22.101,22.122,22.1616,22.1622,22.202,22.222,22.303,22.322,24.101,24.122,24.1616,24.1622,24.202,24.222,24.303</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P1010</codprod>
+    <descrip>PULSO PLASTICO G-SHOCK</descrip>
+    <calibre>16</calibre>
+    <color>1</color>
+    <partes>16.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P1011SP</codprod>
+    <descrip>PULSO PVC PARA BABY-G NEGRA #16</descrip>
+    <calibre>14,16</calibre>
+    <color>1</color>
+    <partes>14.1,16.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P1148</codprod>
+    <descrip>PULSO PVC ROSADO PLANO HEBILLA MET#22</descrip>
+    <calibre>12,14,16,18,20,22</calibre>
+    <color>1,12,13,14,15,22,6,9</color>
+    <partes>12.1,12.12,12.13,12.14,12.15,12.22,12.6,12.9,14.1,14.12,14.13,14.14,14.15,14.22,14.6,14.9,16.1,16.12,16.13,16.14,16.15,16.22,16.6,16.9,18.12,18.14,18.15,18.22,18.6,18.9,20.1,20.12,20.13,20.14,20.15,20.22,20.6,20.9,22.12,22.13,22.14,22.15,22.6,22.9</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P1149S</codprod>
+    <descrip>PULSO PVC NEGRO LISO #12</descrip>
+    <calibre>12</calibre>
+    <color>1</color>
+    <partes>12.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P127</codprod>
+    <descrip>PULSO PVC PARA G-SHOCK HEB. METAL#24</descrip>
+    <calibre>18,22,24</calibre>
+    <color>1</color>
+    <partes>18.1,22.1,24.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P138G</codprod>
+    <descrip>PULSO CUERO PEGASO PLANO TAN #28</descrip>
+    <calibre>10,12,14,16,18,20,22,24,26,28,8</calibre>
+    <color>2,3,4,1,16</color>
+    <partes>10.2,10.3,10.4,12.1,12.16,12.3,12.4,14.4,16.1,16.2,16.3,16.4,18.1,18.16,18.22,18.4,20.1,20.16,20.2,20.4,22.16,22.4,24.2,24.4,26.1,26.4,28.1,28.2,28.3,28.4,8.2</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P138S</codprod>
+    <descrip>PULSO CUERO PEGASO PLANO TAN #18</descrip>
+    <calibre>10,12,14,16,18,20,22,24,26</calibre>
+    <color>1,2,3,4,16</color>
+    <partes>10.1,10.2,10.3,10.4,12.1,12.16,12.2,12.3,12.4,14.16,14.2,14.4,16.16,16.2,16.3,16.4,18.1,18.16,18.3,18.4,20.1,20.16,20.2,20.4,22.1,22.16,22.2,22.4,24.1,24.16,24.2,24.4,26.1,26.2</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P200</codprod>
+    <descrip>PULSO PVC PARA G-SHOCK #22</descrip>
+    <calibre>18,20,22,24</calibre>
+    <color>1</color>
+    <partes>18.1,20.1,22.1,24.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P2005</codprod>
+    <descrip>PULSO PLASTICO PARA CASIO NEGRO  #12</descrip>
+    <calibre>12</calibre>
+    <color>1</color>
+    <partes>12.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P204P</codprod>
+    <descrip>PULSO PVC NEGRO #18</descrip>
+    <calibre>18</calibre>
+    <color>1</color>
+    <partes>18.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P204S</codprod>
+    <descrip>PULSO PVC NEGRO HEBILLA METAL #18</descrip>
+    <calibre>18,22</calibre>
+    <color>1</color>
+    <partes>18.1,22.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P259S</codprod>
+    <descrip>PULSO PVC NEGRO HEBILLA METAL #20</descrip>
+    <calibre>20</calibre>
+    <color>1</color>
+    <partes>20.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P260P</codprod>
+    <descrip>PULSO PVC PARA CASIO REDONDO NEGR #16</descrip>
+    <calibre>16</calibre>
+    <color>1</color>
+    <partes>16.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P283</codprod>
+    <descrip>PULSO PVC PARA F-91 #20</descrip>
+    <calibre>12,20</calibre>
+    <color>1</color>
+    <partes>12.1,18.1,20.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P283S</codprod>
+    <descrip>PULSO PVC PARA F-91 #12</descrip>
+    <calibre>12</calibre>
+    <color>1</color>
+    <partes>12.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P321P</codprod>
+    <descrip>PULSO PVC DATABANK HEBILLA PLASTICA #22</descrip>
+    <calibre>20</calibre>
+    <color>1</color>
+    <partes>20.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P321S</codprod>
+    <descrip>PULSO PVC HEBILLA ACERO #20</descrip>
+    <calibre>20,22</calibre>
+    <color>1</color>
+    <partes>20.1,22.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P3304AS</codprod>
+    <descrip>PULSO PVC NEGRO ORO ROSA HEB. PLAT. #16</descrip>
+    <calibre>16</calibre>
+    <color>0117,1617</color>
+    <partes>16.0117,16.1617</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P3304S</codprod>
+    <descrip>PULSO PVC TIPO METAL PAVONADO #14</descrip>
+    <calibre>14,18,20,22</calibre>
+    <color>01,16,17,18,2</color>
+    <partes>14.01,14.16,14.17,14.18,14.2,18.1,18.16,18.17,18.18,18.2,18.7,20.1,20.16,20.17,20.18,20.2,20.7,22.16,22.18,22.2,22.7</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P3342S</codprod>
+    <descrip>PULSO PVC PLATEADA HEBILLA PLATEADA #18</descrip>
+    <calibre>18</calibre>
+    <color>7</color>
+    <partes>18.7</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P3343BR</codprod>
+    <descrip>PULSO PVC MARRON HEBILLA MARRON #22</descrip>
+    <calibre>22</calibre>
+    <color>2</color>
+    <partes>22.2</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P3343G</codprod>
+    <descrip>PULSO PVC DPRADO HEBILLA DORADA #22</descrip>
+    <calibre>22</calibre>
+    <color>18</color>
+    <partes>22.18</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P3343RG</codprod>
+    <descrip>PULSO PVC ORO ROSA HEB. O ROSA #22</descrip>
+    <calibre>22</calibre>
+    <color>17</color>
+    <partes>22.17</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P3343S</codprod>
+    <descrip>PULSO PVC PLATEADA HEBILLA PLATEADA #22</descrip>
+    <calibre>22</calibre>
+    <color>1,7</color>
+    <partes>22.1,22.7</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P337</codprod>
+    <descrip>PULSO PVC HEBILLA METALICO #24</descrip>
+    <calibre>18,20,22,24</calibre>
+    <color>1</color>
+    <partes>18.1,20.1,22.1,24.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P338</codprod>
+    <descrip>PULSO PVC PARA CASIO G-SHOCK #30</descrip>
+    <calibre>24,28,30</calibre>
+    <color>1</color>
+    <partes>24,28,30.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P339</codprod>
+    <descrip>PULSO PVC TELEMEMO #22</descrip>
+    <calibre>20,22</calibre>
+    <color>1</color>
+    <partes>20.1,22.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P3467S</codprod>
+    <descrip>PULSO PVC PARA G-SHOCK</descrip>
+    <calibre>1</calibre>
+    <color />
+    <partes>1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P351S</codprod>
+    <descrip>PULSO PVC  HEBILLA ACERO #24</descrip>
+    <calibre>18,24</calibre>
+    <color>1</color>
+    <partes>18.1,24.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P356P</codprod>
+    <descrip>PULSO PVC TERMICA HEBILLA PLASTICA #16</descrip>
+    <calibre>16</calibre>
+    <color>1</color>
+    <partes>16.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P356S</codprod>
+    <descrip>PULSO PVC TERMICA  HEBILLA ACERO #16</descrip>
+    <calibre>16</calibre>
+    <color>1</color>
+    <partes>16.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P398P</codprod>
+    <descrip>PULSO PVC  C/REMOTO HEBILLA PLASTICA #22</descrip>
+    <calibre>22</calibre>
+    <color>1</color>
+    <partes>22.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P398S</codprod>
+    <descrip>PULSO PVC C/REMOTO  HEBILLA ACERO #22</descrip>
+    <calibre>22</calibre>
+    <color>1</color>
+    <partes>22.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P5014SP</codprod>
+    <descrip>PULSO PVC PARA G-SHOCK NEGRA HEB. MET#24</descrip>
+    <calibre>24</calibre>
+    <color>1</color>
+    <partes>24.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P5017SP</codprod>
+    <descrip>PULSO PVC NEGRO HEBILLA METAL #22</descrip>
+    <calibre>22</calibre>
+    <color>1</color>
+    <partes>22.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P502S</codprod>
+    <descrip>PULSO PEGASO CUERO SILICONA NEGRO R.#22</descrip>
+    <calibre>22</calibre>
+    <color>0101,0106,0110,0116,0119,0201</color>
+    <partes>22.0101,22.0106,22.0110,22.0116,22.0119,22.0201</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P5268S</codprod>
+    <descrip>PULSO PVC NEGRO #18</descrip>
+    <calibre>18</calibre>
+    <color>1</color>
+    <partes>18.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P5476S</codprod>
+    <descrip>PULSO PVC PARA G-SHOCK #16</descrip>
+    <calibre>16</calibre>
+    <color>1</color>
+    <partes>16.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P5514SP</codprod>
+    <descrip>PULSO PVC NEGRO HEBILLA METAL 24</descrip>
+    <calibre>24</calibre>
+    <color>1</color>
+    <partes>24.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P5532S</codprod>
+    <descrip>PULSO PVC GRABADO CULEBRA NEGRO #18</descrip>
+    <calibre>18</calibre>
+    <color>1</color>
+    <partes>18.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P577P</codprod>
+    <descrip>PULSO PVC HEBILLA PLASTICA NEGRO</descrip>
+    <calibre>1</calibre>
+    <color />
+    <partes>1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P577SP</codprod>
+    <descrip>PULSO PVC NEGRA HEBILLA METAL</descrip>
+    <calibre>1</calibre>
+    <color />
+    <partes>1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P582P</codprod>
+    <descrip>PULSO PVC TELEMEMO HEBILLA PLASTICA #20</descrip>
+    <calibre>18,20</calibre>
+    <color>1</color>
+    <partes>18.1,20.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P582S</codprod>
+    <descrip>PULSO PVC TELEMEMO HEBILLA ACERO #20</descrip>
+    <calibre>18,20</calibre>
+    <color>1</color>
+    <partes>18.1,20.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P6009S</codprod>
+    <descrip>PULSO PVC PARA G-SHOCK ·24</descrip>
+    <calibre>24</calibre>
+    <color>1</color>
+    <partes>24.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P657P</codprod>
+    <descrip>PULSO PVC HEBILLA PLASTICA #22</descrip>
+    <calibre>22</calibre>
+    <color>1</color>
+    <partes>22.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P657S</codprod>
+    <descrip>PULSO PVC HEBILLA ACERO #20</descrip>
+    <calibre>20</calibre>
+    <color>1</color>
+    <partes>20.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P671P</codprod>
+    <descrip>PULSO PVC NEGRO #22 HEBILLA PLASTICA</descrip>
+    <calibre>18,22</calibre>
+    <color>1</color>
+    <partes>18.1,22.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P7011S</codprod>
+    <descrip>PULSO PVC VERDE MILITAR #18</descrip>
+    <calibre>18</calibre>
+    <color>1,11,16</color>
+    <partes>18.1,18.11,18.16</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P7012S</codprod>
+    <descrip>PULSO PVC NEGRO HEBILLA METAL #18</descrip>
+    <calibre>18</calibre>
+    <color>1</color>
+    <partes>18.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P9282S</codprod>
+    <descrip>PULSO PEGASO CUERO NEGRO 2 COST. #24</descrip>
+    <calibre>24</calibre>
+    <color>101</color>
+    <partes>24.101</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>P9308S</codprod>
+    <descrip>PULSO PVC 2 CANALES HEBILLA METAL #22</descrip>
+    <calibre>22</calibre>
+    <color>1</color>
+    <partes>22.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>PCA</codprod>
+    <descrip>PULSO PEGASO CUERO ABOLLONADO TAN #30</descrip>
+    <calibre>12,14,16,18,20,22,24,26,28,30</calibre>
+    <color>2222,404,101,202,808,303</color>
+    <partes>12.2222,12.404,14.2222,16.2222,18.2222,18.404,20.101,20.2222,20.404,22.202,22.2222,24.2222,24.404,24.808,26.101,26.202,26.2222,26.303,26.404,28.101,28.202,28.2222,28.303,28.404,30.101,30.202,30.2222,30.303,30.404</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>PELS</codprod>
+    <descrip>PULSO PEGASO EXTRA-LOMO TAN VULC. #24</descrip>
+    <calibre>20,22,24</calibre>
+    <color>001,002,003,016</color>
+    <partes>20.001,20.002,20.003,20.016,22.002,22.003,22.016,24.002,24.003,24.016</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>PELSC</codprod>
+    <descrip>PULSO PEGASO EXTRA-LOMO TAN H. TAN #24</descrip>
+    <calibre>22,24</calibre>
+    <color>1622,222,303,322</color>
+    <partes>22.1622,24.1622,24.222,24.303,24.322</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>PG015AF</codprod>
+    <descrip>PULSO CUERO ENTERIZA CUADRADA #24</descrip>
+    <calibre>20,22,24</calibre>
+    <color>122</color>
+    <partes>20.122,22.122,24.122</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>PG015AY</codprod>
+    <descrip>PULSO CUERO ENTERIZA REDONDO #24</descrip>
+    <calibre>20,22,24</calibre>
+    <color>122</color>
+    <partes>20.122,22.122,24.122</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>PK001</codprod>
+    <descrip>PULSO PVC PARA CASIO PROTREK #26</descrip>
+    <calibre>26</calibre>
+    <color>1</color>
+    <partes>26.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>PK002</codprod>
+    <descrip>PULSO PVC PARA CASIO G-SHOCK</descrip>
+    <calibre>16</calibre>
+    <color>1</color>
+    <partes>16.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>PL558S</codprod>
+    <descrip>PULSO PEGASO NYLON CUERO VERDE NEGRO#22</descrip>
+    <calibre>22</calibre>
+    <color>0401,1101</color>
+    <partes>22.0401,22.1101</partes>
+    <codinst>1664</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>PMS03</codprod>
+    <descrip>PULSO PVC TRENSADA NEGRO #22</descrip>
+    <calibre>18,20,22</calibre>
+    <color>1</color>
+    <partes>18.1,20.1,22.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>PNP1S</codprod>
+    <descrip>PULSO PEGASO ACERO GRUESO #28</descrip>
+    <calibre>12,14,18,20,22,24,26,28</calibre>
+    <color />
+    <partes>12,14,18,20,22,24,26,28</partes>
+    <codinst>1340</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>PNP2S</codprod>
+    <descrip>PULSO PEGASO ACERO GRUESO #28</descrip>
+    <calibre>12,14,18,20,22,24,26,28</calibre>
+    <color />
+    <partes>12,14,18,20,22,24,26,28</partes>
+    <codinst>1340</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>PNP3S</codprod>
+    <descrip>PULSO PEGASO ACERO GRUESO #28</descrip>
+    <calibre>12,14,18,20,22,24,26,28</calibre>
+    <color />
+    <partes>12,14,18,20,22,24,26,28</partes>
+    <codinst>1340</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>PNP4S</codprod>
+    <descrip>PULSO PEGASO ACERO GRUESO #28</descrip>
+    <calibre>12,14,18,20,22,24,26,28</calibre>
+    <color />
+    <partes>12,14,18,20,22,24,26,28</partes>
+    <codinst>1340</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>PNP5S</codprod>
+    <descrip>PULSO PEGASO ACERO GRUESO #28</descrip>
+    <calibre>12,14,18,20,22,24,26,28</calibre>
+    <color />
+    <partes>12,14,18,20,22,24,26,28</partes>
+    <codinst>1340</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>PS1008</codprod>
+    <descrip>PULSO PEGASO ACERO ESTUCHE PASADOR #20</descrip>
+    <calibre>20</calibre>
+    <color />
+    <partes>20</partes>
+    <codinst>1419</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>PS1011</codprod>
+    <descrip>PULSO PEGASO ACERO ESTUCHE PASADOR #18</descrip>
+    <calibre>18</calibre>
+    <color />
+    <partes>18</partes>
+    <codinst>1418</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>PS1012</codprod>
+    <descrip>PULSO PEGASO ACERO ESTUCHE PASADOR #24</descrip>
+    <calibre>24</calibre>
+    <color />
+    <partes>18,24</partes>
+    <codinst>1422</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>PSK01</codprod>
+    <descrip>PULSO PVC PARA CASIO G-SHOCK #20</descrip>
+    <calibre>20</calibre>
+    <color>1</color>
+    <partes>20.1,24.1</partes>
+    <codinst>895</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>PST1005</codprod>
+    <descrip>PULSO PEGASO ACERO CON TERMINAL #24</descrip>
+    <calibre>18,20,22,24</calibre>
+    <color />
+    <partes>18,20,22,24</partes>
+    <codinst>1422</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>PU005</codprod>
+    <descrip>PISA PULSO EN PU NEGRO #14</descrip>
+    <calibre>12,14,24</calibre>
+    <color>1,22</color>
+    <partes>12.1,14.1,24.22</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>PU007</codprod>
+    <descrip>PISA PULSO EN PU ANCHO NEGRO #30</descrip>
+    <calibre>18,20,22,26,28,30</calibre>
+    <color>1</color>
+    <partes>18.1,20.1,22.1,26.1,28.1,30.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>Q010</codprod>
+    <descrip>PULSO QELLO CUERO TORTUGA TAN #24</descrip>
+    <calibre>12,14,16,18,20,22,24</calibre>
+    <color>1,2,22,3</color>
+    <partes>12.1,12.2,12.22,12.3,14.1,14.2,14.3,16.1,16.2,16.3,18.1,18.2,18.22,18.3,20.1,20.2,20.3,22.1,22.22,22.3,24.1,24.2,24.22,24.3</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>Q010S</codprod>
+    <descrip>PULSO QELLO CUERO TORTUGA VINOTINTO  #24</descrip>
+    <calibre>12,14,16,18,20,22,24</calibre>
+    <color>808</color>
+    <partes>12.808,14.808,16.808,18.808,20.808,22.808,24.808</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>Q011</codprod>
+    <descrip>PULSO QELLO CUERO TORTUGA TAN #22</descrip>
+    <calibre>12,18,20,22,24</calibre>
+    <color>1,3,2</color>
+    <partes>12.1,12.3,18.1,18.2,18.3,20.1,20.2,20.3,22.1,22.2,22.3,24.1</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>Q012</codprod>
+    <descrip>PULSO QELLO CUERO CHAROL PLANO VINOT.#16</descrip>
+    <calibre>12,14,16,18,20,22,24</calibre>
+    <color>1,2,8</color>
+    <partes>12.1,12.2,12.8,14.1,14.2,14.8,16.1,16.2,16.8,18.1,18.2,18.8,20.2,20.8,22.2,22.8,24.1,24.2,24.8</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>Q012S</codprod>
+    <descrip>PULSO QELLO CUERO CHAROL PLANO VINOT.#24</descrip>
+    <calibre>18,20,22,24</calibre>
+    <color>202,808,101</color>
+    <partes>18.202,18.808,20.101,22.101,22.202,22.808,24.101,24.202,24.808</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>Q013</codprod>
+    <descrip>PULSO QELLO CUERO GRASO NEGRO/H/NEG. #24</descrip>
+    <calibre>20,22,24</calibre>
+    <color>101,122,404,505</color>
+    <partes>20.101,20.122,20.404,20.505,22.101,22.122,22.404,22.505,24.101,24.122,24.404,24.505</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>Q014</codprod>
+    <descrip>PULSO QELLO CUERO AB. VULC. MARRON #22</descrip>
+    <calibre>18,20,22</calibre>
+    <color>2</color>
+    <partes>18.2,20.2,22.2</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>Q015S</codprod>
+    <descrip>PULSO QELLO CUERO CULEBRA VINOTINTO #22</descrip>
+    <calibre>12,14,16,18,20,22,24</calibre>
+    <color>101,202,606,808</color>
+    <partes>12.101,12.202,14.101,14.202,16.101,18.101,18.202,18.606,18.808,20.101,20.202,20.606,20.808,22.101,22.202,22.606,22.808,24.101,24.202</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>SK01</codprod>
+    <descrip>PULSO PU PARA CASIO G-SHOCK #26</descrip>
+    <calibre>26</calibre>
+    <color>1</color>
+    <partes>26.1</partes>
+    <codinst>970</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>SM05</codprod>
+    <descrip>PULSO SILICONA M.LUNA NEGRO #24</descrip>
+    <calibre>24</calibre>
+    <color>1</color>
+    <partes>24.1</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>SP01</codprod>
+    <descrip>PULSOS PEGASO CUERO</descrip>
+    <calibre>10,12,14,16,18,20,22,24,26,28,30,8</calibre>
+    <color>1,2,22,3</color>
+    <partes>10.1,10.2,10.22,10.3,12.1,12.2,12.22,12.3,14.1,14.2,14.22,14.3,16.1,16.2,16.22,16.3,18.1,18.2,18.22,18.3,20.1,20.2,20.22,20.3,22.1,22.2,22.22,22.3,24.1,24.2,24.22,24.3,26.1,26.2,26.22,26.3,28.1,28.2,28.22,28.3,30.1,30.2,30.22,30.3,8.1,8.2,8.3</partes>
+    <codinst>1386</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>ST03</codprod>
+    <descrip>PULSOS SILICONA DOBLE COLOR NARANJA-BLAN</descrip>
+    <calibre>14</calibre>
+    <color>1022,1922</color>
+    <partes>14.1022,14.1301,14.1322,14.1922,14.2122,14.622</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>ST03A</codprod>
+    <descrip>PULSO SILICONA TRANSPARENTE #16</descrip>
+    <calibre>16</calibre>
+    <color>0</color>
+    <partes>16.0</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>ST05SK</codprod>
+    <descrip>PULSO PEGASO SILICONA NEGRO #14</descrip>
+    <calibre>12,14</calibre>
+    <color>1,22</color>
+    <partes>12.1,12.22,14.1,14.22</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>ST06ASK</codprod>
+    <descrip>PULSO PEGASO SILICONA VERDE LIMON #28</descrip>
+    <calibre>28</calibre>
+    <color>1,10,12,13,14,19,21,22,6</color>
+    <partes>28.1,28.10,28.12,28.13,28.14,28.19,28.21,28.22,28.6,28.9</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>ST09SK</codprod>
+    <descrip>PULSO PEGASO SILICONA NEGRO #28</descrip>
+    <calibre>28</calibre>
+    <color>1</color>
+    <partes>28.1</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>ST16SK</codprod>
+    <descrip>PULSO PEGASO SILICONA ROSADA CLARA #18</descrip>
+    <calibre>18</calibre>
+    <color>14,5,9,L14</color>
+    <partes>18.14,18.5,18.9,18.L14</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>T14A</codprod>
+    <descrip>PULSO PEGASO SILICONA NEGRO #20</descrip>
+    <calibre>20</calibre>
+    <color>1,15,22</color>
+    <partes>20.1,20.15,20.22</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>T14S</codprod>
+    <descrip>PULSO PEGASO SILICONA NEGRO #16</descrip>
+    <calibre>16</calibre>
+    <color>1,22</color>
+    <partes>16.1,16.22</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>T15</codprod>
+    <descrip>PULSO SILICONA PLANO ROSADA #22</descrip>
+    <calibre>12,14,16,18,20,22,24</calibre>
+    <color>12,13,14,15,16,19,22</color>
+    <partes>12.12,12.13,12.14,12.15,12.16,12.19,12.2,12.6,12.9,14.12,14.13,14.14,14.15,14.16,14.19,14.6,14.9,16.12,16.13,16.14,16.15,16.19,16.6,16.9,18.1,18.12,18.14,18.15,18.16,18.19,18.6,18.9,20.15,20.19,20.6,22.1,22.12,22.13,22.14,22.19,22.22,22.6,22.9,24.1,24.22</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>T15A</codprod>
+    <descrip>PULSO SILICONA PLANO AZUL OSCURO #20</descrip>
+    <calibre>20</calibre>
+    <color>16</color>
+    <partes>20.16</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+  <pulso>
+    <codprod>T17</codprod>
+    <descrip>PULSO SILICONA ROJO CON APLIQ/PIED.#20</descrip>
+    <calibre>20,22</calibre>
+    <color>1,12,15,16,9</color>
+    <partes>20.1,20.12,20.15,20.16,20.6,20.9,22.1</partes>
+    <codinst>1389</codinst>
+    <impuesto>0,0000</impuesto>
+  </pulso>
+</pulsos>

@@ -1,0 +1,4234 @@
+{
+  "productos": [
+    {
+      "CodProd": "1010.16.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK #16",
+      "CodInst": 1698,
+      "Precio": "3025.2101",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1010.16.11",
+      "Descrip": "PULSO PEGASO PARA CASIO G-SHOCK HEB/ME",
+      "CodInst": 1698,
+      "Precio": "3025.2101",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1010.16.11M",
+      "Descrip": "PULSO PEGASO PU G-SHOCK #16 HEBILLA ME",
+      "CodInst": 1698,
+      "Precio": "3529.4118",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1010.16.13",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK AZUL O.#16",
+      "CodInst": 1698,
+      "Precio": "3025.2101",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1010.16.13M",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK AZ/CAM.#16",
+      "CodInst": 1698,
+      "Precio": "3529.4118",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1010.16.16",
+      "Descrip": "PULSO PEGASO PARA CASIO G-SHOCK HEB/ME",
+      "CodInst": 1698,
+      "Precio": "3025.2101",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1010.16.21",
+      "Descrip": "PULSO PEGASO PU G-SHOCK #16 HEBILLA ME",
+      "CodInst": 1698,
+      "Precio": "3025.2101",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1010.16.21M",
+      "Descrip": "PULSO PU G-SHOCK VERD/L CAM. HEB/M #16",
+      "CodInst": 1698,
+      "Precio": "3529.4118",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1010.16.22",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK BLANCO #16",
+      "CodInst": 1698,
+      "Precio": "3025.2101",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1010.16.5M",
+      "Descrip": "PULSO PU PARA G-SHOCK CACQUI CAMUFLADO",
+      "CodInst": 1698,
+      "Precio": "3529.4118",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1010.16.6",
+      "Descrip": "PULSO PEGASO PARA CASIO G-SHOCK HEB/ME",
+      "CodInst": 1698,
+      "Precio": "3025.2101",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1010.16.6M",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK R.CAMUF#16",
+      "CodInst": 1698,
+      "Precio": "3529.4118",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1010RGP.16.1B",
+      "Descrip": "PULSO PEGASO PU G-SHOCK B. HEB. O.R. #16",
+      "CodInst": 1698,
+      "Precio": "3529.4118",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1010SP.16.0",
+      "Descrip": "PULSO PU TRNASPARENTE G-SHOCK #16 PP/PLA",
+      "CodInst": 1698,
+      "Precio": "3025.2101",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1010SP.16.19M",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK NAR. CAM #16",
+      "CodInst": 1698,
+      "Precio": "3529.4118",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1010SP.16.1B",
+      "Descrip": "PULSO PEGASO PU G-SHOCK BRILLANTE #16",
+      "CodInst": 1698,
+      "Precio": "3025.2101",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1010SP.16.1M",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK NEGRO C. #16",
+      "CodInst": 1698,
+      "Precio": "3025.2101",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1010SP.16.5",
+      "Descrip": "PULSO PEGASO PU G-SHOCK CACQUI #16",
+      "CodInst": 1698,
+      "Precio": "3025.2101",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1010SS.16.13M",
+      "Descrip": "PULSO PEGASO PU AZUL R/CAM.G-SHOCK PP/MT",
+      "CodInst": 1698,
+      "Precio": "3613.4454",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1011RGP.14.1B",
+      "Descrip": "PULSO PEGASO PU  BABY-G HEB. ORO R.#14",
+      "CodInst": 1698,
+      "Precio": "3025.2101",
+      "PrecioInternet": "25210.084",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1011RGP.16.1",
+      "Descrip": "PULSO PEGASO PU G-SHOCK HEB. ORO R.#16",
+      "CodInst": 1698,
+      "Precio": "3025.2101",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1011SP.14.0",
+      "Descrip": "PULSO PEGASO PU  BABY-G TRNASPARENTE #14",
+      "CodInst": 1698,
+      "Precio": "3025.2101",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1011SP.14.05M",
+      "Descrip": "PULSO PEGASO PU  BABY-G  CACQ. MILIT #14",
+      "CodInst": 1698,
+      "Precio": "3025.2101",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1011SP.14.1",
+      "Descrip": "PULSO PEGASO PU BABY-G  #14",
+      "CodInst": 1698,
+      "Precio": "2521.0084",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1011SP.14.11",
+      "Descrip": "PULSO PEGASO PU  BABY-G  VERDE MILIT #14",
+      "CodInst": 1698,
+      "Precio": "3025.2101",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1011SP.14.11M",
+      "Descrip": "PULSO PEGASO PU  BABY-G  VERDE CAMUF #14",
+      "CodInst": 1698,
+      "Precio": "3025.2101",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1011SP.14.13M",
+      "Descrip": "PULSO PEGASO PU  BABY-G AZUL R. CAMUF#14",
+      "CodInst": 1698,
+      "Precio": "3025.2101",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1011SP.14.1B",
+      "Descrip": "PULSO PEGASO PU BABY-G HEB. O.R. NB #14",
+      "CodInst": 1698,
+      "Precio": "3025.2101",
+      "PrecioInternet": "25210.084",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1011SP.14.1M",
+      "Descrip": "PULSO PEGASO PU BABY-G NEGRO CAMUF #14",
+      "CodInst": 1698,
+      "Precio": "2521.0084",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1011SP.14.5",
+      "Descrip": "PULSO PEGASO PU  BABY-G  CACQUI #14",
+      "CodInst": 1698,
+      "Precio": "3025.2101",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1011SP.14.6",
+      "Descrip": "PULSO PEGASO PU  BABY-G  ROJO #14",
+      "CodInst": 1698,
+      "Precio": "3025.2101",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1011SP.14.6M",
+      "Descrip": "PULSO PEGASO PU  BABY-G  ROJO CAMUFL #14",
+      "CodInst": 1698,
+      "Precio": "3025.2101",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1035.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1035.10",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1035.11",
+      "Descrip": "PULSO PEGASO PU G-SHOCK  HEBILLA MET.",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1035.13",
+      "Descrip": "PULSO PEGASO PU G-SHOCK HEBILLA MET.",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1035.16",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1035.21",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1035.22",
+      "Descrip": "PULSO PU PARA CASIO G-SHOK",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1035.6",
+      "Descrip": "PULSO PU PARA CASIO ROJA",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1035.9",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "111.1",
+      "Descrip": "PULSO PU G-SHOCK #16",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "111.10",
+      "Descrip": "PULSO PEGASO PU G-SHOCK #26 HEBILLA ME",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "111.11",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK V/M",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "111.11M",
+      "Descrip": "PULSO PEGASO PU G-SHOCK #26 HEBILLA ME",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "111.13",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK A/R",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "111.13M",
+      "Descrip": "PULSO PU PARA G-SHOCK CAMUFLADO AZUL",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "111.16",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "111.19",
+      "Descrip": "PULSO PEGASO PU G-SHOCK #26 HEBILLA ME",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "111.21",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK V/V",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "111.22",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK BLA",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "111.6",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK ROJ",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "111.7M",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK CAMUF. GRI",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "127.18.1",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #18",
+      "CodInst": 1699,
+      "Precio": "1848.7395",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "127.22.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK #22",
+      "CodInst": 1699,
+      "Precio": "1848.7395",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "127.24.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOK",
+      "CodInst": 1699,
+      "Precio": "1848.7395",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "127.26.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK #26",
+      "CodInst": 1699,
+      "Precio": "1848.7395",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "127.28.1",
+      "Descrip": "PULSO PU PARA  CASIO G-SHOCK #28",
+      "CodInst": 1699,
+      "Precio": "1848.7395",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1602SP.0",
+      "Descrip": "PULSO PEGASO PU G-SHOCK TRANSPARENTE",
+      "CodInst": 1698,
+      "Precio": "3193.2773",
+      "PrecioInternet": "22689.076",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1602SP.1",
+      "Descrip": "PULSO PEGASO PU G-SHOCK NEGRA",
+      "CodInst": 1698,
+      "Precio": "3193.2773",
+      "PrecioInternet": "22689.076",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1607SP.1",
+      "Descrip": "PULSO PEGASO PU G-SHOCK NEGRO",
+      "CodInst": 1698,
+      "Precio": "3781.5126",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1608SP.1",
+      "Descrip": "PULSO PEGASO PU G-SHOCK NEGRO",
+      "CodInst": 1698,
+      "Precio": "4621.8487",
+      "PrecioInternet": "26890.756",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1702SP.1",
+      "Descrip": "PULSO PEGASO PU G-SHOCK NEGRO",
+      "CodInst": 1698,
+      "Precio": "4033.6134",
+      "PrecioInternet": "26890.756",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1806SCH.30.1",
+      "Descrip": "PULSO PEGASO PARA G-SHOCK CHAPA ACERO#30",
+      "CodInst": 1698,
+      "Precio": "5462.1849",
+      "PrecioInternet": "35294.118",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1808SP.1",
+      "Descrip": "PULSO PEGASO PU G-SHOCK NEGRO",
+      "CodInst": 1698,
+      "Precio": "4033.6134",
+      "PrecioInternet": "26890.756",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1810SP.26.1",
+      "Descrip": "PULSO PEGASO PU PARA G-SHOCK #26",
+      "CodInst": 1698,
+      "Precio": "4369.7479",
+      "PrecioInternet": "26890.756",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1810SP.33.1",
+      "Descrip": "PULSO PEGASO PU PARA G-SHOCK #33",
+      "CodInst": 1698,
+      "Precio": "4369.7479",
+      "PrecioInternet": "26890.756",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.18.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK #18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.18.11",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK VERD. M#18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.18.16",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK AZUL O.#18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.18.22",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK BLANCO #18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.18.6",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK ROJA #18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.20.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK #20",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.20.11",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK VERDE M#20",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.20.16",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK AZUL O.#20",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.20.22",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK BLANCO #20",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.20.6",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK ROJO #20",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.22.1",
+      "Descrip": "PULSO PEGASO PU G-SHOCK HEB. MET. #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.22.10",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.22.11",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.22.13",
+      "Descrip": "PULSO PEGASO PU G-SHOCK HEB. MET. #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.22.16",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.22.19",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.22.2",
+      "Descrip": "PULSO PEGASO PU G-SHOCK HEB. MET. #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.22.21",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.22.22",
+      "Descrip": "PULSO PEGASO PARA CASIO G-SHOCK #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.22.6",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.22.9",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.24.1",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #24",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.24.10",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #24",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.24.16",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #24",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.24.19",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #24",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.24.2",
+      "Descrip": "PULSO PEGASO PU G-SHOCK HEB. MET. #24",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.24.21",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #24",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.24.22",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #24",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.24.6",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #24",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.24.9",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #24",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.26.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK #26",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.26.10",
+      "Descrip": "PULSO PEGASO PU G-SHOCK #26 HEBILLA ME",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.26.11",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #26",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.26.13",
+      "Descrip": "PULSO PEGASO PU G-SHOCK HEB. MET. #26",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.26.16",
+      "Descrip": "PULSO PEGASO PARA CASIO G-SHOK AZUL RE",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.26.19",
+      "Descrip": "PULSO PEGASO PU G-SHOCK #26 HEBILLA ME",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.26.2",
+      "Descrip": "PULSO PEGASO PU G-SHOCK HEB. MET. #26",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.26.21",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK VERDE #26",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.26.22",
+      "Descrip": "PULSO PEGASO PARA CASIO G-SHOCK BLANCO",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.26.6",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK ROJA #26",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.26.9",
+      "Descrip": "PULSO CASIO PU PARA CASIO G-SHOCK #26",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "200.28.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK #28",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "2005.12.1",
+      "Descrip": "PULSO PU PARA CASIO #12",
+      "CodInst": 1699,
+      "Precio": "1134.4538",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "204P.22.1",
+      "Descrip": "PULSO PU PARA DATABANK HEBILLA PLAST.#22",
+      "CodInst": 1699,
+      "Precio": "1554.6218",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "204S.22.1",
+      "Descrip": "PULSO PU DATABANK HHEBILLA DE ACERO #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "2145S.28.1",
+      "Descrip": "PULSO PU PARA  G-SHOCK NEGRO #28",
+      "CodInst": 1698,
+      "Precio": "2689.0756",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "254S.18.1",
+      "Descrip": "PULSO PU PARA CASIO TELEMEMO  H.M.#18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "259S.20.1",
+      "Descrip": "PULSO PU 3 VENTANAS HEBILLA METAL #20",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "260P.16.1",
+      "Descrip": "PULSO PU 3 RAYAS HEBILLA PLASTICA #16",
+      "CodInst": 1699,
+      "Precio": "1134.4538",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "260S.16.1",
+      "Descrip": "PULSO PU 3 RAYAS HEBILLA METAL #16",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283P.18.1",
+      "Descrip": "PULSO PU F-91 HEBILLA PLASTICO NEGRO #18",
+      "CodInst": 1699,
+      "Precio": "1512.6050",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283P.18.6",
+      "Descrip": "PULSO PU F-91 HEBILLA PLASTICO ROJO #18",
+      "CodInst": 1699,
+      "Precio": "1512.6050",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.12.1",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO NEGRO #12",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.12.10",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO AMARILLO #12",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.12.11",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO V/MIL #12",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.12.12",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO FUCSIA #12",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.12.13",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO AZ/REY #12",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.12.14",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO ROSADO #12",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.12.15",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO MORADO #12",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.12.16",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO AZ/OSC. #12",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.12.19",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO NARANJA #12",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.12.2",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO MARRON #12",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.12.21",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO V/LIMON #12",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.12.22",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO BLANCO #12",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.12.6",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO ROJO #12",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.12.9",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO AZ/TURQ. #12",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.18.1",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO NEGRO #18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.18.11",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO V/MILIT. #18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.18.12",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO FUCSIA #18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.18.13",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO AZ/REY #18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.18.14",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO ROSADO #18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.18.15",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO MORADO #18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.18.16",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO AZ/OSCURO#18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.18.2",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO MARRON #18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.18.22",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO BLANCO #18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.18.6",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO ROJO #18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "283S.18.9",
+      "Descrip": "PULSO PU F-91 HEBILLA ACERO AZ/TURQ. #18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "304.1",
+      "Descrip": "PULSO PEGASO PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "2521.0084",
+      "PrecioInternet": "18487.395",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "304.11",
+      "Descrip": "PULSO PEGASO PARA CASIO G-SHOCK VERDE",
+      "CodInst": 1698,
+      "Precio": "2521.0084",
+      "PrecioInternet": "18487.395",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "304.13",
+      "Descrip": "PULSO PEGASO PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "2521.0084",
+      "PrecioInternet": "18487.395",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "304.15",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "2521.0084",
+      "PrecioInternet": "18487.395",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "304.19",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "2521.0084",
+      "PrecioInternet": "18487.395",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "304.6",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "2521.0084",
+      "PrecioInternet": "18487.395",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "321P.20.1",
+      "Descrip": "PULSO PU HEBILLA PLASTICA #20",
+      "CodInst": 1699,
+      "Precio": "1176.4706",
+      "PrecioInternet": "11344.538",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "321P.22.1",
+      "Descrip": "PULSO PU HEBILLA PLASTICA #22",
+      "CodInst": 1699,
+      "Precio": "1176.4706",
+      "PrecioInternet": "11344.538",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "321S.20.1",
+      "Descrip": "PULSO PU HEBILLA ACERO #20",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "321S.22.1",
+      "Descrip": "PULSO PU HEBILLA ACERO #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3228.14.1",
+      "Descrip": "PULSO PU PARA CASIO LA111 #14",
+      "CodInst": 1699,
+      "Precio": "1260.5042",
+      "PrecioInternet": "7563.025",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "337.20.1",
+      "Descrip": "PULSO PEGASO PU TELEMEMO #20 HEB. MET.",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "337.22.1",
+      "Descrip": "PULSO PEGASO PU TELEMEMO #22 HEB. MET.",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "337.24.1",
+      "Descrip": "PULSO PU PARA TELEMEMO HEB/METAL #24",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.18.1",
+      "Descrip": "PULSO PEGASO PU G-SHOCK #18 HEB. MET.",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.18.11",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.18.13",
+      "Descrip": "PULSO PEGASO PU G-SHOCK AZ/R H/MET.#18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.18.16",
+      "Descrip": "PULSO PEGASO PU G-SHOCK #26 HEBILLA ME",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.18.2",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK MARRON #18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.18.21",
+      "Descrip": "PULSO PEGASO PU G-SHOCK V/VHEB. MET#18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.18.22",
+      "Descrip": "PULSO PEGASO PU G-SHOCK #26 HEBILLA ME",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.18.6",
+      "Descrip": "PULSO PEGASO PU G-SHOCK RJ/HEB. MET#18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.18.9",
+      "Descrip": "PULSO PEGASO PU G-SHOCK AZ/T.HEB. MET#",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.20.1",
+      "Descrip": "PULSO PEGASO PU G-SHOCK #20 HEB. MET.",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.20.10",
+      "Descrip": "PULSO PEGASO PU G-SHOCK AMAR.MET.#20",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.20.11",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #20",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.20.13",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK AZUL R #20",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.20.16",
+      "Descrip": "PULSO PEGASO PU G-SHOCK AZ/O.MET.#20",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.20.19",
+      "Descrip": "PULSO PEGASO PU G-SHOCK NARANJ.MET.#20",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.20.2",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK MARRON #20",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.20.21",
+      "Descrip": "PULSO PEGASO PU G-SHOCK VERD/V.MET.#20",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.20.22",
+      "Descrip": "PULSO PEGASO PU G-SHOCK BLANC.MET.#20",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.20.6",
+      "Descrip": "PULSO PEGASO PU G-SHOCK ROJO.MET.#20",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.20.9",
+      "Descrip": "PULSO PEGASO PU G-SHOCK AZ/T.MET.#20",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.22.1",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.22.10",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.22.11",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.22.13",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK AZUL R #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.22.16",
+      "Descrip": "PULSO PEGASO PARA CASIO G-SHOCK #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.22.19",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.22.2",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK MARRON #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.22.21",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.22.22",
+      "Descrip": "PULSO PEGASO PU G-SHOCK BLAN/HEB. MET#",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.22.6",
+      "Descrip": "PULSO PEGASO PU G-SHOCK RJ/HEB. MET#22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.22.9",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK AZ/T #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.24.1",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #24",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.24.10",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #24",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.24.11",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #24",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.24.13",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK AZUL R #24",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.24.16",
+      "Descrip": "PULSO PEGASO PU G-SHOCK AZ/O HEB/ M#24",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.24.19",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #24",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.24.2",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK MARRON #24",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.24.21",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #24",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.24.22",
+      "Descrip": "PULSO PEGASO PU G-SHOCK BL/HEB. MET#24",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.24.6",
+      "Descrip": "PULSO PEGASO PU G-SHOCK #26 HEBILLA ME",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.24.9",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK AZ/T #24",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.26.1",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #26",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.26.10",
+      "Descrip": "PULSO PEGASO PU G-SHOCK #26 HEBILLA ME",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.26.11",
+      "Descrip": "PULSO PEGASO PU G-SHOCK #26 HEBILLA ME",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.26.13",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK AZUL R #26",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.26.16",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #26",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.26.19",
+      "Descrip": "PULSO PEGASO PU G-SHOCK #26 HEBILLA ME",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.26.2",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK MARRON #26",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.26.21",
+      "Descrip": "PULSO PEGASO PU G-SHOCK #26 HEBILLA ME",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.26.22",
+      "Descrip": "PULSO PEGASO PU PARA CASIO G-SHOCK #26",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.26.6",
+      "Descrip": "PULSO PEGASO PU G-SHOCK #26 HEBILLA ME",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.26.9",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK AZ/T #26",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.28.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK #28",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.28.11",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK VERDE M#28",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.28.13",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK AZUL R #28",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.28.16",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK AZUL O#28",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.28.2",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK MARRON #28",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.28.22",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK BLANCO #28",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.28.6",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK ROJA #28",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338.30.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK #30",
+      "CodInst": 1698,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "338SP.30.1",
+      "Descrip": "PULSO PEGASO PU G-SHOCK #30 HEB. MET.",
+      "CodInst": 1699,
+      "Precio": "1512.6050",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "339S.20.1",
+      "Descrip": "PULSO PU TELEMEMO HEBILLA ACERO #20",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "339S.22.1",
+      "Descrip": "PULSO PU TELEMEMO HEBILLA ACERO #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "339S.24.1",
+      "Descrip": "PULSO PU TELEMEMO HEBILLA ACERO #24",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "339S.26.1",
+      "Descrip": "PULSO PU TELEMEMO HEBILLA ACERO #26",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3442.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "3193.2773",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3443.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "3781.5126",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3444.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "3193.2773",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3445.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "3193.2773",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3446.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "4033.6134",
+      "PrecioInternet": "28571.429",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3447.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "3193.2773",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3448.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "3529.4118",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3449.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "3193.2773",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3450.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "3781.5126",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3451.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "3193.2773",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3452.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "3781.5126",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3455.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "3529.4118",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3456.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "3529.4118",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3457.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "3781.5126",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3458.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "3781.5126",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3459.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "4621.8487",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3460.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "3193.2773",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3462.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "3193.2773",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3462SP.1L",
+      "Descrip": "PULSO PEGASO PU PARA G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "3529.4118",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3463.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "2941.1765",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3464.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "3193.2773",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3465.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "3193.2773",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3466.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "3193.2773",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3467.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "3529.4118",
+      "PrecioInternet": "22689.076",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3468.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "3193.2773",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3469.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK",
+      "CodInst": 1698,
+      "Precio": "7142.8571",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "351P.20.1",
+      "Descrip": "PULSO PU HEBILLA PLASTICA #20",
+      "CodInst": 1699,
+      "Precio": "1134.4538",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "351S.18.1",
+      "Descrip": "PULSO PEGASO PU PARA CASIO HEB.MET.#18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "351S.20.1",
+      "Descrip": "PULSO PU HEBILLA ACERO #20",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "351S.22.1",
+      "Descrip": "PULSO PU HEBILLA ACERO #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "351S.24.1",
+      "Descrip": "PULSO PU HEBILLA ACERO #24",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "356P.16.1",
+      "Descrip": "PULSO PU ANATOMICO HEBILLA PLASTICA #16",
+      "CodInst": 1699,
+      "Precio": "1134.4538",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "356S.16.1",
+      "Descrip": "PULSO PU ANATOMICO HEBILLA ACERO #16",
+      "CodInst": 1699,
+      "Precio": "1848.7395",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "398P.22.1",
+      "Descrip": "PULSO PU C/REMOTO HEBILLA PLASTICA #22",
+      "CodInst": 1699,
+      "Precio": "1512.6050",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "398S.22.1",
+      "Descrip": "PULSO PU C/REMOTO HEBILLA ACERO #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "4014.22.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK #22",
+      "CodInst": 1698,
+      "Precio": "4033.6134",
+      "PrecioInternet": "20588.235",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "4014.22.10",
+      "Descrip": "PULSO QELLO PU T.G-SHOCK AMARILLO #22",
+      "CodInst": 1698,
+      "Precio": "4033.6134",
+      "PrecioInternet": "20588.235",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "4014.22.11",
+      "Descrip": "PULSO QELLO PU T.G-SHOCK VERDE MIL. #22",
+      "CodInst": 1698,
+      "Precio": "4033.6134",
+      "PrecioInternet": "20588.235",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "4014.22.13",
+      "Descrip": "PULSO QELLO PU T.G-SHOCK AZUL REY #22",
+      "CodInst": 1698,
+      "Precio": "4033.6134",
+      "PrecioInternet": "20588.235",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "4014.22.16",
+      "Descrip": "PULSO QELLO PU T.G-SHOCK AZUL OSCURO #22",
+      "CodInst": 1698,
+      "Precio": "4033.6134",
+      "PrecioInternet": "20588.235",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "4014.22.19",
+      "Descrip": "PULSO QELLO PU T.G-SHOCK NARANJA #22",
+      "CodInst": 1698,
+      "Precio": "4033.6134",
+      "PrecioInternet": "20588.235",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "4014.22.21",
+      "Descrip": "PULSO QELLO PU T.G-SHOCK VERDE LIMON#22",
+      "CodInst": 1698,
+      "Precio": "4033.6134",
+      "PrecioInternet": "20588.235",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "4014.22.22",
+      "Descrip": "PULSO QELLO PU T.G-SHOCK BLANCO #22",
+      "CodInst": 1698,
+      "Precio": "4033.6134",
+      "PrecioInternet": "20588.235",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "4014.22.6",
+      "Descrip": "PULSO QELLO PU T.G-SHOCK ROJO #22",
+      "CodInst": 1698,
+      "Precio": "4033.6134",
+      "PrecioInternet": "20588.235",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "488.1",
+      "Descrip": "PULSO PEGASO PARA CASIO DE UÑA NEGRO",
+      "CodInst": 1698,
+      "Precio": "2352.9412",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5014SP.24.1",
+      "Descrip": "PULSO PEGASO PU G-SHOCK PP/PL.#16X24",
+      "CodInst": 1698,
+      "Precio": "4033.6134",
+      "PrecioInternet": "26890.756",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5014SP.24.11M",
+      "Descrip": "PULSO PEGASO PU G-SHOCK .PP/PL. #16X24",
+      "CodInst": 1698,
+      "Precio": "4033.6134",
+      "PrecioInternet": "26890.756",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5014SP.24.13M",
+      "Descrip": "PULSO PEGASO PU G-SHOCK .PP/PL. #16X24",
+      "CodInst": 1698,
+      "Precio": "4033.6134",
+      "PrecioInternet": "26890.756",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5014SP.24.19M",
+      "Descrip": "PULSO PEGASO PU G-SHOCK .PP/PL. #16X24",
+      "CodInst": 1698,
+      "Precio": "4033.6134",
+      "PrecioInternet": "26890.756",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5014SP.24.1M",
+      "Descrip": "PULSO PEGASO PU G-SHOCK .PP/PL. #16X24",
+      "CodInst": 1698,
+      "Precio": "4033.6134",
+      "PrecioInternet": "26890.756",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5014SP.24.5M",
+      "Descrip": "PULSO PEGASO PU G-SHOCK .PP/PL. #16X24",
+      "CodInst": 1698,
+      "Precio": "4033.6134",
+      "PrecioInternet": "26890.756",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5014SS.24.1",
+      "Descrip": "PULSO PEGASO PU G-SHOCK PP/MET. #16X24",
+      "CodInst": 1698,
+      "Precio": "4705.8824",
+      "PrecioInternet": "30252.101",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5014SS.24.13M",
+      "Descrip": "PULSO PEGASO PU G-SHOCK PP/MET. #16X24",
+      "CodInst": 1698,
+      "Precio": "4705.8824",
+      "PrecioInternet": "30252.101",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5014SS.24.19M",
+      "Descrip": "PULSO PEGASO PU G-SHOCK H/MET.PP/MET.#24",
+      "CodInst": 1698,
+      "Precio": "4705.8824",
+      "PrecioInternet": "30252.101",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "50163SP.26.1",
+      "Descrip": "PULSO PU MEDIALUNA #26",
+      "CodInst": 1699,
+      "Precio": "4621.8487",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5054.1",
+      "Descrip": "PULSO PEGASO PARA CASIO TERMINAL ESPEC",
+      "CodInst": 1699,
+      "Precio": "3025.2101",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5148.18.119",
+      "Descrip": "PULSO PEGASO PU NEGRO APILQUE NARANJA",
+      "CodInst": 1699,
+      "Precio": "5546.2185",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5148.18.121",
+      "Descrip": "PULSO PEGASO PU NEGRO APILQUE VERDE",
+      "CodInst": 1699,
+      "Precio": "5546.2185",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5157.20.1",
+      "Descrip": "PULSO PEGASO PU PARA CASIO",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5158.15.1",
+      "Descrip": "PULSO PU PARA CASIO UÑA # 15 HEB. MET.",
+      "CodInst": 1699,
+      "Precio": "4873.9496",
+      "PrecioInternet": "31932.773",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5200.20.1",
+      "Descrip": "PULSO PU DE ENCAJE #20",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5202.24.1",
+      "Descrip": "PULSO PEGASO PU NEGRO #24",
+      "CodInst": 1699,
+      "Precio": "4033.6134",
+      "PrecioInternet": "20588.235",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5268.16.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK #16",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5270.22.1",
+      "Descrip": "PULSO PU PERFORADO #22",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5270.24.1",
+      "Descrip": "PULSO PU PERFORADO #24",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5271.32.1",
+      "Descrip": "PULSO PU EN U HEBILA METAL #32",
+      "CodInst": 1698,
+      "Precio": "6302.5210",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5281.24.1",
+      "Descrip": "PULSO PU MEDIA LUNA H/METAL #24",
+      "CodInst": 1699,
+      "Precio": "3193.2773",
+      "PrecioInternet": "18487.395",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5282.22.1",
+      "Descrip": "PULSO PU HEBILLA METAL #22",
+      "CodInst": 1699,
+      "Precio": "2941.1765",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5284.24.1",
+      "Descrip": "PULSO PU HEBILLA METAL #24",
+      "CodInst": 1699,
+      "Precio": "3025.2101",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5285.24.1",
+      "Descrip": "PULSO PU PULSO METAL #24",
+      "CodInst": 1699,
+      "Precio": "2521.0084",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5287.24.2",
+      "Descrip": "PULSO PEGASO PU MEDIA LUNA CAFE #24",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5287.24.6",
+      "Descrip": "PULSO PEGASO PU MEDIA LUNA ROJO #24",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5327.22.1",
+      "Descrip": "PULSO PEGASO PU PARA CASIO #22",
+      "CodInst": 1699,
+      "Precio": "2352.9412",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5328.20.1",
+      "Descrip": "PULSO PU DE UÑA ENCAJE #20",
+      "CodInst": 1699,
+      "Precio": "2521.0084",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5329.20.106",
+      "Descrip": "PULSO PEGASO PU NEGRO APILQUE ROJO",
+      "CodInst": 1699,
+      "Precio": "4741.3793",
+      "PrecioInternet": "15517.241",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5329.20.110",
+      "Descrip": "PULSO PEGASO PU NEGRO APILQUE AMARILLO",
+      "CodInst": 1699,
+      "Precio": "4741.3793",
+      "PrecioInternet": "15517.241",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5329.20.116",
+      "Descrip": "PULSO PEGASO PU NEGRO APILQUE AZUL",
+      "CodInst": 1699,
+      "Precio": "4741.3793",
+      "PrecioInternet": "15517.241",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5329.20.119",
+      "Descrip": "PULSO PEGASO PU NEGRO APILQUE NARANJA",
+      "CodInst": 1699,
+      "Precio": "4741.3793",
+      "PrecioInternet": "15517.241",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5329.20.121",
+      "Descrip": "PULSO PEGASO PU NEGRO APILQUE VERDE",
+      "CodInst": 1699,
+      "Precio": "4741.3793",
+      "PrecioInternet": "15517.241",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5329.20.122",
+      "Descrip": "PULSO PEGASO PU NEGRO APILQUE BLANCO",
+      "CodInst": 1699,
+      "Precio": "4741.3793",
+      "PrecioInternet": "15517.241",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5332.16.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK D.PIN #16",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5335.22.106",
+      "Descrip": "PULSO PEGASO PU NEGRO VENA ROJA",
+      "CodInst": 1699,
+      "Precio": "4621.8487",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5335.22.110",
+      "Descrip": "PULSO PEGASO PU NEGRO VENA AMARILLO",
+      "CodInst": 1699,
+      "Precio": "4621.8487",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5335.22.116",
+      "Descrip": "PULSO PEGASO PU NEGRO VENA AZUL",
+      "CodInst": 1699,
+      "Precio": "4621.8487",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5335.22.119",
+      "Descrip": "PULSO PEGASO PU NEGRO VENA NARANJA",
+      "CodInst": 1699,
+      "Precio": "4621.8487",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5335.22.121",
+      "Descrip": "PULSO PEGASO PU NEGRO VENA VERDE",
+      "CodInst": 1699,
+      "Precio": "4621.8487",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5335.24.106",
+      "Descrip": "PULSO PEGASO PU NEGRO VENA ROJA",
+      "CodInst": 1699,
+      "Precio": "4621.8487",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5335.24.110",
+      "Descrip": "PULSO PEGASO PU NEGRO VENA AMARILLO",
+      "CodInst": 1699,
+      "Precio": "4621.8487",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5335.24.116",
+      "Descrip": "PULSO PEGASO PU NEGRO VENA AZUL",
+      "CodInst": 1699,
+      "Precio": "4621.8487",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5335.24.119",
+      "Descrip": "PULSO PEGASO PU NEGRO VENA NARANJA",
+      "CodInst": 1699,
+      "Precio": "4621.8487",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5335.24.121",
+      "Descrip": "PULSO PEGASO PU NEGRO VENA VERDE",
+      "CodInst": 1699,
+      "Precio": "4621.8487",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5335.24.122",
+      "Descrip": "PULSO PEGASO PU NEGRO VENA BLANCO",
+      "CodInst": 1699,
+      "Precio": "4621.8487",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5337.24.1",
+      "Descrip": "PULSO PU ANATOMICO NEGRO #24",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5339.20.106",
+      "Descrip": "PULSO PEGASO PU NEGRO APLIQUE ROJO",
+      "CodInst": 1699,
+      "Precio": "4741.3793",
+      "PrecioInternet": "15517.241",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5339.20.110",
+      "Descrip": "PULSO PEGASO PU NEGRO APLIQUE AMARILLO",
+      "CodInst": 1699,
+      "Precio": "4741.3793",
+      "PrecioInternet": "15517.241",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5339.20.119",
+      "Descrip": "PULSO PEGASO PU NEGRO APLIQUE NARANJA",
+      "CodInst": 1699,
+      "Precio": "4741.3793",
+      "PrecioInternet": "15517.241",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5339.20.121",
+      "Descrip": "PULSO PEGASO PU NEGRO APLIQUE VERDE",
+      "CodInst": 1699,
+      "Precio": "4741.3793",
+      "PrecioInternet": "15517.241",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5339.20.122",
+      "Descrip": "PULSO PEGASO PU NEGRO APLIQUE BLANCO",
+      "CodInst": 1699,
+      "Precio": "4741.3793",
+      "PrecioInternet": "15517.241",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5340.24.106",
+      "Descrip": "PULSO PEGASO PU NEGRO/ROJO M.LUNA #24",
+      "CodInst": 1699,
+      "Precio": "3613.4454",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5340.24.119",
+      "Descrip": "PULSO PEGASO PU NEGRO/NARA M.LUNA #24",
+      "CodInst": 1699,
+      "Precio": "3613.4454",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5340.24.122",
+      "Descrip": "PULSO PEGASO PU NEGRO/BLAN M.LUNA #24",
+      "CodInst": 1699,
+      "Precio": "3613.4454",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5342.24.106",
+      "Descrip": "PULSO PEGASO PU NEGRO VENA ROJA",
+      "CodInst": 1699,
+      "Precio": "6465.5172",
+      "PrecioInternet": "21551.724",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5342.24.110",
+      "Descrip": "PULSO PEGASO PU NEGRO VENA AMARILLO",
+      "CodInst": 1699,
+      "Precio": "6465.5172",
+      "PrecioInternet": "21551.724",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5342.24.116",
+      "Descrip": "PULSO PEGASO PU NEGRO VENA VERDE",
+      "CodInst": 1699,
+      "Precio": "6465.5172",
+      "PrecioInternet": "21551.724",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5342.24.119",
+      "Descrip": "PULSO PEGASO PU NEGRO VENA NARANJA",
+      "CodInst": 1699,
+      "Precio": "6465.5172",
+      "PrecioInternet": "21551.724",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5342.24.121",
+      "Descrip": "PULSO PEGASO PU NEGRO VENA VERDE",
+      "CodInst": 1699,
+      "Precio": "6465.5172",
+      "PrecioInternet": "21551.724",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5342.24.122",
+      "Descrip": "PULSO PEGASO PU NEGRO VENA BLANCO",
+      "CodInst": 1699,
+      "Precio": "6465.5172",
+      "PrecioInternet": "21551.724",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5381.20.1",
+      "Descrip": "PULSO PEGASO PU ANATOMICO NEGRO #20",
+      "CodInst": 1699,
+      "Precio": "5462.1849",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5386SP.24.1",
+      "Descrip": "PULSO PEGASO PU NEGRO LISO H.ACERO #24",
+      "CodInst": 1699,
+      "Precio": "2268.9076",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5386SP.26.1",
+      "Descrip": "PULSO PEGASO PU NEGRO LISO H.ACERO #26",
+      "CodInst": 1699,
+      "Precio": "2268.9076",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5389.32.1",
+      "Descrip": "PULSO PEGASO PU PARA CASIO ANATOMICO",
+      "CodInst": 1699,
+      "Precio": "5462.1849",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.22.101",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL NEG.#22",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.22.106",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL ROJ.#22",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.22.110",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL AMA.#22",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.22.113",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL AZU.#22",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.22.119",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL NAR.#22",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.22.121",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL VER.#22",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.22.122",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL BLA.#22",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.24.101",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL NEG.#24",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.24.106",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL ROJ.#24",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.24.110",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL AMA.#24",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.24.113",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL AZU.#24",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.24.119",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL NAR.#24",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.24.121",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL VER.#24",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.24.122",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL BLA.#24",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.26.101",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL NEG.#26",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.26.106",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL ROJ.#26",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.26.110",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL AMA.#26",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.26.113",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL AZU.#26",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.26.119",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL NAR.#26",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.26.121",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL VER.#26",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.26.122",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL BLA.#26",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.28.101",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL NEG.#28",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.28.106",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL ROJ.#28",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.28.110",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL AMA.#28",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.28.113",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL AZU.#28",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.28.119",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL NAR.#28",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.28.121",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL VER.#28",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5411.28.122",
+      "Descrip": "PULSO PEGASO PU NEGRO TERMINAL BLA.#28",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5425.24.1",
+      "Descrip": "PULSO PU GRUESO TIPO TAG #24",
+      "CodInst": 1699,
+      "Precio": "9663.8655",
+      "PrecioInternet": "35294.118",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5426.10X22.19",
+      "Descrip": "PULSO PU TIPO TAG NARANJA #10X22",
+      "CodInst": 1699,
+      "Precio": "7142.8571",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5467.24.1",
+      "Descrip": "PULSO PU PARA CASIO F-305 HEB/MET. #24",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5476.16.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK #16",
+      "CodInst": 1698,
+      "Precio": "2689.0756",
+      "PrecioInternet": "19327.731",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5532S.12.1",
+      "Descrip": "PULSO PU GRABADO CULEBRA NEGRO # 12",
+      "CodInst": 1699,
+      "Precio": "2184.8739",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5532S.12.16",
+      "Descrip": "PULSO PU GRABADO CULEBRA AZUL OSCUR # 12",
+      "CodInst": 1699,
+      "Precio": "2184.8739",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5532S.12.4",
+      "Descrip": "PULSO PU GRABADO CULEBRA BRANDY # 12",
+      "CodInst": 1699,
+      "Precio": "2184.8739",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5532S.14.1",
+      "Descrip": "PULSO PU GRABADO CULEBRA NEGRO # 14",
+      "CodInst": 1699,
+      "Precio": "2184.8739",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5532S.14.16",
+      "Descrip": "PULSO PU GRABADO CULEBRA AZUL OSCUR # 14",
+      "CodInst": 1699,
+      "Precio": "2184.8739",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5532S.14.4",
+      "Descrip": "PULSO PU GRABADO CULEBRA BRANDY # 14",
+      "CodInst": 1699,
+      "Precio": "2184.8739",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5532S.16.1",
+      "Descrip": "PULSO PU GRABADO CULEBRA NEGRO # 16",
+      "CodInst": 1699,
+      "Precio": "2184.8739",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5532S.16.16",
+      "Descrip": "PULSO PU GRABADO CULEBRA AZUL OSCUR # 16",
+      "CodInst": 1699,
+      "Precio": "2184.8739",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5532S.16.4",
+      "Descrip": "PULSO PU GRABADO CULEBRA BRANDY # 16",
+      "CodInst": 1699,
+      "Precio": "2184.8739",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5532S.18.1",
+      "Descrip": "PULSO PU GRABADO CULEBRA NEGRO # 18",
+      "CodInst": 1699,
+      "Precio": "2184.8739",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5532S.18.16",
+      "Descrip": "PULSO PU GRABADO CULEBRA AZUL OSCUR # 18",
+      "CodInst": 1699,
+      "Precio": "2184.8739",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5532S.18.2",
+      "Descrip": "PULSO PU GRABADO CULEBRA MARRON # 18",
+      "CodInst": 1699,
+      "Precio": "2184.8739",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5532S.20.1",
+      "Descrip": "PULSO PU GRABADO CULEBRA NEGRO # 20",
+      "CodInst": 1699,
+      "Precio": "2184.8739",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5532S.20.16",
+      "Descrip": "PULSO PU GRABADO CULEBRA AZUL OSCUR # 20",
+      "CodInst": 1699,
+      "Precio": "2184.8739",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5532S.20.2",
+      "Descrip": "PULSO PU GRABADO CULEBRA MARRON # 20",
+      "CodInst": 1699,
+      "Precio": "2184.8739",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5532S.22.1",
+      "Descrip": "PULSO PU GRABADO CULEBRA NEGRO # 22",
+      "CodInst": 1699,
+      "Precio": "2184.8739",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5532S.22.16",
+      "Descrip": "PULSO PU GRABADO CULEBRA AZUL OSCUR # 22",
+      "CodInst": 1699,
+      "Precio": "2184.8739",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5532S.22.2",
+      "Descrip": "PULSO PU GRABADO CULEBRA MARRON # 22",
+      "CodInst": 1699,
+      "Precio": "2184.8739",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5532S.24.1",
+      "Descrip": "PULSO PU GRABADO CULEBRA NEGRO # 24",
+      "CodInst": 1699,
+      "Precio": "2184.8739",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5532S.24.16",
+      "Descrip": "PULSO PU GRABADO CULEBRA AZUL OSCUR # 24",
+      "CodInst": 1699,
+      "Precio": "2184.8739",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5532S.24.2",
+      "Descrip": "PULSO PU GRABADO CULEBRA MARRON # 24",
+      "CodInst": 1699,
+      "Precio": "2184.8739",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5539.22.1",
+      "Descrip": "PULSO QELLO PU NEGRO #22",
+      "CodInst": 1699,
+      "Precio": "2941.1765",
+      "PrecioInternet": "24369.748",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5541SP.24.1",
+      "Descrip": "PULSO PEGASO PU NEGRO #24",
+      "CodInst": 1699,
+      "Precio": "4369.7479",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5573S.18.1",
+      "Descrip": "PULSO PU NEGRO #18",
+      "CodInst": 1698,
+      "Precio": "2689.0756",
+      "PrecioInternet": "18487.395",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5573S.18.1L",
+      "Descrip": "PULSO PU NEGRA CON LETRAS #18",
+      "CodInst": 1698,
+      "Precio": "3025.2101",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5584SP.20.1",
+      "Descrip": "PULSO PEGASO PU PARA G-SHOCK #20",
+      "CodInst": 1698,
+      "Precio": "2689.0756",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5606SP.24.1",
+      "Descrip": "PULSO PEGASO PU NEGRO #24",
+      "CodInst": 1699,
+      "Precio": "5462.1849",
+      "PrecioInternet": "31932.773",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5608SP.20.1",
+      "Descrip": "PULSO PEGASO PU PARA G-SHOCK #20",
+      "CodInst": 1699,
+      "Precio": "2941.1765",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5610S.18.1",
+      "Descrip": "PULSO PEGASO PU HEBILLA METALICA #18",
+      "CodInst": 1699,
+      "Precio": "1848.7395",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5612S.18.1",
+      "Descrip": "PULSO PEGASO PU HEBILLA METALICA #18",
+      "CodInst": 1699,
+      "Precio": "1848.7395",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5650SP.24.1",
+      "Descrip": "PULSO PEGASO PU NEGRO #24",
+      "CodInst": 1699,
+      "Precio": "4873.9496",
+      "PrecioInternet": "26890.756",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5658SP.24.1",
+      "Descrip": "PULSO PEGASO PARA G-SHOCK #24",
+      "CodInst": 1698,
+      "Precio": "4873.9496",
+      "PrecioInternet": "26890.756",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5659SP.27.1",
+      "Descrip": "PULSO PEGASO PU NEGRO #27",
+      "CodInst": 1699,
+      "Precio": "5462.1849",
+      "PrecioInternet": "30252.101",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "574P.18.1",
+      "Descrip": "PULSO PU HEBILLA PLASTICA #18",
+      "CodInst": 1699,
+      "Precio": "1512.6050",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "574S.18.1",
+      "Descrip": "PULSO PU HEBILLA ACERO #18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "577.1",
+      "Descrip": "PULSO PEGASO PU PARA CASIO UÑA ESPECIA",
+      "CodInst": 1699,
+      "Precio": "1092.4370",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "577S.1",
+      "Descrip": "PULSO PU DE UÑA NEGRA",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "19327.731",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "582P.18.1",
+      "Descrip": "PULSO PU TELEMEMO HEBILLA PLASTICA #18",
+      "CodInst": 1699,
+      "Precio": "1512.6050",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "582P.20.1",
+      "Descrip": "PULSO PU TELEMEMO HEBILLA PLASTICA #20",
+      "CodInst": 1699,
+      "Precio": "1512.6050",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "582S.18.1",
+      "Descrip": "PULSO PU TELEMEMO HEBILLA ACERO #18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "582S.20.1",
+      "Descrip": "PULSO PU TELEMEMO HEBILLA ACERO #20",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "6009S.24.1",
+      "Descrip": "PULSO PU PARA G-SHOCK #24",
+      "CodInst": 1698,
+      "Precio": "4033.6134",
+      "PrecioInternet": "28571.429",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "611",
+      "Descrip": "PULSO PEGASO PU TERMICA",
+      "CodInst": 1699,
+      "Precio": "1465.5172",
+      "PrecioInternet": "10344.828",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "657P.18.1",
+      "Descrip": "PULSO PU HEBILLA PLASTICA #18",
+      "CodInst": 1699,
+      "Precio": "1512.6050",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "657P.20.1",
+      "Descrip": "PULSO PU HEBILLA PLASTICA #20",
+      "CodInst": 1699,
+      "Precio": "1512.6050",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "657P.22.1",
+      "Descrip": "PULSO PU HEBILLA PLASTICA #22",
+      "CodInst": 1699,
+      "Precio": "1512.6050",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "657S.20.1",
+      "Descrip": "PULSO PU HEBILLA ACERO #20",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "657S.22.1",
+      "Descrip": "PULSO PU HEBILLA ACERO #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "671P.18.1",
+      "Descrip": "PULSO PU HEBILLA PLASTICA #18",
+      "CodInst": 1699,
+      "Precio": "1512.6050",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "671P.20.1",
+      "Descrip": "PULSO PU HEBILLA PLASTICA #20",
+      "CodInst": 1699,
+      "Precio": "1512.6050",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "671P.22.1",
+      "Descrip": "PULSO PU HEBILLA PLASTICA #22",
+      "CodInst": 1699,
+      "Precio": "1512.6050",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "671S.18.1",
+      "Descrip": "PULSO PU HEBILLA ACERO #18",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "671S.20.1",
+      "Descrip": "PULSO PU HEBILLA ACERO #20",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "671S.22.1",
+      "Descrip": "PULSO PU HEBILLA ACERO #22",
+      "CodInst": 1699,
+      "Precio": "1932.7731",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "7011S.18.1",
+      "Descrip": "PULSO QELLO PU NEGRO #18",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "7011S.18.11",
+      "Descrip": "PULSO QELLO PU VERDE MILITAR #18",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "7011S.18.16",
+      "Descrip": "PULSO QELLO PU AZUL OSCURO #18",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "7011S.18.6",
+      "Descrip": "PULSO QELLO PU ROJO #18",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "7012S.18.1",
+      "Descrip": "PULSO QELLO PU NEGRO HEBILLA METAL #18",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "7012S.18.10",
+      "Descrip": "PULSO QELLO PU AMARILLA HEB. M. #18",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "7012S.18.11",
+      "Descrip": "PULSO QELLO PU VERDE MILITAR HEB. M. #18",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "7012S.18.16",
+      "Descrip": "PULSO QELLO PU AZUL OSCURO HEB. M. #18",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "7012S.18.19",
+      "Descrip": "PULSO QELLO PU NARANJA HEB. M. #18",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "7012S.18.6",
+      "Descrip": "PULSO QELLO PU ROJA HEBILLA METAL #18",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "7018SP.32.10",
+      "Descrip": "PULSO PEGASO PU PARA G-SHOCK AMARILLO#32",
+      "CodInst": 1699,
+      "Precio": "3781.5126",
+      "PrecioInternet": "26890.756",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "8098SP.16.1",
+      "Descrip": "PULSO PEGASO PU NEGRO #16",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "9602.12.1",
+      "Descrip": "PULSO PU PARA CASIO #12",
+      "CodInst": 1699,
+      "Precio": "1512.6050",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "9602.14.1",
+      "Descrip": "PULSO PU PARA CASIO #14",
+      "CodInst": 1699,
+      "Precio": "1512.6050",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "9602P.18.1",
+      "Descrip": "PULSO PU LISO NEGRO #18",
+      "CodInst": 1699,
+      "Precio": "1512.6050",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "9848S.18.1",
+      "Descrip": "PULSO PEGASO PU NEGRO #18",
+      "CodInst": 1699,
+      "Precio": "2394.9580",
+      "PrecioInternet": "18907.563",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "9848S.20.1",
+      "Descrip": "PULSO PEGASO PU NEGRO #20",
+      "CodInst": 1699,
+      "Precio": "2394.9580",
+      "PrecioInternet": "18907.563",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "A22.22.106",
+      "Descrip": "PULSO PEGASO PU D/INYECCION NEGRO ROJA",
+      "CodInst": 1699,
+      "Precio": "5603.4483",
+      "PrecioInternet": "21551.724",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "A22.22.110",
+      "Descrip": "PULSO PEGASO PU D/INYECCION NEGRO AMAR",
+      "CodInst": 1699,
+      "Precio": "5603.4483",
+      "PrecioInternet": "21551.724",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "A22.22.116",
+      "Descrip": "PULSO PEGASO PU D/INYECCION NEGRO AZUL",
+      "CodInst": 1699,
+      "Precio": "5603.4483",
+      "PrecioInternet": "21551.724",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "A22.22.119",
+      "Descrip": "PULSO PEGASO PU D/INYECCION NEGRO NARA",
+      "CodInst": 1699,
+      "Precio": "5603.4483",
+      "PrecioInternet": "21551.724",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "A22.22.121",
+      "Descrip": "PULSO PEGASO PU D/INYECCION NEGRO VERD",
+      "CodInst": 1699,
+      "Precio": "5603.4483",
+      "PrecioInternet": "21551.724",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "A22.22.122",
+      "Descrip": "PULSO PEGASO PU D/INYECCION NEGRO BALN",
+      "CodInst": 1699,
+      "Precio": "5603.4483",
+      "PrecioInternet": "21551.724",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "BEN.12.21",
+      "Descrip": "PULSO BENETTON PU VERDE LIMON #12",
+      "CodInst": 1699,
+      "Precio": "1386.5546",
+      "PrecioInternet": "6722.689",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "K001.26.1",
+      "Descrip": "PULSO PEGASO PU PARA CASIO PROTREK",
+      "CodInst": 1698,
+      "Precio": "2100.8403",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "K002.16.1",
+      "Descrip": "PULSO PEGASO PU PARA CASIO #16",
+      "CodInst": 1698,
+      "Precio": "2941.1765",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "LRW200S.14.1",
+      "Descrip": "PULSO PU PARA CASIO LRW200 NEGRO #14",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "LRW200S.14.12",
+      "Descrip": "PULSO PU PARA LRW200 FUCSIA  HEB.MET.#14",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "LRW200S.14.13",
+      "Descrip": "PULSO PU PARA LRW200 AZUL O  HEB.MET.#14",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "LRW200S.14.14",
+      "Descrip": "PULSO PU PARA LRW200 ROSADO  HEB.MET.#14",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "LRW200S.14.22",
+      "Descrip": "PULSO PU PARA LRW200 BLANCO HEB.MET.#14",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "LRW200S.14.9",
+      "Descrip": "PULSO PU PARA LRW200 NARANJA HEB.MET.#14",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "LRW200S.14.9V",
+      "Descrip": "PULSO PU LRW200 VERDE AZUL HEB.MET.#14",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "MRW200S.18.1",
+      "Descrip": "PULSO PEGASO PU HEBILLA METAL #18",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "MRW200S.18.16",
+      "Descrip": "PULSO PEGASO PU AZUL O HEBILLA METAL #18",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "MRW200S.18.22",
+      "Descrip": "PULSO PEGASO PU BLANCO HEBILLA METAL #18",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "MRW200S.18.6",
+      "Descrip": "PULSO PEGASO PU ROJO HEBILLA METAL #18",
+      "CodInst": 1699,
+      "Precio": "2689.0756",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P20U.20.111",
+      "Descrip": "PULSO PEGASO PU DOS COLORES VERD/N #20",
+      "CodInst": 1699,
+      "Precio": "2758.6207",
+      "PrecioInternet": "12931.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P20U.20.191",
+      "Descrip": "PULSO PEGASO PU DOS COLORES NARA/N #20",
+      "CodInst": 1699,
+      "Precio": "2758.6207",
+      "PrecioInternet": "12931.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PU005.12.1",
+      "Descrip": "PISA PULSO EN PU NEGRO #12",
+      "CodInst": 1699,
+      "Precio": "142.8571",
+      "PrecioInternet": "840.336",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PU005.14.1",
+      "Descrip": "PISA PULSO EN PU NEGRO #14",
+      "CodInst": 1699,
+      "Precio": "142.8571",
+      "PrecioInternet": "840.336",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PU005.16.1",
+      "Descrip": "PISA PULSO EN PU NEGRO #16",
+      "CodInst": 1699,
+      "Precio": "142.8571",
+      "PrecioInternet": "840.336",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PU005.20.1",
+      "Descrip": "PISA PULSO EN PU NEGRO #20",
+      "CodInst": 1699,
+      "Precio": "142.8571",
+      "PrecioInternet": "840.336",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PU005.22.1",
+      "Descrip": "PISA PULSO EN PU NEGRO #22",
+      "CodInst": 1699,
+      "Precio": "142.8571",
+      "PrecioInternet": "840.336",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PU005.24.1",
+      "Descrip": "PISA PULSO EN PU NEGRO #24",
+      "CodInst": 1699,
+      "Precio": "142.8571",
+      "PrecioInternet": "840.336",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PU005.26.1",
+      "Descrip": "PISA PULSO EN PU NEGRO #26",
+      "CodInst": 1699,
+      "Precio": "142.8571",
+      "PrecioInternet": "840.336",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "SK01.22.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK #22",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "SK01.24.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK #24",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "SK01.26.1",
+      "Descrip": "PULSO PU PARA CASIO G-SHOCK #26",
+      "CodInst": 1699,
+      "Precio": "2100.8403",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    }
+  ]
+}

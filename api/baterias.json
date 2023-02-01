@@ -1,0 +1,1003 @@
+{
+  "productos": [
+    {
+      "CodProd": "476A",
+      "Descrip": "BATERIA GP LITHIUM 6 V",
+      "CodInst": 1174,
+      "Precio": "4621.8487",
+      "PrecioInternet": "8235.294",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Tipo Cilindrica \nLithium\nCapacidad 6V\nUnidad de empaque 1und"
+    },
+    {
+      "CodProd": "675AE-6ZM",
+      "Descrip": "BATERIA RAYOVAC AUDICION BLISTER X 6",
+      "CodInst": 1527,
+      "Precio": "1512.6050",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "6LR61-1BP",
+      "Descrip": "BATERIA MAXELL 9 V. ALCALINA BLISTER X 1",
+      "CodInst": 914,
+      "Precio": "5462.1849",
+      "PrecioInternet": "7983.193",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "AA-2BP",
+      "Descrip": "BATERIA MAXELL AA ALCALINA BLISTER X 2",
+      "CodInst": 914,
+      "Precio": "882.3529",
+      "PrecioInternet": "2521.008",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "395",
+      "Descrip": "BATERIA RENATA SR927 BL X 10",
+      "CodInst": 1708,
+      "Precio": "2436.9748",
+      "PrecioInternet": "50420.168",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "371",
+      "Descrip": "BATERIA RENATA OXIDO DE PLATA BL X 10",
+      "CodInst": 1708,
+      "Precio": "1512.6050",
+      "PrecioInternet": "37815.126",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "24AUP-C2",
+      "Descrip": "BATERIA GP AAA ALKALINA ULTRA BLIST X2",
+      "CodInst": 1174,
+      "Precio": "1008.4034",
+      "PrecioInternet": "3361.345",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Tipo AAA \nAlcalina\nCapacidad 1,5V\nUnidad de empaque 20unds"
+    },
+    {
+      "CodProd": "BST-C804U",
+      "Descrip": "CARGADOR BESTON CON 4 BATERIAS AA 1500",
+      "CodInst": 1455,
+      "Precio": "14705.8824",
+      "PrecioInternet": "26890.756",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "DESCRIPCION\nCarga 4 baterías recargables AA/AAA Ni-MH o Ni-Cd al mismo tiempo. La LED azul alumbrará mientras se carga, y se apagará cuando está totalmente cargada 9.5horas después.\nProtección de la sobre intensidad de corriente: con el modo de corriente constante, cualquier influencia negativa de baterías causada ??por fluctuaciones de corriente se puede evitar.\nAutoidentificación: reconoce las baterías no recargables, los cortocircuitos y las baterías defectuosas, mediante su microprocesador; además tiene protección del cortocircuito.\nFunción de Restauración: restaura la batería si el voltaje de la batería es extremadamente bajo (ej: 0-0.9V).\nCon salida USB no pueden cargarse baterías AA / AAA.\nPeso: 67g\nTamaño: 9,95 x 6,6 x 2,6 cm\nEntrada: 100-240V AC 50/60 Hz\nAutoidentificación: reconoce las baterías no recargables, los cortocircuitos y las baterías defectuosas, mediante su microprocesador; además tiene protección del cortocircuito.\nSalida: 2.4V DC AAx2 200mA AAx4 200mA\nAAAx2 100mA AAAx4 100mA USB: 5V 500mA\nProtección de temperatura: se prende cuando la temperatura está por encima de 60°C. Si el cargador o las baterías están recalentadas durante la carga, se detendrá la carga automáticamente  por seguridad."
+    },
+    {
+      "CodProd": "BST-C804U-2",
+      "Descrip": "CARGADOR BESTON  4 BATERIAS 2XAA Y 2XAAA",
+      "CodInst": 1455,
+      "Precio": "14705.8824",
+      "PrecioInternet": "26890.756",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "DESCRIPCION\nINCLUYE 4 PILAS AA de 1500mAh\nTAMAÑO 9,95 x 6,6 x 2,6 cm\nINPUT 100-240V AC 50/60HZ\nPESO 67gr"
+    },
+    {
+      "CodProd": "BST-C804U-4",
+      "Descrip": "CARGADOR BESTON CON 4 BATERIAS AAA 1100",
+      "CodInst": 1455,
+      "Precio": "15294.1176",
+      "PrecioInternet": "26890.756",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "DESCRIPCION\nCarga 4 baterías recargables AA/AAA Ni-MH o Ni-Cd al mismo tiempo. La LED azul alumbrará mientras se carga, y se apagará cuando está totalmente cargada 9.5horas después.\nProtección de la sobre intensidad de corriente: con el modo de corriente constante, cualquier influencia negativa de baterías causada ??por fluctuaciones de corriente se puede evitar.\nAutoidentificación: reconoce las baterías no recargables, los cortocircuitos y las baterías defectuosas, mediante su microprocesador; además tiene protección del cortocircuito.\nFunción de Restauración: Restaura la batería si el voltaje de la batería es extremadamente bajo (ej: 0-0.9V).\nCon salida USB no pueden cargarse baterías AA / AAA.\nPeso: 67g\nTamaño: 9,95 x 6,6 x 2,6 cm\nEntrada: 100-240V AC 50/60 Hz\nAutoidentificación: reconoce las baterías no recargables, los cortocircuitos y las baterías defectuosas, mediante su microprocesador; además tiene protección del cortocircuito.\nSalida: 2.4V DC AAx2 200mA AAx4 200mA\nAAAx2 100mA AAAx4 100mA USB: 5V 500mA\nProtección de temperatura: se prende cuando la temperatura está por encima de 60°C. Si el cargador o las baterías están recalentadas durante la carga, se detendrá la carga automáticamente  por seguridad."
+    },
+    {
+      "CodProd": "BST-C812B",
+      "Descrip": "CARGADOR BESTON AA/AAA/9V/ CON 1 BAT/9V",
+      "CodInst": 1455,
+      "Precio": "18067.2300",
+      "PrecioInternet": "21848.739",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "DESCRIPCION\r\nINCLUYE 1 PILA 9v\r\nSalida: 1.2V DC 240mA 9v 35mA AAx1 120mA AAx2 120 mA AAAX1 120mA AAAx2 120 mA\r\nEntrada: AC 100-240V 50/60 Hz"
+    },
+    {
+      "CodProd": "BST-C812B-1",
+      "Descrip": "CARGADOR BESTON PARA AA/AAA/9V CON 2AA",
+      "CodInst": 1455,
+      "Precio": "18067.2269",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "DESCRIPCION\nPara cargas de 1-2 baterías recargables AA/AAA y 1 batería recargable de 9V (6F22) NI-MH/NICD, el LED indica el proceso de carga\nModo de carga a corriente baja constante, hará la vida de la batería más larga; Conector Mundial de voltaje\nEntrada: AC 100-240V 50/60 Hz\nSalida: 1.2V DC 240mAh 9v 35mAh AAx1 120mAh AAx2 120 mAh AAAX1 120mAh AAAx2 120 mAh\nEntrada: AC 100-240V 50/60 Hz\nEl LED muestra la situación de carga de las baterías en color rojo, pero no se apagará cuando las baterías estén completamente cargadas"
+    },
+    {
+      "CodProd": "17R8H-U1",
+      "Descrip": "BATERIA GP RECARGABLE CUADRAD 8.4 V",
+      "CodInst": 1174,
+      "Precio": "18907.5630",
+      "PrecioInternet": "30672.269",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Tipo Cuadrada \nRecargable\nCapacidad 8.4V 170mAh\nUnidad de empaque 1und"
+    },
+    {
+      "CodProd": "BST-C821BW",
+      "Descrip": "CARGADOR BESTON UNIVERSAL 9V/C/D/AA/AAA",
+      "CodInst": 1455,
+      "Precio": "24369.7479",
+      "PrecioInternet": "40336.134",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "• Cargador universal que puede cargar de 1 a 4 pilas AA/AAA/C/D y 2 baterías 9V.\r\n• Contiene: Cargador y cable de poder. \r\n• Dimensiones: 27x13x6 cm \r\n• Peso: 340 g\r\n\r\nLa luz LED indicara la carga de las baterías pero no se apagara cuando estén totalmente cargadas, se alimenta a través de cable poder, contiene circuito de alta taza de conversión, chip inteligentes importados, protección ante corto circuito, protección automática de carga completa, el cargador no hará efecto si las baterías están ubicadas en la polaridad incorrecta."
+    },
+    {
+      "CodProd": "BST-CR14",
+      "Descrip": "BATERIA BESTON TIPO C RECARGABLE BL X 2",
+      "CodInst": 1455,
+      "Precio": "12605.0420",
+      "PrecioInternet": "35294.118",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria tipo C\nRecargable Ni-MH\n2500mAh\nUnidad de empaque 2unds"
+    },
+    {
+      "CodProd": "BST-DR20",
+      "Descrip": "BATERIA BESTON TIPO D RECARGABLE BL X 2",
+      "CodInst": 1455,
+      "Precio": "14285.7143",
+      "PrecioInternet": "40336.134",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria tipo D\nRecargable Ni-MH\n2500mAh\nUnidad de empaque 2unds"
+    },
+    {
+      "CodProd": "BST-LI14500",
+      "Descrip": "BATERIA BESTON LITHIUM AA RECARGABLE",
+      "CodInst": 1455,
+      "Precio": "14285.7143",
+      "PrecioInternet": "40336.134",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "15AUP-U2",
+      "Descrip": "BATERIA GP AA ALKALINA ULTRA BLISTER X 2",
+      "CodInst": 1174,
+      "Precio": "1008.4034",
+      "PrecioInternet": "3361.345",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Tipo AA \nAlcalina Ultra\nCapacidad 1,5V\nUnidad de empaque 20unds"
+    },
+    {
+      "CodProd": "14AUP-U2",
+      "Descrip": "BATERIA GP TIPO C ALKALINA BLISTER X 2",
+      "CodInst": 1174,
+      "Precio": "2941.1765",
+      "PrecioInternet": "12184.874",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Tipo C \r\nAlcalina\r\nCapacidad 1.5V\r\nUnidad de empaque Blister X 2"
+    },
+    {
+      "CodProd": "13AE-6ZM",
+      "Descrip": "BATERIA RAYOVAC 13 DE AUDUCION BL X 6",
+      "CodInst": 1527,
+      "Precio": "1512.6050",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "BST-AAA750X2",
+      "Descrip": "BATERIA BESTON RECARG. AAA 750 BL X2",
+      "CodInst": 1455,
+      "Precio": "3529.4118",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Beston AAA\r\nRecargable Ni-MH\r\n750mAh\r\nUnidad de empaque Blister x 2"
+    },
+    {
+      "CodProd": "BST-AAA1100X2",
+      "Descrip": "BATERIA BESTON AAA RECARGABLE 1100 MAH",
+      "CodInst": 1455,
+      "Precio": "4537.8151",
+      "PrecioInternet": "18907.563",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Unidad de empaque Blister x 2"
+    },
+    {
+      "CodProd": "BST-AA3000X2",
+      "Descrip": "BATERIA BESTON RECARG. AA DE 3000 BL X2",
+      "CodInst": 1455,
+      "Precio": "5378.1513",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Batería AA\r\nRecargable NI-MH\r\nCapacidad 3000mAh\r\nUnidad de empaque Blister x 2"
+    },
+    {
+      "CodProd": "BST-AA2100X4",
+      "Descrip": "BATERIA BESTON RECARGABLE 2100 BL X 4",
+      "CodInst": 1455,
+      "Precio": "3529.4118",
+      "PrecioInternet": "30252.101",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Recargable\r\nVoltaje: 1.2 V\r\n2100 mAh\r\nDimensiones: 14x10x2 cm\r\nUnidad de empaque Blister x 4"
+    },
+    {
+      "CodProd": "BST-9V-LION",
+      "Descrip": "BATERIA 9 V RECARGABLE 800mAh LI-ION",
+      "CodInst": 1455,
+      "Precio": "21176.4706",
+      "PrecioInternet": "41596.639",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Ión de Litio\r\r\nVoltaje: 9V\r\r\n800 mAh\r\nUnidad de empaque 1 und"
+    },
+    {
+      "CodProd": "BST-9V-6F22",
+      "Descrip": "BATERIA BESTON 9 V ALCALINA BLISTER X 1",
+      "CodInst": 1455,
+      "Precio": "3529.4118",
+      "PrecioInternet": "6302.521",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Se utiliza principalmente en radio de transistores , interfono, juguetes de control remoto, alarma de humo, micrófono inalámbrico, multímetro, productos electrónicos y productos de instrumentación.\r\r\n\r\r\nMaterial: Carbón\r\r\nVoltaje: 9V\r\r\nDimensiones: 55X16X30mm\r\nUnidad de empaque 1 und"
+    },
+    {
+      "CodProd": "BST-9V",
+      "Descrip": "BATERIA BESTON 9V RECARGABLE NI-MH",
+      "CodInst": 1455,
+      "Precio": "14705.8824",
+      "PrecioInternet": "26890.756",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Unidad de empaque 1 und"
+    },
+    {
+      "CodProd": "BST-6F22",
+      "Descrip": "BATERIA BESTON 9V CARBON BULK",
+      "CodInst": 1455,
+      "Precio": "1092.4370",
+      "PrecioInternet": "2521.008",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería de Carbón\r\nVoltaje: 9V\r\nDiámetro: \r\nAltura: \r\nmAh: \r\nUnidad de empaque 1 und"
+    },
+    {
+      "CodProd": "BST-53615",
+      "Descrip": "BATERIA BESTON PARA RADIO MOTOROLA",
+      "CodInst": 1455,
+      "Precio": "11596.6387",
+      "PrecioInternet": "23109.244",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Beston De Comunicaciones Motorola\r\nUnidad de empaque 1 und"
+    },
+    {
+      "CodProd": "BST-533",
+      "Descrip": "BATERIA BESTON PARA RADIO DE COM/MOTOROL",
+      "CodInst": 1455,
+      "Precio": "11344.5378",
+      "PrecioInternet": "23949.580",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Beston Para Radio De Comunicaciones Motorola\r\nUnidad de empaque 1 und"
+    },
+    {
+      "CodProd": "BST-068",
+      "Descrip": "POWER BANK BESTON DE 10.000 mhA",
+      "CodInst": 1455,
+      "Precio": "50000.0000",
+      "PrecioInternet": "70588.235",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "BST-052",
+      "Descrip": "POWER BANK BESTON DIGITAL DE 10.000mhA",
+      "CodInst": 1455,
+      "Precio": "54201.6807",
+      "PrecioInternet": "77310.924",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "BST-045",
+      "Descrip": "POWER BANK BESTON 2500 mAh",
+      "CodInst": 1455,
+      "Precio": "13865.5462",
+      "PrecioInternet": "23949.580",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "BST-040",
+      "Descrip": "POWER BANK BESTON DE 20.000 mAh",
+      "CodInst": 1455,
+      "Precio": "76470.5882",
+      "PrecioInternet": "113445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "AG9",
+      "Descrip": "BATERIA TIANQIU 936 ALCALINA BLISTER X10",
+      "CodInst": 1179,
+      "Precio": "418.1034",
+      "PrecioInternet": "12931.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería Alcalina\r\nVoltaje: 1,5V\r\nDiámetro: 9,5\r\nAltura: 3,6\r\nmAh: 50\r\nUnidad de empaque Blister x 10"
+    },
+    {
+      "CodProd": "CR2450-M",
+      "Descrip": "BATERIA MURATA 3 V. BLITER X 5",
+      "CodInst": 1707,
+      "Precio": "3781.5126",
+      "PrecioInternet": "42016.807",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "AG6",
+      "Descrip": "BATERIA TIANQIU 371 ALCALINA BLISTER X10",
+      "CodInst": 1179,
+      "Precio": "302.5210",
+      "PrecioInternet": "16806.723",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería Alcalina\r\nVoltaje: 1,5V\r\nDiámetro: 2,1\r\nAltura: 9,5\r\nmAh: 30\r\nUnidad de empaque Blister x 10"
+    },
+    {
+      "CodProd": "DB-WST001",
+      "Descrip": "POWER BANK BESTON INALAMBRICO 8.000 mAh",
+      "CodInst": 1455,
+      "Precio": "60084.0336",
+      "PrecioInternet": "71428.571",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "DESCRIPCION\nBatería de polímero\nInput: Micro+Type-C 5V/2A\nOutput: USB1: 5V/1A; USB2: 5V/2.1A y Wireless output: 5V/2.1A 10W (max)\nDimensión: 13,5x7,0x1,5 cm\nPeso aprox.: 129,5g\nAdecuado para Ipad, Iphone, Smart phone, MP3/MP4, PSP/NDS\nOutput: USB1: 5V/1A; USB2: 5V/2.1A y Wireless output: 5V/2.1A 10W (max)\n8000mAh"
+    },
+    {
+      "CodProd": "AAA-2BP",
+      "Descrip": "BATERIA MAXELL AAA ALCALINA BLSITER X 2",
+      "CodInst": 914,
+      "Precio": "882.3529",
+      "PrecioInternet": "2521.008",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "910A-U2",
+      "Descrip": "BATERIA GP TIPO N ALKALINA  1.5 V",
+      "CodInst": 1174,
+      "Precio": "1470.5882",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Tipo N \r\nAlcalina\r\nCapacidad 1.5V\r\nUnidad de empaque Blister X 2"
+    },
+    {
+      "CodProd": "BST-AAA900X4",
+      "Descrip": "BATERIA BESTON AAA RECARG. 900 BL X 4",
+      "CodInst": 1455,
+      "Precio": "3529.4118",
+      "PrecioInternet": "30252.101",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Batería AAA\r\nRecargable NI-MH\r\nCapacidad 900mAh\r\nUnidad de empaque Blister x 4"
+    },
+    {
+      "CodProd": "BST-C801B",
+      "Descrip": "CARGADOR BESTON CON 4 BATERIAS AA 2700",
+      "CodInst": 1455,
+      "Precio": "24789.9160",
+      "PrecioInternet": "40336.134",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "DESCRIPCION\nCarga 4 baterías recargables AA/AAA Ni-MH o Ni-Cd al mismo tiempo. La LED azul alumbrará mientras se carga, y se apagará cuando está totalmente cargada 9.5horas después.\nProtección de la sobre intensidad de corriente: con el modo de corriente constante, cualquier influencia negativa de baterías causada ??por fluctuaciones de corriente se puede evitar.\nAutoidentificación: reconoce las baterías no recargables, los cortocircuitos y las baterías defectuosas, mediante su microprocesador; además tiene protección del cortocircuito.\nFunción de Restauración: Restaura la batería si el voltaje de la batería es extremadamente bajo (ej: 0-0.9V).\nCon salida USB no pueden cargarse baterías AA / AAA.\nPeso: 67g\nTamaño: 9,95 x 6,6 x 2,6 cm\nEntrada: 100-240V AC 50/60 Hz\nAutoidentificación: reconoce las baterías no recargables, los cortocircuitos y las baterías defectuosas, mediante su microprocesador; además tiene protección del cortocircuito.\nSalida: 2.4V DC AAx2 200mA AAx4 200mA\nAAAx2 100mA AAAx4 100mA USB: 5V 500mA\nProtección de temperatura: se prende cuando la temperatura está por encima de 60°C. Si el cargador o las baterías están recalentadas durante la carga, se detendrá la carga automáticamente  por seguridad."
+    },
+    {
+      "CodProd": "BST-C818",
+      "Descrip": "CARGADOR BESTON PARA 9V CON 1 BATERIA 9V",
+      "CodInst": 1455,
+      "Precio": "18487.3950",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "DESCRIPCION\nProteja la sobrecarga con el temporizador (3.5horas)\nEnchufe plegable, lindo y portátil\nUso Universal: 100-240V AC\nUso Universal: 100-240V AC\nMateriales poliméricos de alta duración"
+    },
+    {
+      "CodProd": "BST-M7001",
+      "Descrip": "CARGADOR BESTON PARA 18650 1 BAT. INCLU.",
+      "CodInst": 1455,
+      "Precio": "26050.4202",
+      "PrecioInternet": "49159.664",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "BST-M7004",
+      "Descrip": "CARGADOR BESTON PARA 9V CON 1 BAT. INCL.",
+      "CodInst": 1455,
+      "Precio": "37815.1261",
+      "PrecioInternet": "65966.387",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "BST-M701W",
+      "Descrip": "CARGADOR BESTON UNIVERSAL LI-ION CON BAT",
+      "CodInst": 1455,
+      "Precio": "23949.5798",
+      "PrecioInternet": "36134.454",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "DESCRIPCION\nCarga para baterías de cilindro (18650,17650,17335,16500,14500)\nEl LED rojo se iluminará durante la carga, pero no se apagará cuando las baterías estén completamente cargadas\nFunción de restauración: restaurar la batería cuando su voltaje es extremadamente bajo\nUso mundial de voltaje\nFunción de restauración: restaurar la batería cuando su voltaje es extremadamente bajo\nAsegúrese de que la polaridad de la batería (+, -) se alinea correctamente, de lo contrario no se puede cargar"
+    },
+    {
+      "CodProd": "BST-M701WAA700L",
+      "Descrip": "CARGADOR BESTON BAT.18650 CON 2 AA 700 L",
+      "CodInst": 1455,
+      "Precio": "37394.9580",
+      "PrecioInternet": "63025.210",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "BST-R03P",
+      "Descrip": "BATERIA BESTON AAA CARBON BLISTER X 4",
+      "CodInst": 1455,
+      "Precio": "310.9244",
+      "PrecioInternet": "3025.210",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Batería AAA\r\nCarbón\r\nCapacidad 1,5v\r\nUnidad de empaque Blister x 4"
+    },
+    {
+      "CodProd": "BST-R6P",
+      "Descrip": "BATERIA BESTON AA CARBON BLISTER X 4",
+      "CodInst": 1455,
+      "Precio": "268.9076",
+      "PrecioInternet": "3025.210",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Batería AA\r\nCarbón\r\nCapacidad 1,5v\r\nUnidad de empaque Blister x 4"
+    },
+    {
+      "CodProd": "CR1216",
+      "Descrip": "BATERIA SONY LITHIUM 3V. BLISTER X 5",
+      "CodInst": 1171,
+      "Precio": "1764.7059",
+      "PrecioInternet": "23109.244",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería de Litio\r\nVoltaje: 3V \r\nDiámetro: 12,5\r\nAltura: 1,6\r\nmAh: 25\r\nUnidad de empaque Blister x 5"
+    },
+    {
+      "CodProd": "CR-1616",
+      "Descrip": "BATERIA SONY LITHIUM 3V. BLISTER X 5",
+      "CodInst": 1171,
+      "Precio": "1764.7059",
+      "PrecioInternet": "23109.244",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería de Litio\r\nVoltaje: 3V \r\nDiámetro: 16\r\nAltura: 1,6\r\nmAh: 50\r\nUnidad de empaque Blister x 5"
+    },
+    {
+      "CodProd": "LR44",
+      "Descrip": "BATERIA RENATA ALCALINA 1.5V BLISTER X 1",
+      "CodInst": 1708,
+      "Precio": "1344.5378",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "LR-44S",
+      "Descrip": "BATERIA SONY A-76 BLISTER X 5",
+      "CodInst": 1171,
+      "Precio": "1344.5378",
+      "PrecioInternet": "16806.723",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería Alcalina Miniatura\r\nVoltaje: 1,5V\r\nDiámetro: 11,6\r\nAltura: 5,4\r\nmAh: 110\r\nUnidad de empaque Blister x 5"
+    },
+    {
+      "CodProd": "CR-1620",
+      "Descrip": "BATERIA SONY LITHIUM 3 V. BL X 5 UNIDADE",
+      "CodInst": 1171,
+      "Precio": "1764.7059",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería de Litio\r\nVoltaje: 3V \r\nDiámetro: 16\r\nAltura: 2\r\nmAh: 225\r\nUnidad de empaque Blister x 5"
+    },
+    {
+      "CodProd": "MN-1500B2",
+      "Descrip": "BATERIA DURACELL AA ALCALINA BL X 12",
+      "CodInst": 1725,
+      "Precio": "1176.4706",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Batería AA \nAlcalina\nCapacidad 1,5v\nUnidad de empaque\n12unds"
+    },
+    {
+      "CodProd": "MN1604B1",
+      "Descrip": "BATERIA DURACEL ALCALINA 9V BL X 1",
+      "CodInst": 1725,
+      "Precio": "11344.5378",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Dimensiones: 49mmx25mmx16mm\r\r\nVotaje: 9V\r\r\nPeso: 52gr\r\nUnidad de empaque 1 und"
+    },
+    {
+      "CodProd": "MN-2400B2",
+      "Descrip": "BATERIA DURACELL AAA ALCALINA BL X 12",
+      "CodInst": 1725,
+      "Precio": "1176.4706",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Batería AAA\nAlacalina\nCapacidad 1,5v\nUnidad de empaque 12unds"
+    },
+    {
+      "CodProd": "CR1632",
+      "Descrip": "BATERIA SONY 3 V. LITHIUM BLISTER X 5",
+      "CodInst": 1171,
+      "Precio": "2605.0420",
+      "PrecioInternet": "33613.445",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería de Litio\r\nVoltaje: 3V \r\nDiámetro: 16\r\nAltura: 3,2\r\nmAh: 137\r\nUnidad de empaque Blister x 5"
+    },
+    {
+      "CodProd": "PR70",
+      "Descrip": "BATERIA SONY DE AUDICION PR70(10)BL X 6",
+      "CodInst": 1171,
+      "Precio": "1512.6050",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería de Zinc Air\r\nVoltaje: 1,44V\r\nDiámetro: 5,8\r\nAltura: 3,6\r\nmAh: 106\r\nUnidad de empaque Blister x 6"
+    },
+    {
+      "CodProd": "CR2016-S",
+      "Descrip": "BATERIA SONY LITHIUM 3V. BLISTER X 5",
+      "CodInst": 1171,
+      "Precio": "806.7227",
+      "PrecioInternet": "16806.723",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería de Litio\r\nVoltaje: 3V \r\nDiámetro: 20\r\nAltura: 1,6\r\nmAh: 225\r\nUnidad de empaque Blister x 5"
+    },
+    {
+      "CodProd": "CR-2025",
+      "Descrip": "BATERIA SONY LITHIUM CR2025",
+      "CodInst": 1171,
+      "Precio": "806.7227",
+      "PrecioInternet": "16806.723",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Litio\r\r\nVoltaje: 3V\r\r\n150 mAh\r\r\nDiámetro: 20mm\r\r\nAltura: 2.5mm\r\nUnidad de empaque Blister x 5"
+    },
+    {
+      "CodProd": "CR-2032",
+      "Descrip": "BATERIA SONY LITHIUM 3V. BLISTER X 5",
+      "CodInst": 1171,
+      "Precio": "806.7227",
+      "PrecioInternet": "16806.723",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería de Litio\r\nVoltaje: 3V \r\nDiámetro: 20\r\nAltura: 3,2\r\nmAh: 220\r\nUnidad de empaque Blister x 5"
+    },
+    {
+      "CodProd": "CR2430-M",
+      "Descrip": "BATERIA MURATA 3 V. BLITER X 5",
+      "CodInst": 1707,
+      "Precio": "3781.5126",
+      "PrecioInternet": "42016.807",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "DB-SS002",
+      "Descrip": "POWER BANK BESTON SOLAR DE 10.000 mAh",
+      "CodInst": 1455,
+      "Precio": "71428.5714",
+      "PrecioInternet": "105042.017",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Banco de energía inalámbrico con batería de polímero.Cuenta con una entrada Micro USB 5V-2A, cargador solar 5V 200mAh y salida USB1: 5V-1A / USB2: 5V-2.1A. Incluye: Cargador y Cable USB\r\nDimensiones: 22x12x4 cm\r\nPeso: 305 gr"
+    },
+    {
+      "CodProd": "SR621",
+      "Descrip": "BATERIA SONY 364 BLISTER X 5",
+      "CodInst": 1171,
+      "Precio": "798.3193",
+      "PrecioInternet": "8403.361",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería Óxido de Plata\r\nVoltaje: 1,55V \r\nDiámetro: 6,8\r\nAltura: 2,1\r\nmAh: 20\r\nUnidad de empaque Blister x 5"
+    },
+    {
+      "CodProd": "SR621SW",
+      "Descrip": "BATERIA SONY 364 BLISTER X 20",
+      "CodInst": 1171,
+      "Precio": "756.3025",
+      "PrecioInternet": "33613.445",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería Óxido de Plata\r\nVoltaje: 1,55V \r\nDiámetro: 6,8\r\nAltura: 2,1\r\nmAh: 23\r\nUnidad de empaque Blister x 20"
+    },
+    {
+      "CodProd": "SR626SW",
+      "Descrip": "BATERIA SONY 377 BLSITER X 20",
+      "CodInst": 1171,
+      "Precio": "756.3025",
+      "PrecioInternet": "33613.445",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería Óxido de Plata\r\nVoltaje: 1,55V \r\nDiámetro: 6,8\r\nAltura: 5,6\r\nmAh: 30\r\nUnidad de empaque Blister x 20"
+    },
+    {
+      "CodProd": "BST-LI18650",
+      "Descrip": "BATERIA BESTON RECARGABLE PARA LINTERNA",
+      "CodInst": 1455,
+      "Precio": "13445.3782",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería de Ión de Litio\r\nVoltaje: 3,7V\r\nDiámetro: \r\nAltura: \r\nmAh: 2600Dimensiones: 55X16X30mm\r\nUnidad de empaque 1 und"
+    },
+    {
+      "CodProd": "BST-LR6X2",
+      "Descrip": "BATERIA BESTON AA ALKALINA BLISTER X 2",
+      "CodInst": 1455,
+      "Precio": "798.3193",
+      "PrecioInternet": "2941.176",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Batería AA \r\nAlcalina\r\nCapacidad 1,5v\r\nUnidad de empaque Blister x 2"
+    },
+    {
+      "CodProd": "BST-M104U",
+      "Descrip": "CARGADOR BESTON UNIVERSAL BAT/CAM/CEL",
+      "CodInst": 1455,
+      "Precio": "11344.5378",
+      "PrecioInternet": "16386.555",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "DESCRIPCION\nCargador universal LCD para todo tipo de baterías digitales y batería de celular Li-ion 3.7V\nAutomáticamente identifica lado ?+? y el lado ?-?; así se inserte la batería al revés; podrá cargarse la batería\nEl LCD indica cuando está cargado; pero no puede mostrar porcentaje de carga de la batería\nCARGA BATERIAS DE LITHIUM PARA CELULAR\nCARGA BATERIAS DE LTHIUM PARA CAMARAS\nTODAS LAS BATERIAS DE CAM/CEL DE 3.7V\nPANTALLA LCD\nIDENTIFICA AUTOM. POSITIVO Y NEGATIVO\nEl LCD indica cuando está cargado; pero no puede mostrar porcentaje de carga de la batería\n\n\nLa corriente de carga constante y el voltaje mantienen la batería completamente cargada y con vida de uso más larga"
+    },
+    {
+      "CodProd": "SR936",
+      "Descrip": "BATERIA SONY 394 BLISTER X 5",
+      "CodInst": 1171,
+      "Precio": "3319.3277",
+      "PrecioInternet": "42016.807",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería Óxido de Plata\r\nVoltaje: 1,55V \r\nDiámetro: 9,5\r\nAltura: 3,6\r\nmAh: 75\r\nUnidad de empaque Blister x 5"
+    },
+    {
+      "CodProd": "BST-M533",
+      "Descrip": "CARGADOR BESTON  CON 3 PUERTOS USB",
+      "CodInst": 1455,
+      "Precio": "11344.5378",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "DESCRIPCION\nTRIPLE PUERTO USB: 5V DC 3.4A\nSE ADAPTA A DIFERENTES ENCHUFES CA\nTAMAÑO: 6,5 x 3,0 x 8,9 cm\nEntrada: 100-240V AC 50/60Hz\nSalida: 5V DC 3.4A\nLA LUZ LED SE ILUMINA MIENTRAS ESTE EN USO"
+    },
+    {
+      "CodProd": "GP250AAHC-C2N",
+      "Descrip": "BATERIA GP REC. RECYKO AA 2500 mAh BLX2",
+      "CodInst": 1174,
+      "Precio": "7142.8571",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Tipo AA \r\nRecargable ReCyko\r\nCapacidad 2500mAh\r\nUnidad de empaque Blister x 2"
+    },
+    {
+      "CodProd": "GP25A-C2",
+      "Descrip": "BATERIA GP AAAA ALCALINA BLISTER X 2",
+      "CodInst": 1174,
+      "Precio": "2352.9412",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería de Mercurio y Cadmio\r\nVoltaje: 1,5V\r\nDiámetro: \r\nAltura: \r\nmAh: 950Dimensiones: 0,9x0,9x4,3cms\r\nUnidad de empaque Blister x 2"
+    },
+    {
+      "CodProd": "GP270AAHC-C2N",
+      "Descrip": "BATERIA GP AA REC. RECYKO 2700 BL X 2",
+      "CodInst": 1174,
+      "Precio": "8151.2605",
+      "PrecioInternet": "23949.580",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Tipo AA \r\nRecargable\r\nReCyko\r\nCapacidad 2700mAh\r\nUnidad de empaque Blister x 2"
+    },
+    {
+      "CodProd": "T390-U1",
+      "Descrip": "BATERIA GP PARA TELEFO NIMH 2.4 V 910 MA",
+      "CodInst": 1174,
+      "Precio": "10714.2857",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Tipo \nPara Telefono Nimh\nCapacidad 2.4V 910mAh\nUnidad de empaque 1und"
+    },
+    {
+      "CodProd": "T444-C1",
+      "Descrip": "BATERIA GP PARA TELEFONO 3.6V 650 mAh",
+      "CodInst": 1174,
+      "Precio": "11092.4370",
+      "PrecioInternet": "19327.731",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Tipo \nPara Telefono Nimh\nCapacidad 3.6V 650mAh\nUnidad de empaque 1und"
+    },
+    {
+      "CodProd": "T504-C1",
+      "Descrip": "BATERIA GP TELEFONO",
+      "CodInst": 1174,
+      "Precio": "6680.6723",
+      "PrecioInternet": "14705.882",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Tipo \nPara Telefono \nRecargable Nimh\nCapacidad 600mAh\nUnidad de empaque 1und"
+    },
+    {
+      "CodProd": "GP27A",
+      "Descrip": "BATERIA GP 12V. PARA ALARMAS",
+      "CodInst": 1174,
+      "Precio": "1680.6723",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Tipo Cilindrica Para Alarmas\nTamaño: Mn27\nComposicion: Alcalina\nVoltaje Nominal: 12V\nUnidad de empaque 5unds"
+    },
+    {
+      "CodProd": "GPB410US210-LA4",
+      "Descrip": "CARGADOR GP PB410MINI 2 AANIM 210MAH Y2",
+      "CodInst": 1174,
+      "Precio": "35775.8621",
+      "PrecioInternet": "39495.798",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "DESCRIPCION\nGP ReCyko\nDuran más que las pilas alcalinas\nIncluy 2 pilas AA ReCyko+ de 2000mAh\nIncluy 2 pilas AAA ReCyko+ de 800mAh\nRecargables 1000 veces\nSiempre listas para usar\nIncluy 2 pilas AA ReCyko+ de 2000mAh\nRecarga nocturna segura"
+    },
+    {
+      "CodProd": "GPCR123A-2U1",
+      "Descrip": "BATERIA GP LITHIUM PHOTO CR123A 1300 MAH",
+      "CodInst": 1174,
+      "Precio": "6890.7563",
+      "PrecioInternet": "11344.538",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería de Litio\r\nVoltaje: 3V\r\nDiámetro: \r\nAltura: \r\nmAh: 1300Dimensiones: 16.8x34.5mm\r\nUnidad de empaque 1 und"
+    },
+    {
+      "CodProd": "LR1130-M",
+      "Descrip": "BATERIA MURATA ALCALINA 1.5 V. BL. X 5",
+      "CodInst": 1707,
+      "Precio": "1344.5378",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "MN1400B2",
+      "Descrip": "BATERIA DURACELL TIPO C ALCALINA BL X 2",
+      "CodInst": 1725,
+      "Precio": "5462.1849",
+      "PrecioInternet": "19327.731",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería Alcalina\r\nVoltaje: 1,5V\r\nDiámetro: \r\nAltura: \r\nmAh: \r\nUnidad de empaque Blister x 2"
+    },
+    {
+      "CodProd": "PR41",
+      "Descrip": "BATERIA SONY DE AUDICION PR41(312)BLX 6",
+      "CodInst": 1171,
+      "Precio": "1512.6050",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería de Zinc Air\r\nVoltaje: 1,44V\r\nDiámetro: 7,9\r\nAltura: 3,6\r\nmAh: 165\r\nUnidad de empaque Blister x 6"
+    },
+    {
+      "CodProd": "SR416",
+      "Descrip": "BATERIA SONY 337 BLISTER X 5",
+      "CodInst": 1171,
+      "Precio": "3277.3109",
+      "PrecioInternet": "37815.126",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería Óxido de Plata\r\nVoltaje: 1,55V \r\nDiámetro: 4,8\r\nAltura: 1,6\r\nmAh: 8\r\nUnidad de empaque Blister x 5"
+    },
+    {
+      "CodProd": "V23GA",
+      "Descrip": "BATERIA RAYOVAC 12V ALCALINA PARA ALARMA",
+      "CodInst": 1527,
+      "Precio": "1176.4706",
+      "PrecioInternet": "2941.176",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Fórmula sin Mercurio y Cadmio\r\r\r\nVoltaje: 12V\r\nUnidad de empaque 1 und"
+    },
+    {
+      "CodProd": "SR512",
+      "Descrip": "BATERIA SONY 335 BLISTER X 5",
+      "CodInst": 1171,
+      "Precio": "2731.0924",
+      "PrecioInternet": "33613.445",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería Óxido de Plata\r\nVoltaje: 1,55V \r\nDiámetro: 5,8\r\nAltura: 1,2\r\nmAh: 17\r\nUnidad de empaque Blister x 5"
+    },
+    {
+      "CodProd": "SR516",
+      "Descrip": "BATERIA SONY 317 BLISTER X 5",
+      "CodInst": 1171,
+      "Precio": "2100.8403",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería Óxido de Plata\r\nVoltaje: 1,55V \r\nDiámetro: 5,8\r\nAltura: 1,6\r\nmAh: 12,5\r\nUnidad de empaque Blister x 5"
+    },
+    {
+      "CodProd": "SR521",
+      "Descrip": "BATERIA SONY 379 BLISTER X 5",
+      "CodInst": 1171,
+      "Precio": "1302.5210",
+      "PrecioInternet": "14705.882",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería Óxido de Plata\r\nVoltaje: 1,55V \r\nDiámetro: 5,8\r\nAltura: 2,1\r\nmAh: 17\r\nUnidad de empaque Blister x 5"
+    },
+    {
+      "CodProd": "SR616",
+      "Descrip": "BATERIA SONY 321 BLISTER X5",
+      "CodInst": 1171,
+      "Precio": "2016.8067",
+      "PrecioInternet": "25210.084",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería Óxido de Plata\r\nVoltaje: 1,55V \r\nDiámetro: 6,8\r\nAltura: 1,6\r\nmAh: 16\r\nUnidad de empaque Blister x 5"
+    },
+    {
+      "CodProd": "SR716",
+      "Descrip": "BATERIA SONY 315 BLISTER X 5",
+      "CodInst": 1171,
+      "Precio": "2521.0084",
+      "PrecioInternet": "25210.084",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería Óxido de Plata\r\nVoltaje: 1,55V \r\nDiámetro: 7,9\r\nAltura: 1,6\r\nmAh: 23\r\nUnidad de empaque Blister x 5"
+    },
+    {
+      "CodProd": "E93BP-2",
+      "Descrip": "BATERIA ENERGIZER TIPO C ALKALINA BL X 2",
+      "CodInst": 1450,
+      "Precio": "3781.5126",
+      "PrecioInternet": "13865.546",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Dimensiones: 26,2mmx50mm\r\r\nVoltaje: 1.5 V\r\r\n8.35 Ah\r\r\nPeso: 66,2 grs\r\nUnidad de empaque Blister x 2"
+    },
+    {
+      "CodProd": "EL-123A",
+      "Descrip": "BATERIA ENERGIZER LITHIUM 3V BL X 1",
+      "CodInst": 1450,
+      "Precio": "5714.2857",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Dimensiones: 16,51mmx16,51mmx 34,29mm\r\r\nVoltaje: 3V\r\r\n1.5 Ah\r\r\nPeso: 250gr\r\nUnidad de empaque 1 und"
+    },
+    {
+      "CodProd": "GP100AAAHCE-2GB",
+      "Descrip": "BATERIA GP AAA RECARG RECYKO 950 mAh BX2",
+      "CodInst": 1174,
+      "Precio": "5462.1849",
+      "PrecioInternet": "16386.555",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Unidad de empaque Blister x 2"
+    },
+    {
+      "CodProd": "GP1604AUP-5U1",
+      "Descrip": "BATERIA GP 9V PLUS ULTRA ALKALINA",
+      "CodInst": 1174,
+      "Precio": "4285.7143",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Unidad de empaque 1 und"
+    },
+    {
+      "CodProd": "GP220CH-2LAC2",
+      "Descrip": "BATERIA GP TIPO C RECARGABLE BL X 2",
+      "CodInst": 1174,
+      "Precio": "11764.7059",
+      "PrecioInternet": "31932.773",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Tipo C \nRecargable\nCapacidad 2200mAh\nUnidad de empaque 2unds"
+    },
+    {
+      "CodProd": "GP220DH-C2",
+      "Descrip": "BATERIA GP D RECARGABLE",
+      "CodInst": 1174,
+      "Precio": "13025.2101",
+      "PrecioInternet": "35294.118",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Tipo D \nRecargable \nCapacidad 2200mAh\nUnidad de empaque 2unds"
+    },
+    {
+      "CodProd": "SR721",
+      "Descrip": "BATERIA SONY 362 BLISTER X 5 0% MERCURIO",
+      "CodInst": 1171,
+      "Precio": "2100.8403",
+      "PrecioInternet": "23109.244",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería Óxido de Plata\r\nVoltaje: 1,55V \r\nDiámetro: 7,9\r\nAltura: 2,1\r\nmAh: 29\r\nUnidad de empaque Blister x 5"
+    },
+    {
+      "CodProd": "SR916",
+      "Descrip": "BATERIA SONY 373 BLISTER X 5",
+      "CodInst": 1171,
+      "Precio": "3025.2101",
+      "PrecioInternet": "25210.084",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería Óxido de Plata\r\nVoltaje: 1,55V \r\nDiámetro: 9,5\r\nAltura: 1,6\r\nmAh: 30\r\nUnidad de empaque Blister x 5"
+    },
+    {
+      "CodProd": "T207-U1",
+      "Descrip": "BATERIA GP PARA TELEFONO NIMH",
+      "CodInst": 1174,
+      "Precio": "8277.3109",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Tipo \nPara Telefono Nimh\nCapacidad 3.6V 550mAh\nUnidad de empaque 1und"
+    },
+    {
+      "CodProd": "T380-U1",
+      "Descrip": "BATERIA GP PARA TELEFONO",
+      "CodInst": 1174,
+      "Precio": "12184.8739",
+      "PrecioInternet": "23949.580",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Tipo Para \nTelefono Nimh\nCapacidad 3.6V 850mAh\nUnidad de empaque 1und"
+    },
+    {
+      "CodProd": "TCR-1216",
+      "Descrip": "BATERIA TIANQIU 3 VOLTIOS",
+      "CodInst": 1179,
+      "Precio": "352.9412",
+      "PrecioInternet": "8403.361",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Material: Batería de Litio\r\nVoltaje: 3V\r\nDiámetro: 12,5\r\nAltura: 1,6\r\nmAh: 25\r\nUnidad de empaque Blister x 5"
+    },
+    {
+      "CodProd": "TRAAALR03ALB2",
+      "Descrip": "BATERIA TRONEX AAA ALCALINA BLISTER X 2",
+      "CodInst": 1465,
+      "Precio": "1008.4034",
+      "PrecioInternet": "3361.345",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Tipo AAA \r\nAlcalina\r\nCapacidad 1.5V Nominales\r\nUnidad de empaque Blister x 2"
+    },
+    {
+      "CodProd": "TRAALR6ALB2",
+      "Descrip": "BATERIA TRONEX AA ALCALINA BLX 2",
+      "CodInst": 1465,
+      "Precio": "1008.4034",
+      "PrecioInternet": "3361.345",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Tipo AA \r\nAlcalina\r\nCapacidad 1.5V Nominales\r\nUnidad de empaque Blister x 2"
+    },
+    {
+      "CodProd": "TRDLR20ALB2",
+      "Descrip": "BATERIA TRONEX ALCALINA D BL X 2",
+      "CodInst": 1465,
+      "Precio": "3529.4118",
+      "PrecioInternet": "11764.706",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Tipo D \r\nAlcalina\r\nCapacidad 1.5V\r\nUnidad de empaque Blister x 2"
+    },
+    {
+      "CodProd": "TRDR20RB2",
+      "Descrip": "BATERIA TRONEX TIPO D CARBON BLISTER X 2",
+      "CodInst": 1465,
+      "Precio": "1176.4706",
+      "PrecioInternet": "4873.950",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Tipo D \r\nCarbon\r\nCapacidad 1.5V\r\nUnidad de empaque Blister x 2"
+    },
+    {
+      "CodProd": "TSLR1130",
+      "Descrip": "BATERIA TOSHIBA ALCALINA BL X 10",
+      "CodInst": 1527,
+      "Precio": "1302.5210",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "TSLR41",
+      "Descrip": "BATERIA TOSHIBA ALCALINA 1.5V BL X 10",
+      "CodInst": 1527,
+      "Precio": "1302.5210",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "WXC-001",
+      "Descrip": "POWER BANK BESTON INALAMBRICO",
+      "CodInst": 1455,
+      "Precio": "31092.4370",
+      "PrecioInternet": "40756.303",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Batería De Polímero\nInput: Micro 5V/2A\nWireless Output: 5V/1A 5W Max\nChange Distance: Less Than 6 mm\nDimensión: 10,0 X 10,0 X 0,7 cm\nPeso Aprox.: 56,7G\nAdecuado Para Ipad, Iphone, Smart Phone, Mp3/Mp4, Psp/Nds\nWireless Output: 5V/1A 5W Max\nCapacidad 2000Mah"
+    },
+    {
+      "CodProd": "T157-U1",
+      "Descrip": "BATERIA GP PARA TELEFONO NiMH",
+      "CodInst": 1174,
+      "Precio": "8823.5294",
+      "PrecioInternet": "12184.874",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Tipo \nPara Telefono Nimh\nHhr-P301 Panasonic 36/37/38, At&T Ht-3400/4310/4410/5300, Emerson Tec 300, Sony Spp-55/65/90, Sanyo Cas120/Cas130/Clt440/Clt520/Clt6100/Clt6300\nCapacidad 3.6V 300mAh\nUnidad de empaque 1und"
+    },
+    {
+      "CodProd": "T160-U1",
+      "Descrip": "BATERIA GP PARA TELEFONO NiMH",
+      "CodInst": 1174,
+      "Precio": "8991.5966",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": "Bateria Tipo \nPara Telefono Nimh\nCapacidad 3.6V 600mAh\nUnidad de empaque 1und"
+    }
+  ]
+}

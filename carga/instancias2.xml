@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<instancias2>
+  <instancia>
+    <codinst>895</codinst>
+    <nivel>3</nivel>
+    <inspadre>971</inspadre>
+    <instanciabase>895</instanciabase>
+    <snpulso>S</snpulso>
+    <snbateria>N</snbateria>
+  </instancia>
+  <instancia>
+    <codinst>954</codinst>
+    <nivel>1</nivel>
+    <inspadre>0</inspadre>
+    <instanciabase>954,1307,964,1386,1332,1333,1412,1334,1335,1336,1337,1338,1339,1340,1341,1342,1413,1414,1415,1417,1418,1419,1421,1422,1664,970,1389,971,1054,895</instanciabase>
+    <snpulso>S</snpulso>
+    <snbateria>N</snbateria>
+  </instancia>
+  <instancia />
+  <instancia>
+    <codinst>964</codinst>
+    <nivel>2</nivel>
+    <inspadre>954</inspadre>
+    <instanciabase>964,1386,1332,1333,1412,1334,1335,1336,1337,1338,1339,1340,1341,1342,1413,1414,1415,1417,1418,1419,1421,1422,1664,970,1389</instanciabase>
+    <snpulso>S</snpulso>
+    <snbateria>N</snbateria>
+  </instancia>
+  <instancia>
+    <codinst>970</codinst>
+    <nivel>3</nivel>
+    <inspadre>964</inspadre>
+    <instanciabase>970</instanciabase>
+    <snpulso>S</snpulso>
+    <snbateria>N</snbateria>
+  </instancia>
+  <instancia>
+    <codinst>971</codinst>
+    <nivel>2</nivel>
+    <inspadre>954</inspadre>
+    <instanciabase>971,1054,895</instanciabase>
+    <snpulso>S</snpulso>
+    <snbateria>N</snbateria>
+  </instancia>
+  <instancia />
+  <instancia />
+  <instancia>
+    <codinst>1307</codinst>
+    <nivel>2</nivel>
+    <inspadre>954</inspadre>
+    <instanciabase>1307</instanciabase>
+    <snpulso>S</snpulso>
+    <snbateria>N</snbateria>
+  </instancia>
+  <instancia>
+    <codinst>1332</codinst>
+    <nivel>3</nivel>
+    <inspadre>964</inspadre>
+    <instanciabase>1332,1333,1412,1334,1335,1336,1337,1338,1339,1340,1341,1342,1413,1414,1415,1417,1418,1419,1421,1422</instanciabase>
+    <snpulso>S</snpulso>
+    <snbateria>N</snbateria>
+  </instancia>
+  <instancia>
+    <codinst>1333</codinst>
+    <nivel>4</nivel>
+    <inspadre>1332</inspadre>
+    <instanciabase>1333,1412,1334,1335,1336,1337,1338,1339,1340,1341,1342,1413,1414,1415,1417,1418,1419,1421,1422</instanciabase>
+    <snpulso>S</snpulso>
+    <snbateria>N</snbateria>
+  </instancia>
+  <instancia />
+  <instancia />
+  <instancia />
+  <instancia />
+  <instancia />
+  <instancia />
+  <instancia />
+  <instancia />
+  <instancia />
+  <instancia>
+    <codinst>1386</codinst>
+    <nivel>3</nivel>
+    <inspadre>964</inspadre>
+    <instanciabase>1386</instanciabase>
+    <snpulso>S</snpulso>
+    <snbateria>N</snbateria>
+  </instancia>
+  <instancia>
+    <codinst>1389</codinst>
+    <nivel>3</nivel>
+    <inspadre>964</inspadre>
+    <instanciabase>1389</instanciabase>
+    <snpulso>S</snpulso>
+    <snbateria>N</snbateria>
+  </instancia>
+  <instancia />
+  <instancia>
+    <codinst>1413</codinst>
+    <nivel>5</nivel>
+    <inspadre>1333</inspadre>
+    <instanciabase>1413,1414,1415,1417,1418,1419,1421,1422</instanciabase>
+    <snpulso>S</snpulso>
+    <snbateria>N</snbateria>
+  </instancia>
+  <instancia />
+  <instancia />
+  <instancia />
+  <instancia>
+    <codinst>1418</codinst>
+    <nivel>6</nivel>
+    <inspadre>1413</inspadre>
+    <instanciabase>1418</instanciabase>
+    <snpulso>S</snpulso>
+    <snbateria>N</snbateria>
+  </instancia>
+  <instancia>
+    <codinst>1419</codinst>
+    <nivel>6</nivel>
+    <inspadre>1413</inspadre>
+    <instanciabase>1419</instanciabase>
+    <snpulso>S</snpulso>
+    <snbateria>N</snbateria>
+  </instancia>
+  <instancia>
+    <codinst>1421</codinst>
+    <nivel>6</nivel>
+    <inspadre>1413</inspadre>
+    <instanciabase>1421</instanciabase>
+    <snpulso>S</snpulso>
+    <snbateria>N</snbateria>
+  </instancia>
+  <instancia>
+    <codinst>1422</codinst>
+    <nivel>6</nivel>
+    <inspadre>1413</inspadre>
+    <instanciabase>1422</instanciabase>
+    <snpulso>S</snpulso>
+    <snbateria>N</snbateria>
+  </instancia>
+  <instancia />
+  <instancia>
+    <codinst>1664</codinst>
+    <nivel>3</nivel>
+    <inspadre>964</inspadre>
+    <instanciabase>1664</instanciabase>
+    <snpulso>S</snpulso>
+    <snbateria>N</snbateria>
+  </instancia>
+  <instancia />
+  <instancia />
+  <instancia />
+</instancias2>

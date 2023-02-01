@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<paises>
+  <pais>
+    <Pais>2</Pais>
+    <Descrip>Colombia</Descrip>
+  </pais>
+  <pais>
+    <Pais>3</Pais>
+    <Descrip>Ecuador</Descrip>
+  </pais>
+  <pais>
+    <Pais>5</Pais>
+    <Descrip>PANAMA</Descrip>
+  </pais>
+  <pais>
+    <Pais>1</Pais>
+    <Descrip>Venezuela</Descrip>
+  </pais>
+</paises>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tiposBateria>
+  <tiposBateria>
+    <Id>1</Id>
+    <Descrip>AA</Descrip>
+  </tiposBateria>
+  <tiposBateria>
+    <Id>2</Id>
+    <Descrip>AAA</Descrip>
+  </tiposBateria>
+  <tiposBateria>
+    <Id>3</Id>
+    <Descrip>C</Descrip>
+  </tiposBateria>
+  <tiposBateria>
+    <Id>4</Id>
+    <Descrip>D</Descrip>
+  </tiposBateria>
+  <tiposBateria>
+    <Id>5</Id>
+    <Descrip>9V</Descrip>
+  </tiposBateria>
+  <tiposBateria>
+    <Id>6</Id>
+    <Descrip>N</Descrip>
+  </tiposBateria>
+  <tiposBateria>
+    <Id>7</Id>
+    <Descrip>TELEFONICAS</Descrip>
+  </tiposBateria>
+  <tiposBateria>
+    <Id>8</Id>
+    <Descrip>BOTON</Descrip>
+  </tiposBateria>
+  <tiposBateria>
+    <Id>9</Id>
+    <Descrip>MONEDA</Descrip>
+  </tiposBateria>
+  <tiposBateria>
+    <Id>11</Id>
+    <Descrip>ESPECIALES</Descrip>
+  </tiposBateria>
+  <tiposBateria>
+    <Id>14</Id>
+    <Descrip>AAAA</Descrip>
+  </tiposBateria>
+  <tiposBateria>
+    <Id>15</Id>
+    <Descrip> 12 VOLTIOS</Descrip>
+  </tiposBateria>
+</tiposBateria>

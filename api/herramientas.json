@@ -1,0 +1,868 @@
+{
+  "productos": [
+    {
+      "CodProd": "0038",
+      "Descrip": "DESTORNILLADOR CON MANGO Y PUNTAS INTERC",
+      "CodInst": 897,
+      "Precio": "31512.6050",
+      "PrecioInternet": "46218.487",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "00-SA",
+      "Descrip": "PINZA DE RELOJERIA",
+      "CodInst": 897,
+      "Precio": "13109.2437",
+      "PrecioInternet": "19327.731",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "105S.12",
+      "Descrip": "HEBILLA ACERO PEGASO",
+      "CodInst": 1212,
+      "Precio": "155.4622",
+      "PrecioInternet": "0.000",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "105S.18",
+      "Descrip": "HEBILLA ACERO PEGASO",
+      "CodInst": 1212,
+      "Precio": "155.4622",
+      "PrecioInternet": "0.000",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "105S.20",
+      "Descrip": "HEBILLA ACERO PEGASO",
+      "CodInst": 1212,
+      "Precio": "155.4622",
+      "PrecioInternet": "0.000",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "105S.22",
+      "Descrip": "HEBILLA ACERO PEGASO",
+      "CodInst": 1212,
+      "Precio": "155.4622",
+      "PrecioInternet": "0.000",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "10GE",
+      "Descrip": "KIT DE PASADORES SURTIDO (DEL 21 AL 30 )",
+      "CodInst": 1213,
+      "Precio": "9243.6975",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1100",
+      "Descrip": "UTIL PARA ABRIR RELOJES",
+      "CodInst": 897,
+      "Precio": "5714.2857",
+      "PrecioInternet": "12184.874",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1101",
+      "Descrip": "UTIL DE ROSCA PARA RECORTAR PULSOS",
+      "CodInst": 897,
+      "Precio": "7983.1933",
+      "PrecioInternet": "13865.546",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1102",
+      "Descrip": "NAVAJA CON MANGO PARA ABRIR RELOJES",
+      "CodInst": 897,
+      "Precio": "15546.2185",
+      "PrecioInternet": "26890.756",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1103",
+      "Descrip": "PELOTA PARA ABRIR RELOJES DE ROSCA",
+      "CodInst": 897,
+      "Precio": "3781.5126",
+      "PrecioInternet": "7563.025",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1109",
+      "Descrip": "MANDRIL GRANDE PARA RELOJERIA",
+      "CodInst": 897,
+      "Precio": "15546.2185",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1110",
+      "Descrip": "LUPA PARA RELOJERO",
+      "CodInst": 897,
+      "Precio": "4033.6134",
+      "PrecioInternet": "7983.193",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1114",
+      "Descrip": "TARRO DE SILICONA PARA IMPERM. RELOJES",
+      "CodInst": 897,
+      "Precio": "11764.7059",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1115",
+      "Descrip": "PUNTA DE REPUESTO PARA UTIL DE RECORTAR",
+      "CodInst": 897,
+      "Precio": "1512.6050",
+      "PrecioInternet": "2521.008",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "150-C",
+      "Descrip": "UTIL PARA PERFORAR MANILLAS PUNTA CUADRA",
+      "CodInst": 897,
+      "Precio": "16386.5546",
+      "PrecioInternet": "32352.941",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "150-R",
+      "Descrip": "UTIL PARA PERFORAR MANILLAS PUNTA REDOND",
+      "CodInst": 897,
+      "Precio": "16386.5546",
+      "PrecioInternet": "32352.941",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "150-RT",
+      "Descrip": "UTIL PARA PERFORAR MANILLAS PUNTA RECTAN",
+      "CodInst": 897,
+      "Precio": "16386.5546",
+      "PrecioInternet": "32352.941",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "15TA01-11TR",
+      "Descrip": "UTIL PARA RECORTAR PULSOS",
+      "CodInst": 897,
+      "Precio": "5042.0168",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "18GE",
+      "Descrip": "KIT DE PASADORES SURTIDOS ( DEL 8 AL 25",
+      "CodInst": 1213,
+      "Precio": "9243.6975",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "2168-13G",
+      "Descrip": "MODULO PARA RELOJ DE PARED PIN 13/COLGAD",
+      "CodInst": 1241,
+      "Precio": "1176.4706",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "2168-18",
+      "Descrip": "MODULO PARA RELOJ DE PARED PIN 19mm",
+      "CodInst": 1241,
+      "Precio": "1680.6723",
+      "PrecioInternet": "5882.353",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "2168-9",
+      "Descrip": "MODULO PARA RELOJ DE PARED PIN 9mm",
+      "CodInst": 1241,
+      "Precio": "1176.4706",
+      "PrecioInternet": "5042.017",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "2288-13",
+      "Descrip": "MODULO PARA RELOJ DE PARED PIN 13mm",
+      "CodInst": 1241,
+      "Precio": "1428.5714",
+      "PrecioInternet": "3361.345",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "2288-15",
+      "Descrip": "MODULO PARA RELOJ DE PARED PIN 15mm",
+      "CodInst": 1241,
+      "Precio": "1428.5714",
+      "PrecioInternet": "3361.345",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "2288-G13",
+      "Descrip": "MODULO PARA RELOJ DE PARED PIN 13mm COL.",
+      "CodInst": 1241,
+      "Precio": "1428.5714",
+      "PrecioInternet": "3361.345",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "2288-G15",
+      "Descrip": "MODULO PARA RELOJ DE PARED PIN 15mm COL.",
+      "CodInst": 1241,
+      "Precio": "1428.5714",
+      "PrecioInternet": "3361.345",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "2288-G22",
+      "Descrip": "MODULO PARA RELOJ DE PARED PIN 22mm COL.",
+      "CodInst": 1241,
+      "Precio": "2352.9412",
+      "PrecioInternet": "5042.017",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "2320S.12",
+      "Descrip": "HEBILLA PEGASO DEPORTIVA ACER #12 P.X100",
+      "CodInst": 1212,
+      "Precio": "301.7200",
+      "PrecioInternet": "0.000",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "2320S.14",
+      "Descrip": "HEBILLA PEGASO DEPORTIVA ACER #14 P.X100",
+      "CodInst": 1212,
+      "Precio": "301.7200",
+      "PrecioInternet": "0.000",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "2320S.16",
+      "Descrip": "HEBILLA PEGASO DEPORTIVA ACER #16 P.X100",
+      "CodInst": 1212,
+      "Precio": "301.7200",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "2320S.20",
+      "Descrip": "HEBILLA PEGASO DEPORTIVA ACER #20 P.X100",
+      "CodInst": 1212,
+      "Precio": "301.7160",
+      "PrecioInternet": "0.000",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "2320S.22",
+      "Descrip": "HEBILLA PEGASO DEPORTIVA ACER #22 P.X100",
+      "CodInst": 1212,
+      "Precio": "301.7160",
+      "PrecioInternet": "0.000",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "2320S.24",
+      "Descrip": "HEBILLA PEGASO DEPORTIVA ACER #24 P.X100",
+      "CodInst": 1212,
+      "Precio": "301.7200",
+      "PrecioInternet": "0.000",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "2819",
+      "Descrip": "LLAVE DE 3 MUELAS PARA RELOJES JUMBO",
+      "CodInst": 897,
+      "Precio": "29411.7647",
+      "PrecioInternet": "41596.639",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3X",
+      "Descrip": "LUPA PARA RELOJERO",
+      "CodInst": 897,
+      "Precio": "13445.3782",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "478",
+      "Descrip": "LLAVE PARA ABRIR RELOJES",
+      "CodInst": 897,
+      "Precio": "11034.4828",
+      "PrecioInternet": "16379.310",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5A12",
+      "Descrip": "PRENSA DE ROSCA PARA TAPAR RELOJES",
+      "CodInst": 897,
+      "Precio": "247899.1597",
+      "PrecioInternet": "306722.689",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "6484",
+      "Descrip": "UTIL PARA ABRIR RELOJES TIPO DESTORNILLA",
+      "CodInst": 897,
+      "Precio": "12184.8739",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "6A",
+      "Descrip": "LLAVE DE DOS MUELAS PARA ABRIR RELOJES",
+      "CodInst": 897,
+      "Precio": "18907.5630",
+      "PrecioInternet": "26890.756",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "A-19",
+      "Descrip": "UTIL PARA RECORTAR PULSOS DE CUERO Y PLA",
+      "CodInst": 897,
+      "Precio": "31512.6050",
+      "PrecioInternet": "49159.664",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "A23",
+      "Descrip": "UTIL PARA COLOCAR PASADORES DE RELOJ",
+      "CodInst": 897,
+      "Precio": "12436.9748",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "A28",
+      "Descrip": "JUEGO DE DESTORNILLADORES DE RELOJERIA",
+      "CodInst": 897,
+      "Precio": "44117.6471",
+      "PrecioInternet": "71428.571",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "A39",
+      "Descrip": "UTIL PARA ABRIR RELOJES DE TAPA A PRESIO",
+      "CodInst": 897,
+      "Precio": "13865.5462",
+      "PrecioInternet": "22689.076",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "A805",
+      "Descrip": "JUEGO DE PINZAS PARA RELOJERO SET X 6 UN",
+      "CodInst": 897,
+      "Precio": "33193.2773",
+      "PrecioInternet": "54621.849",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "A888",
+      "Descrip": "KIT DE HERRAMIENTAS PARA RELOJERO",
+      "CodInst": 897,
+      "Precio": "31512.6050",
+      "PrecioInternet": "46218.487",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "A999",
+      "Descrip": "KIT COMPLETO DE HRRAMIENTAS P/RELOJERO",
+      "CodInst": 897,
+      "Precio": "115966.3866",
+      "PrecioInternet": "150420.168",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "B3",
+      "Descrip": "PROBADOR DE BATERIAS DE BOTON",
+      "CodInst": 897,
+      "Precio": "8235.2941",
+      "PrecioInternet": "14285.714",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "D22",
+      "Descrip": "DESTORNILLADOR MULTI-USO",
+      "CodInst": 897,
+      "Precio": "9663.8655",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "D50",
+      "Descrip": "RELOJ DE EMPOTRAR 50 mm",
+      "CodInst": 1241,
+      "Precio": "2689.0756",
+      "PrecioInternet": "5462.185",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "D53C",
+      "Descrip": "RELOJ DE EMPOTRAR COLONIAL DORADO 53mm",
+      "CodInst": 1241,
+      "Precio": "3193.2773",
+      "PrecioInternet": "6722.689",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "D53C-S",
+      "Descrip": "RELOJ DE EMPOTRAR COLONIAL PLATEADO 53mm",
+      "CodInst": 1241,
+      "Precio": "3193.2773",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "D60",
+      "Descrip": "RELOJ DE EMPOTRAR 60  DORADO mm",
+      "CodInst": 1241,
+      "Precio": "2689.0756",
+      "PrecioInternet": "5462.185",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "D60-S",
+      "Descrip": "RELOJ DE EMPOTRAR PLATEADO 60 mm",
+      "CodInst": 1241,
+      "Precio": "2689.0756",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "H004.18",
+      "Descrip": "CHAPA LARGA ACERO #18",
+      "CodInst": 1212,
+      "Precio": "1008.4034",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "H005.18",
+      "Descrip": "CHAPA DE ACERO TRANCA CORTA #18",
+      "CodInst": 1212,
+      "Precio": "672.2689",
+      "PrecioInternet": "3361.345",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "M2188T-T9",
+      "Descrip": "MODULO PARA RELOJ DE PARED PIN 9mm",
+      "CodInst": 1241,
+      "Precio": "1176.4706",
+      "PrecioInternet": "0.000",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "M5168-T13",
+      "Descrip": "MODULO MUSICAL PARA RELOJ DE PARED 13mm",
+      "CodInst": 1241,
+      "Precio": "3193.2773",
+      "PrecioInternet": "10924.370",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "MYT-2035",
+      "Descrip": "MOVIMIENTO MIYOTA SILVER",
+      "CodInst": 1696,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "N12S.15",
+      "Descrip": "NUMEROS ARABIGOS PLATEADOS R/PARED 15mm",
+      "CodInst": 1241,
+      "Precio": "336.1345",
+      "PrecioInternet": "1680.672",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "N13D.15",
+      "Descrip": "NUMEROS ROMANOS DORADOS R/PARED 15mm",
+      "CodInst": 1241,
+      "Precio": "336.1345",
+      "PrecioInternet": "1680.672",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "N-6N.12",
+      "Descrip": "NUMEROS PARA RELOJ DE PARED NEGROS 12mm",
+      "CodInst": 1241,
+      "Precio": "352.9412",
+      "PrecioInternet": "1260.504",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PC21",
+      "Descrip": "MOVIMIENTO PC21",
+      "CodInst": 1696,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PSC-10",
+      "Descrip": "PASADOR PARA RELOJ EN BOLSA #10",
+      "CodInst": 1213,
+      "Precio": "12605.0420",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PSC-11",
+      "Descrip": "PASADOR PARA RELOJ EN BOLSA #11",
+      "CodInst": 1213,
+      "Precio": "12605.0420",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PSC-12",
+      "Descrip": "PASADOR PARA RELOJ EN BOLSA #12",
+      "CodInst": 1213,
+      "Precio": "12605.0420",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PSC-13",
+      "Descrip": "PASADOR PARA RELOJ EN BOLSA #13",
+      "CodInst": 1213,
+      "Precio": "12605.0420",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PSC-14",
+      "Descrip": "PASADOR PARA RELOJ EN BOLSA #14",
+      "CodInst": 1213,
+      "Precio": "12605.0420",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PSC-15",
+      "Descrip": "PASADOR PARA RELOJ EN BOLSA #15",
+      "CodInst": 1213,
+      "Precio": "12605.0420",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PSC-16",
+      "Descrip": "PASADOR PARA RELOJ EN BOLSA #16",
+      "CodInst": 1213,
+      "Precio": "12605.0420",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PSC-17",
+      "Descrip": "PASADOR PARA RELOJ EN BOLSA  #17",
+      "CodInst": 1213,
+      "Precio": "12605.0420",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PSC-18",
+      "Descrip": "PASADOR PARA RELOJ EN BOLSA  #18",
+      "CodInst": 1213,
+      "Precio": "12605.0420",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PSC-19",
+      "Descrip": "PASADOR PARA RELOJ EN BOLSA  #19",
+      "CodInst": 1213,
+      "Precio": "12605.0420",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PSC-20",
+      "Descrip": "PASADOR PARA RELOJ EN BOLSA  #20",
+      "CodInst": 1213,
+      "Precio": "12605.0420",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PSC-21",
+      "Descrip": "PASADOR PARA RELOJ EN BOLSA  #21",
+      "CodInst": 1213,
+      "Precio": "16386.5546",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PSC-22",
+      "Descrip": "PASADOR PARA RELOJ EN BOLSA  #22",
+      "CodInst": 1213,
+      "Precio": "16386.5546",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PSC-23",
+      "Descrip": "PASADOR PARA RELOJ EN BOLSA  #23",
+      "CodInst": 1213,
+      "Precio": "16386.5546",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PSC-24",
+      "Descrip": "PASADOR PARA RELOJ EN BOLSA  #24",
+      "CodInst": 1213,
+      "Precio": "16386.5546",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PSC-26",
+      "Descrip": "PASADOR PARA RELOJ EN BOLSA  #26",
+      "CodInst": 1213,
+      "Precio": "16386.5546",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PSC-28",
+      "Descrip": "PASADOR PARA RELOJ EN BOLSA  #28",
+      "CodInst": 1213,
+      "Precio": "16386.5546",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PSC-30",
+      "Descrip": "PASADOR PARA RELOJ EN BOLSA  #30",
+      "CodInst": 1213,
+      "Precio": "16386.5546",
+      "PrecioInternet": "29411.765",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PSC-8",
+      "Descrip": "PASADOR PARA RELOJ EN BOLSA #8",
+      "CodInst": 1213,
+      "Precio": "12605.0420",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PSC-9",
+      "Descrip": "PASADOR PARA RELOJ EN BOLSA #9",
+      "CodInst": 1213,
+      "Precio": "12605.0420",
+      "PrecioInternet": "23529.412",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "S1315S.22",
+      "Descrip": "HEBILLA ACERO DEPORTIVA",
+      "CodInst": 1212,
+      "Precio": "155.4622",
+      "PrecioInternet": "0.000",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "S1315S.24",
+      "Descrip": "HEBILLA ACERO DEPORTIVA",
+      "CodInst": 1212,
+      "Precio": "155.4622",
+      "PrecioInternet": "0.000",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "S1315S.28",
+      "Descrip": "HEBILLA ACERO DEPORTIVA",
+      "CodInst": 1212,
+      "Precio": "155.4622",
+      "PrecioInternet": "0.000",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "S1315S.30",
+      "Descrip": "HEBILLA ACERO DEPORTIVA",
+      "CodInst": 1212,
+      "Precio": "155.4622",
+      "PrecioInternet": "0.000",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "S-2288-13",
+      "Descrip": "MODULO PARA RELOJ/PARED SILEN. PIN 13mm",
+      "CodInst": 1241,
+      "Precio": "1680.6723",
+      "PrecioInternet": "5882.353",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "S-2288-15",
+      "Descrip": "MODULO PARA RELOJ/PARED SILEN. PIN 15mm",
+      "CodInst": 1241,
+      "Precio": "1680.6723",
+      "PrecioInternet": "5882.353",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "S-2288-G13",
+      "Descrip": "MODULO  RELOJ/PARED SILEN. PIN 13mm COLG",
+      "CodInst": 1241,
+      "Precio": "1680.6723",
+      "PrecioInternet": "5882.353",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "S-2288-G15",
+      "Descrip": "MODULO  RELOJ/PARED SILEN. PIN 15mm COLG",
+      "CodInst": 1241,
+      "Precio": "1680.6723",
+      "PrecioInternet": "5882.353",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "SHE.K",
+      "Descrip": "PINZAS PARA ABRIRL RELOJES DE TAPA ROSCA",
+      "CodInst": 897,
+      "Precio": "35294.1176",
+      "PrecioInternet": "60504.202",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "SK1173",
+      "Descrip": "PERA DE RELOJERIA",
+      "CodInst": 897,
+      "Precio": "8235.2941",
+      "PrecioInternet": "15546.218",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "SL-68",
+      "Descrip": "MOVIMIENTO PARA RELOJ DE PULSO",
+      "CodInst": 1696,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "WLD",
+      "Descrip": "TESTER CON DESINMANTADOR",
+      "CodInst": 897,
+      "Precio": "71008.4034",
+      "PrecioInternet": "100840.336",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "YD-108",
+      "Descrip": "PRENSA PARA TAPAR RELOJES",
+      "CodInst": 897,
+      "Precio": "35294.1176",
+      "PrecioInternet": "57142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    }
+  ]
+}

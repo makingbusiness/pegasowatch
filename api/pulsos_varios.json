@@ -1,0 +1,1984 @@
+{
+  "productos": [
+    {
+      "CodProd": "3004.20.1",
+      "Descrip": "PULSO PLASTICO CON APLIQUES MET. #20",
+      "CodInst": 895,
+      "Precio": "1344.5378",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3004.22.1",
+      "Descrip": "PULSO PLASTICO CON APLIQUES MET. #22",
+      "CodInst": 895,
+      "Precio": "1344.5378",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "3004.24.1",
+      "Descrip": "PULSO PLASTICO CON APLIQUES MET. #24",
+      "CodInst": 895,
+      "Precio": "1344.5378",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5110.12.0",
+      "Descrip": "PULSO PVC TRANSPARENTE #12",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5110.14.0",
+      "Descrip": "PULSO PVC TRANSPARENTE #14",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5110.16.0",
+      "Descrip": "PULSO PVC TRANSPARENTE #16",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "5110.18.0",
+      "Descrip": "PULSO PVC TRANSPARENTE #18",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "8828.12.1",
+      "Descrip": "PULSO PVC PARA Q&Q #12",
+      "CodInst": 895,
+      "Precio": "378.1513",
+      "PrecioInternet": "6302.521",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "8828.14.1",
+      "Descrip": "PULSO PLASTICO Q&Q #14",
+      "CodInst": 895,
+      "Precio": "378.1513",
+      "PrecioInternet": "6302.521",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "8828.18.1",
+      "Descrip": "PULSO PVC PARA Q&Q #18",
+      "CodInst": 895,
+      "Precio": "378.1513",
+      "PrecioInternet": "6302.521",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "9186P.18.1",
+      "Descrip": "PULSO PVC TELEMEMO HEBILLA PLASTICA #18",
+      "CodInst": 895,
+      "Precio": "420.1681",
+      "PrecioInternet": "7983.193",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "9186P.20.1",
+      "Descrip": "PULSO PVC TELEMEMO HEBILLA PLASTICA #20",
+      "CodInst": 895,
+      "Precio": "420.1681",
+      "PrecioInternet": "7983.193",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "9186S.18.1",
+      "Descrip": "PULSO PVC TELEMEMO HEBILLA ACERO #18",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "9186S.20.1",
+      "Descrip": "PULSO PVC TELEMEMO HEBILLA ACERO #20",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "9596S.12.0",
+      "Descrip": "PULSO TRANSPARENTE HIELO #12",
+      "CodInst": 895,
+      "Precio": "1008.4034",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "9596S.12.11",
+      "Descrip": "PULSO TRANSPARENTE VERDE #12",
+      "CodInst": 895,
+      "Precio": "1008.4034",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "9596S.12.14",
+      "Descrip": "PULSO TRANSPARENTE ROSADO #12",
+      "CodInst": 895,
+      "Precio": "1008.4034",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "9596S.12.9",
+      "Descrip": "PULSO TRANSPARENTE AZUL #12",
+      "CodInst": 895,
+      "Precio": "1008.4034",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "9596S.18.11",
+      "Descrip": "PULSO TRANSPARENTE VERDE #18",
+      "CodInst": 895,
+      "Precio": "1008.4034",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "9596S.18.14",
+      "Descrip": "PULSO TRANSPARENTE ROSADO #18",
+      "CodInst": 895,
+      "Precio": "1008.4034",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "9596S.18.9",
+      "Descrip": "PULSO TRANSPARENTE AZUL #18",
+      "CodInst": 895,
+      "Precio": "1008.4034",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1010.16.1",
+      "Descrip": "PULSO  PVC PARA  G-SHOCK #16 HEBILLA M",
+      "CodInst": 895,
+      "Precio": "1344.5378",
+      "PrecioInternet": "12184.874",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1011SP.16.1",
+      "Descrip": "PULSO PVC PARA BABY-G NEGRA #16",
+      "CodInst": 895,
+      "Precio": "1176.4706",
+      "PrecioInternet": "12184.874",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1035.1",
+      "Descrip": "PULSO PVC PARA G-SHOCK",
+      "CodInst": 895,
+      "Precio": "1092.4370",
+      "PrecioInternet": "11764.706",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.12.1",
+      "Descrip": "PULSO PVC NEGRO PLANO HEBILLA METAL#12",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.12.12",
+      "Descrip": "PULSO PVC FUCSIA PLANO HEBILLA MET#12",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.12.13",
+      "Descrip": "PULSO PVC AZUL/R PLANO HEBILLA MET#12",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.12.14",
+      "Descrip": "PULSO PVC ROSADO PLANO HEBILLA MET#12",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.12.15",
+      "Descrip": "PULSO PVC MORADO PLANO HEBILLA MET#12",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.12.22",
+      "Descrip": "PULSO PVC BLANCO PLANO HEBILLA MET#12",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.12.6",
+      "Descrip": "PULSO PVC ROJA PLANO HEBILLA MET#12",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.12.9",
+      "Descrip": "PULSO PVC AZUL/C PLANO HEBILLA MET#12",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.14.1",
+      "Descrip": "PULSO PVC NEGRO PLANO HEBILLA METAL#14",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.14.12",
+      "Descrip": "PULSO PVC FUCSIA PLANO HEBILLA MET#12",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.14.13",
+      "Descrip": "PULSO PVC AZUL/R PLANO HEBILLA MET#14",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.14.14",
+      "Descrip": "PULSO PVC ROSADO PLANO HEBILLA MET#14",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.14.15",
+      "Descrip": "PULSO PVC MORADO PLANO HEBILLA MET#14",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.14.22",
+      "Descrip": "PULSO PVC BLANCO PLANO HEBILLA MET#14",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.14.6",
+      "Descrip": "PULSO PVC ROJA PLANO HEBILLA MET#14",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.14.9",
+      "Descrip": "PULSO PVC AZUL/C PLANO HEBILLA MET#14",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.16.1",
+      "Descrip": "PULSO PVC NEGRO PLANO HEBILLA METAL#16",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.16.12",
+      "Descrip": "PULSO PVC FUCSIA PLANO HEBILLA MET#16",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.16.13",
+      "Descrip": "PULSO PVC AZUL/R PLANO HEBILLA MET#16",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.16.14",
+      "Descrip": "PULSO PVC ROSADO PLANO HEBILLA MET#16",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.16.15",
+      "Descrip": "PULSO PVC MORADO PLANO HEBILLA MET#16",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.16.22",
+      "Descrip": "PULSO PVC BLANCO PLANO HEBILLA MET#16",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.16.6",
+      "Descrip": "PULSO PVC ROJA PLANO HEBILLA MET#16",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.16.9",
+      "Descrip": "PULSO PVC AZUL/C PLANO HEBILLA MET#16",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.18.1",
+      "Descrip": "PULSO PVC NEGRO PLANO HEBILLA METAL#18",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.18.12",
+      "Descrip": "PULSO PVC FUCSIA PLANO HEBILLA MET#18",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.18.13",
+      "Descrip": "PULSO PVC AZUL/R PLANO HEBILLA MET#18",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.18.14",
+      "Descrip": "PULSO PVC ROSADO PLANO HEBILLA MET#18",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.18.15",
+      "Descrip": "PULSO PVC MORADO PLANO HEBILLA MET#18",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.18.6",
+      "Descrip": "PULSO PVC ROJA PLANO HEBILLA MET#18",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.20.1",
+      "Descrip": "PULSO PVC NEGRO PLANO HEBILLA METAL#20",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.20.12",
+      "Descrip": "PULSO PVC FUCSIA PLANO HEBILLA MET#20",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.20.13",
+      "Descrip": "PULSO PVC AZUL/R PLANO HEBILLA MET#20",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.20.14",
+      "Descrip": "PULSO PVC ROSADO PLANO HEBILLA MET#20",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.20.15",
+      "Descrip": "PULSO PVC MORADO PLANO HEBILLA MET#20",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.20.9",
+      "Descrip": "PULSO PVC AZUL/C PLANO HEBILLA MET#20",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.22.12",
+      "Descrip": "PULSO PVC FUCSIA PLANO HEBILLA MET#22",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.22.13",
+      "Descrip": "PULSO PVC AZUL/R PLANO HEBILLA MET#22",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.22.14",
+      "Descrip": "PULSO PVC ROSADO PLANO HEBILLA MET#22",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.22.15",
+      "Descrip": "PULSO PVC MORADO PLANO HEBILLA MET#22",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.22.6",
+      "Descrip": "PULSO PVC ROJA PLANO HEBILLA MET#22",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P1148.22.9",
+      "Descrip": "PULSO PVC AZUL/C PLANO HEBILLA MET#22",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P127.18.1",
+      "Descrip": "PULSO PVC PARA G-SHOCK HEB. METAL#18",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P127.20.1",
+      "Descrip": "PULSO PVC PARA G-SHOCK HEB. METAL#20",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P127.22.1",
+      "Descrip": "PULSO PVC PARA G-SHOCK HEB. METAL#22",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P127.26.1",
+      "Descrip": "PULSO PVC PARA G-SHOCK HEB. METAL#26",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P200.18.1",
+      "Descrip": "PULSO PVC PARA CASIO G-SHOCK #18",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P200.20.1",
+      "Descrip": "PULSO PVC PARA CASIO G-SHOCK #20",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P200.22.1",
+      "Descrip": "PULSO PVC PARA G-SHOCK #22",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P200.24.1",
+      "Descrip": "PULSO PVC PARA G-SHOCK #24",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P200.26.1",
+      "Descrip": "PULSO PVC PARA G-SHOCK #22",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P200.28.1",
+      "Descrip": "PULSO PVC PARA CASIO G-SHOCK #28",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P2005.12.1",
+      "Descrip": "PULSO PVC PARA CASIO #12",
+      "CodInst": 895,
+      "Precio": "403.3613",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P204P.22.1",
+      "Descrip": "PULSO PVC DATABANK HEBILLA PLASTICA #22",
+      "CodInst": 895,
+      "Precio": "546.2185",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P204S.22.1",
+      "Descrip": "PULSO PVC DATABANK HEBILLA ACERO #22",
+      "CodInst": 895,
+      "Precio": "630.2521",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P2236SP.22.1",
+      "Descrip": "PULSO PVC NEGRO HEBILLA METALICA #22",
+      "CodInst": 895,
+      "Precio": "672.2689",
+      "PrecioInternet": "7983.193",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P259S.20.1",
+      "Descrip": "PULSO PVC NEGRO HEBILLA METAL #20",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P260P.16.1",
+      "Descrip": "PULSO PVC PARA CASIO REDONDO NEGR #16",
+      "CodInst": 895,
+      "Precio": "268.9076",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P283.18.1",
+      "Descrip": "PULSO PVC PARA CASIO F-91 #18",
+      "CodInst": 895,
+      "Precio": "378.1513",
+      "PrecioInternet": "6302.521",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P283.20.1",
+      "Descrip": "PULSO PVC PARA F-91 #20",
+      "CodInst": 895,
+      "Precio": "378.1513",
+      "PrecioInternet": "6302.521",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P283S.12.1",
+      "Descrip": "PULSO PVC PARA F-91 #12",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "6722.689",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P304",
+      "Descrip": "PULSO PVC PARA G-SHOCK",
+      "CodInst": 895,
+      "Precio": "672.2689",
+      "PrecioInternet": "11764.706",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3100S.18.6",
+      "Descrip": "PULSO PVC T.BENETTON  ROJA H/MET.#18",
+      "CodInst": 895,
+      "Precio": "420.1681",
+      "PrecioInternet": "4201.681",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P321P.20.1",
+      "Descrip": "PULSO PVC DATABANK HEBILLA PLASTICA #22",
+      "CodInst": 895,
+      "Precio": "336.1345",
+      "PrecioInternet": "6722.689",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P321P.22.1",
+      "Descrip": "PULSO PVC NEGRA HEBILLA PLASTICA #22",
+      "CodInst": 895,
+      "Precio": "336.1345",
+      "PrecioInternet": "6722.689",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P321S.20.1",
+      "Descrip": "PULSO PVC HEBILLA ACERO #20",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P321S.22.1",
+      "Descrip": "PULSO PVC HEBILLA ACERO #20",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304AS.16.0117",
+      "Descrip": "PULSO PVC NEGRO ORO ROSA HEB. PLAT. #16",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304AS.16.1617",
+      "Descrip": "PULSO PVC AZUL ORO ROSA HEB. PLAT. #16",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304S.14.01",
+      "Descrip": "PULSO PVC TIPO METAL PAVONADO #14",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304S.14.07",
+      "Descrip": "PULSO PVC TIPO METAL PLATEADO #14",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304S.14.16",
+      "Descrip": "PULSO PVC TIPO METAL AZUL #14",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304S.14.17",
+      "Descrip": "PULSO PVC ORO ROSA HEBILLA PLATEADA#14",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304S.14.18",
+      "Descrip": "PULSO PVC TIPO METAL DORADO #14",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304S.14.2",
+      "Descrip": "PULSO PVC MARRON HEBILLA PLATEADA #14",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304S.18.1",
+      "Descrip": "PULSO PVC NEGRA HEBILLA PLATEADA #18",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304S.18.16",
+      "Descrip": "PULSO PVC TIPO METAL AZUL #18",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304S.18.17",
+      "Descrip": "PULSO PVC ORO ROSA HEBILLA PLATEADA#18",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304S.18.18",
+      "Descrip": "PULSO PVC DPRADO HEBILLA PLATEADA #18",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304S.18.2",
+      "Descrip": "PULSO PVC MARRON HEBILLA PLATEADA #18",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304S.18.7",
+      "Descrip": "PULSO PVC PLATEADA HEBILLA PLATEADA #18",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304S.20.1",
+      "Descrip": "PULSO PVC TIPO METAL PAV. HEBILLA PLA#20",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304S.20.16",
+      "Descrip": "PULSO PVC TIPO METAL AZUL #20",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304S.20.17",
+      "Descrip": "PULSO PVC TIPO METAL DORADO R. H. PL #20",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "0.000",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304S.20.18",
+      "Descrip": "PULSO PVC TIPO METAL DORADO H. PLAT. #20",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304S.20.2",
+      "Descrip": "PULSO PVC TIPO METAL ORO ROSA H. PLAT#20",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304S.20.7",
+      "Descrip": "PULSO PVC PLATEADA HEBILLA PLATEADA #20",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304S.22.1",
+      "Descrip": "PULSO PVC NEGRA HEBILLA PLATEADA #22",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304S.22.16",
+      "Descrip": "PULSO PVC TIPO METAL AZUL H. PLATEADA#22",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304S.22.18",
+      "Descrip": "PULSO PVC DPRADO HEBILLA PLATEADA #22",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304S.22.2",
+      "Descrip": "PULSO PVC MARRON HEBILLA PLATEADA #22",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3304S.22.7",
+      "Descrip": "PULSO PVC PLATEADA HEBILLA PLATEADA #22",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3342S.18.7",
+      "Descrip": "PULSO PVC PLATEADA HEBILLA PLATEADA #18",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3343BR.22.2",
+      "Descrip": "PULSO PVC MARRON HEBILLA MARRON #22",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3343G.22.18",
+      "Descrip": "PULSO PVC DPRADO HEBILLA DORADA #22",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3343RG.22.17",
+      "Descrip": "PULSO PVC ORO ROSA HEB. O ROSA #22",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3343S.22.1",
+      "Descrip": "PULSO PVC NEGRA HEBILLA PLATEADA #22",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3343S.22.7",
+      "Descrip": "PULSO PVC PLATEADA HEBILLA PLATEADA #22",
+      "CodInst": 895,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3348SP.24.0107",
+      "Descrip": "PULSO PVC CON APLIQUE METALICO PLATE #24",
+      "CodInst": 895,
+      "Precio": "2100.8403",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3348SP.24.0118",
+      "Descrip": "PULSO PVC CON APLIQUE METALICO DORAD #24",
+      "CodInst": 895,
+      "Precio": "2100.8403",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P337.20.1",
+      "Descrip": "PULSO PVC HEBILLA METALICO #20",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P337.22.1",
+      "Descrip": "PULSO PVC HEBILLA METALICO #22",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P337.24.1",
+      "Descrip": "PULSO PVC HEBILLA METALICO #24",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P338.18",
+      "Descrip": "PULSO PVC PARA CASIO G-SHOCK HEB/M.#18",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P338.20",
+      "Descrip": "PULSO PLASTICO PARA G-SHOCK #20",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P338.22",
+      "Descrip": "PULSO PLASTICO PARA G-SHOCK #22",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P338.24",
+      "Descrip": "PULSO PLASTICO PARA G-SHOCK #24",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P338.26",
+      "Descrip": "PULSO PLASTICO PARA G-SHOCK #26",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P338.28",
+      "Descrip": "PULSO PLASTICO PARA G-SHOCK 28",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P338.30.1",
+      "Descrip": "PULSO PVC PARA CASIO G-SHOCK #30",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P339.20.1",
+      "Descrip": "PULSO PVC PARA G-SHOCK #20",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P339.22.1",
+      "Descrip": "PULSO PVC TELEMEMO #22",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P339.24.1",
+      "Descrip": "PULSO PVC PARA TELEMEMO Q&Q #24",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P339.26.1",
+      "Descrip": "PULSO PVC PARA TELEMEMO Q&Q #26",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3456SP.1",
+      "Descrip": "PULSO PVC PARA G-SHOCK",
+      "CodInst": 895,
+      "Precio": "1050.4202",
+      "PrecioInternet": "12184.874",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P3467S.1",
+      "Descrip": "PULSO PVC PARA G-SHOCK",
+      "CodInst": 895,
+      "Precio": "1344.5378",
+      "PrecioInternet": "12184.874",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P351S.18.1",
+      "Descrip": "PULSO PVC  HEBILLA ACERO #18",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P351S.20.1",
+      "Descrip": "PULSO PVC  HEBILLA ACERO #20",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P351S.22.1",
+      "Descrip": "PULSO PVC  HEBILLA ACERO #22",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P356P.16.1",
+      "Descrip": "PULSO PVC TERMICA HEBILLA PLASTICA #16",
+      "CodInst": 895,
+      "Precio": "294.1176",
+      "PrecioInternet": "8403.361",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P356S.16.1",
+      "Descrip": "PULSO PVC TERMICA  HEBILLA ACERO #16",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P398P.22.1",
+      "Descrip": "PULSO PVC  C/REMOTO HEBILLA PLASTICA #22",
+      "CodInst": 895,
+      "Precio": "420.1681",
+      "PrecioInternet": "7983.193",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P398S.22.1",
+      "Descrip": "PULSO PVC C/REMOTO  HEBILLA ACERO #22",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P5017SP.22.1",
+      "Descrip": "PULSO PVC NEGRO HEBILLA METAL #22",
+      "CodInst": 895,
+      "Precio": "672.2689",
+      "PrecioInternet": "11344.538",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P5268S.18.1",
+      "Descrip": "PULSO PVC NEGRO #18",
+      "CodInst": 895,
+      "Precio": "672.2689",
+      "PrecioInternet": "6722.689",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P5476S.16.1",
+      "Descrip": "PULSO PVC PARA G-SHOCK #16",
+      "CodInst": 895,
+      "Precio": "672.2689",
+      "PrecioInternet": "11344.538",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P5532S.18.1",
+      "Descrip": "PULSO PVC GRABADO CULEBRA NEGRO #18",
+      "CodInst": 895,
+      "Precio": "756.3025",
+      "PrecioInternet": "7983.193",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P5532S.20.1",
+      "Descrip": "PULSO PVC GRABADO CULEBRA NEGRO #20",
+      "CodInst": 895,
+      "Precio": "756.3025",
+      "PrecioInternet": "7983.193",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P5532S.22.1",
+      "Descrip": "PULSO PVC GRABADO CULEBRA NEGRO #22",
+      "CodInst": 895,
+      "Precio": "756.3025",
+      "PrecioInternet": "7983.193",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P577P.1",
+      "Descrip": "PULSO PVC HEBILLA PLASTICA NEGRO",
+      "CodInst": 895,
+      "Precio": "1092.4370",
+      "PrecioInternet": "12184.874",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P582P.18.1",
+      "Descrip": "PULSO PVC TELEMEMO HEBILLA PLASTICA #18",
+      "CodInst": 895,
+      "Precio": "420.1681",
+      "PrecioInternet": "7983.193",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P582P.20.1",
+      "Descrip": "PULSO PVC TELEMEMO HEBILLA PLASTICA #20",
+      "CodInst": 895,
+      "Precio": "420.1681",
+      "PrecioInternet": "7983.193",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P582S.18.1",
+      "Descrip": "PULSO PVC TELEMEMO HEBILLA ACERO #18",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P582S.20.1",
+      "Descrip": "PULSO PVC TELEMEMO HEBILLA ACERO #20",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P6009S.24.1",
+      "Descrip": "PULSO PVC PARA G-SHOCK ·24",
+      "CodInst": 895,
+      "Precio": "1848.7395",
+      "PrecioInternet": "12184.874",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P657P.20.1",
+      "Descrip": "PULSO PVC HEBILLA PLASTICA #20",
+      "CodInst": 895,
+      "Precio": "436.9748",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P657S.20.1",
+      "Descrip": "PULSO PVC HEBILLA ACERO #20",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P657S.22.1",
+      "Descrip": "PULSO PVC HEBILLA ACERO #22",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P671P.18.1",
+      "Descrip": "PULSO PVC NEGRO #18 HEBILLA PLASTICA",
+      "CodInst": 895,
+      "Precio": "436.9748",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P671P.22.1",
+      "Descrip": "PULSO PVC NEGRO #22 HEBILLA PLASTICA",
+      "CodInst": 895,
+      "Precio": "436.9748",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P671S.18.1",
+      "Descrip": "PULSO PVC NEGRO #18 HEBILLA METAL",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P671S.20.1",
+      "Descrip": "PULSO PVC NEGRO #18 HEBILLA METAL",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P671S.22.1",
+      "Descrip": "PULSO PVC NEGRO #22 HEBILLA METAL",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P7011S.18.1",
+      "Descrip": "PULSO PVC NEGRO #18",
+      "CodInst": 895,
+      "Precio": "798.3193",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P7011S.18.11",
+      "Descrip": "PULSO PVC VERDE MILITAR #18",
+      "CodInst": 895,
+      "Precio": "798.3193",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P7011S.18.16",
+      "Descrip": "PULSO PVC AZUL OSCURO #18",
+      "CodInst": 895,
+      "Precio": "798.3193",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P7012S.18.1",
+      "Descrip": "PULSO PVC NEGRO HEBILLA METAL #18",
+      "CodInst": 895,
+      "Precio": "798.3193",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P7173S.22.1",
+      "Descrip": "PULSO PVC HEBILLA METAL #22",
+      "CodInst": 895,
+      "Precio": "420.1681",
+      "PrecioInternet": "6722.689",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P9308S.20.1",
+      "Descrip": "PULSO PVC 2 CANALES HEBILLA METAL #20",
+      "CodInst": 895,
+      "Precio": "672.2689",
+      "PrecioInternet": "11344.538",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P9308S.22.1",
+      "Descrip": "PULSO PVC 2 CANALES HEBILLA METAL #22",
+      "CodInst": 895,
+      "Precio": "672.2689",
+      "PrecioInternet": "11344.538",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P9602.12.1",
+      "Descrip": "PULSO PVC PARA CASIO #12",
+      "CodInst": 895,
+      "Precio": "403.3613",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P9602.14.1",
+      "Descrip": "PULSO PVC PARA CASIO #14",
+      "CodInst": 895,
+      "Precio": "403.3613",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P9848S.18.1",
+      "Descrip": "PULSO PVC NEGRO LISO HEBILLA METAL #18",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "P9848S.20.1",
+      "Descrip": "PULSO PVC NEGRO LISO HEBILLA METAL #20",
+      "CodInst": 895,
+      "Precio": "588.2353",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PK001.26.1",
+      "Descrip": "PULSO PVC PARA CASIO PROTREK #26",
+      "CodInst": 895,
+      "Precio": "1092.4370",
+      "PrecioInternet": "12184.874",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PK002.16.1",
+      "Descrip": "PULSO PVC PARA CASIO G-SHOCK",
+      "CodInst": 895,
+      "Precio": "1050.4202",
+      "PrecioInternet": "10924.370",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PMS03.18.1",
+      "Descrip": "PULSO PVC TRENZADO NEGRO #18",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "6722.689",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PMS03.20.1",
+      "Descrip": "PULSO PVC TRENZADO NEGRO #20",
+      "CodInst": 895,
+      "Precio": "504.2017",
+      "PrecioInternet": "6722.689",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PSK01.22.1",
+      "Descrip": "PULSO PVC PARA CASIO G-SHOCK #22",
+      "CodInst": 895,
+      "Precio": "1050.4202",
+      "PrecioInternet": "10924.370",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PSK01.24.1",
+      "Descrip": "PULSO PVC PARA CASIO G-SHOCK #24",
+      "CodInst": 895,
+      "Precio": "1050.4202",
+      "PrecioInternet": "10924.370",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "PSK01.26.1",
+      "Descrip": "PULSO PVC PARA CASIO G-SHOCK #26",
+      "CodInst": 895,
+      "Precio": "1050.4202",
+      "PrecioInternet": "10924.370",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1109S.12",
+      "Descrip": "PULSO ACERO RESORTE #12",
+      "CodInst": 1054,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1109S.14",
+      "Descrip": "PULSO ACERO RESORTE #14",
+      "CodInst": 1054,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1109S.16",
+      "Descrip": "PULSO ACERO RESORTE #16",
+      "CodInst": 1054,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1109S.18",
+      "Descrip": "PULSO ACERO RESORTE #18",
+      "CodInst": 1054,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1109S.20",
+      "Descrip": "PULSO ACERO RESORTE #20",
+      "CodInst": 1054,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "1711.18",
+      "Descrip": "PULSO KLEINKIND ACERO #18",
+      "CodInst": 1054,
+      "Precio": "1848.7395",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "278G.9X20",
+      "Descrip": "PULSO METALICO DORADO CON TERMINAL# 9X20",
+      "CodInst": 1054,
+      "Precio": "5042.0168",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "279G.10X20",
+      "Descrip": "PULSO METALICO DORADO CON TERMINAL#10X20",
+      "CodInst": 1054,
+      "Precio": "5042.0168",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "279S.10X20",
+      "Descrip": "PULSO ACERO CON TERMINAL #10X20",
+      "CodInst": 1054,
+      "Precio": "5042.0168",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "290.22",
+      "Descrip": "PULSO METALICO CON TERMINAL #22",
+      "CodInst": 1054,
+      "Precio": "3781.5126",
+      "PrecioInternet": "12605.042",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "291B.18",
+      "Descrip": "PULSO ACERO BRONCE #20",
+      "CodInst": 1054,
+      "Precio": "1724.1379",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "291S.20",
+      "Descrip": "PULSO ACERO #20",
+      "CodInst": 1054,
+      "Precio": "2100.8403",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "8600.14.1",
+      "Descrip": "PULSO METAL PLASTICO NEGRO #14",
+      "CodInst": 1054,
+      "Precio": "2352.9412",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "8601.14.1",
+      "Descrip": "PULSO METAL PLASTICO NEGRO #14",
+      "CodInst": 1054,
+      "Precio": "2352.9412",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "8601.18.16",
+      "Descrip": "PULSO METAL PLASTICO AZUL #18",
+      "CodInst": 1054,
+      "Precio": "2352.9412",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "8602.18.1",
+      "Descrip": "PULSO METAL PLASTICO NEGRO #18",
+      "CodInst": 1054,
+      "Precio": "2352.9412",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "8603.18.1",
+      "Descrip": "PULSO METAL PLASTICO NEGRO #18",
+      "CodInst": 1054,
+      "Precio": "2352.9412",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "8604.18.1",
+      "Descrip": "PULSO METAL PLASTICO NEGRO #18",
+      "CodInst": 1054,
+      "Precio": "2352.9412",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "8608.12.1",
+      "Descrip": "PULSO METAL PLASTICO NEGRO #12",
+      "CodInst": 1054,
+      "Precio": "2352.9412",
+      "PrecioInternet": "15126.050",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "B099BK.16",
+      "Descrip": "PULSO ACERO ENTERIZO PAVONADO  #16",
+      "CodInst": 1054,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "B099BK.18",
+      "Descrip": "PULSO ACERO ENTERIZO PAVONADO  #18",
+      "CodInst": 1054,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "B099BK.20",
+      "Descrip": "PULSO ACERO ENTERIZO PAVONADO  #20",
+      "CodInst": 1054,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "B099DB.16",
+      "Descrip": "PULSO ACERO ENTERIZO AZUL PETROLEO  #16",
+      "CodInst": 1054,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "B099DB.18",
+      "Descrip": "PULSO ACERO ENTERIZO AZUL PETROLEO  #18",
+      "CodInst": 1054,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "B099DB.20",
+      "Descrip": "PULSO ACERO ENTERIZO AZUL PETROLEO  #20",
+      "CodInst": 1054,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "B099G.16",
+      "Descrip": "PULSO ACERO ENTERIZO DORADO #16",
+      "CodInst": 1054,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "B099G.18",
+      "Descrip": "PULSO ACERO ENTERIZO ORO ROSA #18",
+      "CodInst": 1054,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "B099G.20",
+      "Descrip": "PULSO ACERO ENTERIZO ORO ROSA #20",
+      "CodInst": 1054,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "B099RG.16",
+      "Descrip": "PULSO ACERO ENTERIZO ORO ROSA #16",
+      "CodInst": 1054,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "B099RG.18",
+      "Descrip": "PULSO ACERO ENTERIZO ORO ROSA #18",
+      "CodInst": 1054,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "B099RG.20",
+      "Descrip": "PULSO ACERO ENTERIZO ORO ROSA #20",
+      "CodInst": 1054,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "B099S.16",
+      "Descrip": "PULSO ACERO ENTERIZO #16",
+      "CodInst": 1054,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "B099S.18",
+      "Descrip": "PULSO ACERO ENTERIZO #18",
+      "CodInst": 1054,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "B099S.20",
+      "Descrip": "PULSO ACERO ENTERIZO #20",
+      "CodInst": 1054,
+      "Precio": "0.0000",
+      "PrecioInternet": "",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "CC4009-18",
+      "Descrip": "PULSO METALICO ACERO CHAPA CORTA #18",
+      "CodInst": 1054,
+      "Precio": "5000.0000",
+      "PrecioInternet": "10344.828",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    }
+  ]
+}

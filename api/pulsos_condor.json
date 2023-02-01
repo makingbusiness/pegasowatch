@@ -1,0 +1,1264 @@
+{
+  "productos": [
+    {
+      "CodProd": "C201.12.1",
+      "Descrip": "PULSO CONDOR T/CUERO NEGRO #12",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.12.2",
+      "Descrip": "PULSO CONDOR T/CUERO MARRON #12",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.12.22",
+      "Descrip": "PULSO CONDOR T/CUERO BLANCO #12",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.12.3",
+      "Descrip": "PULSO CONDOR T/CUERO TAN #12",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.14.1",
+      "Descrip": "PULSO CONDOR T/CUERO NEGRO #14",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.14.16",
+      "Descrip": "PULSO CONDOR T/CUERO AZUL/O #14",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.14.2",
+      "Descrip": "PULSO CONDOR T/CUERO MARRON #14",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.14.22",
+      "Descrip": "PULSO CONDOR T/CUERO BLANCO #14",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.14.3",
+      "Descrip": "PULSO CONDOR T/CUERO TAN #14",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.16.1",
+      "Descrip": "PULSO CONDOR T/CUERO NEGRO #16",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.16.2",
+      "Descrip": "PULSO CONDOR T/CUERO MARRON #16",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.16.22",
+      "Descrip": "PULSO CONDOR T/CUERO BLANCO #16",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.18.1",
+      "Descrip": "PULSO CONDOR T/CUERO NEGRO #18",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.18.2",
+      "Descrip": "PULSO CONDOR T/CUERO MARRON #18",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.18.3",
+      "Descrip": "PULSO CONDOR T/CUERO TAN #18",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.20.1",
+      "Descrip": "PULSO CONDOR T/CUERO NEGRO #20",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.20.2",
+      "Descrip": "PULSO CONDOR T/CUERO MARRON #20",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.20.3",
+      "Descrip": "PULSO CONDOR T/CUERO TAN #20",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.22.1",
+      "Descrip": "PULSO CONDOR T/CUERO NEGRO #22",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.22.2",
+      "Descrip": "PULSO CONDOR T/CUERO MARRON #22",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.22.3",
+      "Descrip": "PULSO CONDOR T/CUERO TAN #22",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.24.1",
+      "Descrip": "PULSO CONDOR T/CUERO NEGRO #24",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.24.2",
+      "Descrip": "PULSO CONDOR T/CUERO MARRON #24",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.24.22",
+      "Descrip": "PULSO CONDOR T/CUERO BLANCO #24",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.24.3",
+      "Descrip": "PULSO CONDOR T/CUERO TAN #24",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.26.1",
+      "Descrip": "PULSO CONDOR T/CUERO NEGRO #26",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C201.26.22",
+      "Descrip": "PULSO CONDOR T/CUERO BLANCO #26",
+      "CodInst": 1307,
+      "Precio": "823.5294",
+      "PrecioInternet": "7142.857",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.12.1",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. NEG. #12",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.12.16",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. AZUL O. #12",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.12.2",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. MARR. #12",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.12.6",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. ROJA #12",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.14.1",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. NEG. #14",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.14.16",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. AZUL O. #14",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.14.2",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. MARR. #14",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.14.6",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. ROJA #14",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.16.1",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. NEG. #16",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.16.16",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. AZUL O. #16",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.16.2",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. MARR. #16",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.16.6",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. ROJA #16",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.18.1",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. NEG. #18",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.18.16",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. AZUL O. #18",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.18.2",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. MARR. #18",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.18.4",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. BRANDY #18",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.18.6",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. ROJA #18",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.20.1",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. NEG. #20",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.20.16",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. AZUL O. #20",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.20.4",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. BRANDY #20",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.20.6",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. ROJA #20",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.22.1",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. NEG. #22",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.22.16",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. AZUL O. #22",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.22.6",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. ROJA #22",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.24.1",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. NEG. #24",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.24.16",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. AZUL O. #24",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.24.2",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. MARR. #24",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.24.22",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. BLAN. #24",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.24.6",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. ROJA #24",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.26.1",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. NEG. #26",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C203.26.2",
+      "Descrip": "PULSO CUERO TORTUGA ABOLLON. MARR. #26",
+      "CodInst": 1307,
+      "Precio": "2689.0756",
+      "PrecioInternet": "13445.378",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C205.24.106",
+      "Descrip": "PULSO CONDOR NEGRO COSIDO H/ROJO #24",
+      "CodInst": 1307,
+      "Precio": "5546.2185",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C205.24.116",
+      "Descrip": "PULSO CONDOR NEGRO COSIDO H/AZUL #24",
+      "CodInst": 1307,
+      "Precio": "5546.2185",
+      "PrecioInternet": "21008.403",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C206.22.101",
+      "Descrip": "PULSO CONDOR 2 COSTURAS NEGRO H/NEG#22",
+      "CodInst": 1307,
+      "Precio": "1344.5378",
+      "PrecioInternet": "6722.689",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C206.22.106",
+      "Descrip": "PULSO CONDOR 2 COSTURAS NEGRO H/ROJ#22",
+      "CodInst": 1307,
+      "Precio": "1344.5378",
+      "PrecioInternet": "6722.689",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C206.22.116",
+      "Descrip": "PULSO CONDOR 2 COSTURAS NEGRO H/AZU#22",
+      "CodInst": 1307,
+      "Precio": "1344.5378",
+      "PrecioInternet": "6722.689",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C206.22.122",
+      "Descrip": "PULSO CONDOR 2 COSTURAS NEGRO H/BLA#22",
+      "CodInst": 1307,
+      "Precio": "1344.5378",
+      "PrecioInternet": "6722.689",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C207.12.1",
+      "Descrip": "PULSO CONDOR ABOLLONADO NEGRO #12",
+      "CodInst": 1307,
+      "Precio": "840.3361",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C207.12.4",
+      "Descrip": "PULSO CONDOR ABOLLONADO BRANDY #12",
+      "CodInst": 1307,
+      "Precio": "840.3361",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C207.18.4",
+      "Descrip": "PULSO CONDOR ABOLLONADO BRANDY #18",
+      "CodInst": 1307,
+      "Precio": "840.3361",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C207.20.1",
+      "Descrip": "PULSO CONDOR ABOLLONADO NEGRO #20",
+      "CodInst": 1307,
+      "Precio": "840.3361",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C207.20.4",
+      "Descrip": "PULSO CONDOR ABOLLONADO BRANDY #20",
+      "CodInst": 1307,
+      "Precio": "840.3361",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C207.22.1",
+      "Descrip": "PULSO CONDOR ABOLLONADO NEGRO #22",
+      "CodInst": 1307,
+      "Precio": "840.3361",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C207.22.4",
+      "Descrip": "PULSO CONDOR ABOLLONADO BRANDY #22",
+      "CodInst": 1307,
+      "Precio": "840.3361",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C207.24.1",
+      "Descrip": "PULSO CONDOR ABOLLONADO NEGRO #24",
+      "CodInst": 1307,
+      "Precio": "840.3361",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C207.24.4",
+      "Descrip": "PULSO CONDOR ABOLLONADO BRANDY #24",
+      "CodInst": 1307,
+      "Precio": "840.3361",
+      "PrecioInternet": "10084.034",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.12.1",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO NEGRO #12",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.12.10",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO AMAR. #12",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.12.12",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO FUCSIA #12",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.12.14",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO ROSADA#12",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.12.2",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO MARRON#12",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.12.22",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO BLANCO#12",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.12.4",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO BRANDY #12",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.12.6",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO ROJA #12",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.12.9",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO AZUL T#12",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.12.9V",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO VERDE AZ#12",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.14.1",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO NEGRO #14",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.14.10",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO AMAR. #14",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.14.12",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO FUCSIA #14",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.14.14",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO ROSADA#14",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.14.2",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO MARRON#14",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.14.22",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO BLANCO#14",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.14.4",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO BRANDY #14",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.14.6",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO ROJA #14",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.14.9",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO AZUL T#14",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.14.9V",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO VERDE AZ#14",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.16.1",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO NEGRO #16",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.16.10",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO AMAR. #16",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.16.12",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO FUCSIA #16",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.16.14",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO ROSADA#16",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.16.2",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO MARRON#16",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.16.22",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO BLANCO#16",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.16.4",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO BRANDY #16",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.16.6",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO ROJA #16",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.16.9",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO AZUL T#16",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.16.9V",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO VERDE AZ#16",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.18.1",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO NEGRO #18",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.18.10",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO AMAR. #18",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.18.12",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO FUCSIA #18",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.18.14",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO ROSADA#18",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.18.2",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO MARRON#18",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.18.22",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO BLANCO#18",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.18.4",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO BRANDY #18",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.18.6",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO ROJA #18",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.18.9",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO AZUL T#18",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.18.9V",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO VERDE AZ#18",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.20.1",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO #20",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.20.10",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO AMAR. #20",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.20.12",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO FUCSIA #20",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.20.14",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO ROSADA#20",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.20.2",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO MARRON#20",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.20.22",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO BLANCO#20",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.20.4",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO BRANDY #20",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.20.6",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO ROJA #20",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.20.9",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO AZUL T#20",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.20.9V",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO VERDE AZ#20",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.22.1",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO #22",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.22.10",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO AMAR. #22",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.22.12",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO FUCSIA #22",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.22.14",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO ROSADA#22",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.22.2",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO MARRON#22",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.22.22",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO BLANCO#22",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.22.4",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO BRANDY #22",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.22.6",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO ROJA #22",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.22.9",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO AZUL T#22",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.22.9V",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO VERDE AZ#22",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.24.1",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO #24",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.24.10",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO AMAR. #24",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.24.2",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO MARRON#24",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.24.22",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO BLANCO#24",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.24.4",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO BRANDY #24",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.24.6",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO ROJA #24",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    },
+    {
+      "CodProd": "C208.24.9V",
+      "Descrip": "PULSO CONDOR PLANO COCODRILO VERDE AZ#24",
+      "CodInst": 1307,
+      "Precio": "3277.3109",
+      "PrecioInternet": "17647.059",
+      "Impuesto": "19.0000",
+      "DescAmpliada": ""
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+<?php 
+class Varios_model extends CI_Model{
+	public function __construct()
+	{
+		parent::__construct();
+		$this->load->library('email');
+	}
+	
+	public function lista_paises()
+	{
+		$this->db->select('p.IDPais,p.Descrip');
+		$this->db->from('paises AS p');
+		
+		$query = $this->db->get();
+		
+		return $query->result();
+	}
+	
+	public function consulta_pais_codigo($pais)
+	{
+		$this->db->select('p.Descrip');
+		$this->db->from('paises AS p');
+		$this->db->where('p.IDPais',$pais);
+		
+		$query = $this->db->get();
+		
+		return $query->result();
+	}
+	
+	public function lista_estados($pais = '')
+	{
+		$this->db->select('e.IDPais,e.IDEstado AS IDEstado,e.Descrip AS Descrip');
+		$this->db->from('estados As e');
+
+		if (strlen($pais > 0))
+		{
+			$this->db->where('e.IDPais',$pais);
+		}
+		
+		$query = $this->db->get();
+		
+		return $query->result();
+	}
+	
+	public function consulta_estado_codigo($estado)
+	{
+		$this->db->select('e.Descrip');
+		$this->db->from('estados AS e');
+		$this->db->where('IDEstado',$estado);
+		
+		$query = $this->db->get();
+		
+		return $query->result();
+	}
+	
+	public function lista_ciudades($estado = '',$pais = '')
+	{
+		$this->db->select('c.IDPais,c.IDEstado,c.IDCiudad,c.Descrip');
+		$this->db->from('ciudades As c');
+
+		if (strlen($estado) > 0)
+		{
+			$this->db->where('c.IDEstado',$estado);
+		}
+		
+		if (strlen($pais) > 0)
+		{
+			$this->db->where('c.IDPais',$pais);
+		}
+		
+		$query = $this->db->get();
+		
+		return $query->result();
+	}
+	
+	public function consulta_ciudad_codigo($ciudad)
+	{
+		$this->db->select('c.Descrip');
+		$this->db->from('ciudades AS c');
+		$this->db->where('c.IDCiudad',$ciudad);
+		
+		$query = $this->db->get();
+		
+		return $query->result();
+	}
+	
+	public function registrarError($origen,$mensaje)
+	{
+		$info = array(
+			'Origen'   => $origen,
+			'Mensaje'  => $mensaje
+		);
+		
+		$this->db->insert('registro_errores',$info);
+	}
+	
+	public function enviarCorreo($email,$asunto,$mensaje)
+	{
+		$this->email->from('sistemas@makingbusiness.com.co', 'Making Business');
+		$this->email->to($email);
+		$this->email->bcc('sistemas@makingbusiness.com.co');
+
+		$this->email->subject($asunto);
+			
+		$this->email->message($mensaje);
+	
+		$this->email->send();
+	}
+
+	public function lista_menu()
+	{
+		$this->db->select('m.Titulo,m.Enlace');
+		$this->db->from('menu AS m');
+
+		$query = $this->db->get();
+		return $query->result();
+	}
+}

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clasesBateria>
+  <clasesBateria>
+    <Id>1</Id>
+    <Descrip>RECARGABLES</Descrip>
+  </clasesBateria>
+  <clasesBateria>
+    <Id>2</Id>
+    <Descrip>LITHIUM</Descrip>
+  </clasesBateria>
+  <clasesBateria>
+    <Id>3</Id>
+    <Descrip>CARBON</Descrip>
+  </clasesBateria>
+  <clasesBateria>
+    <Id>4</Id>
+    <Descrip>ALCALINAS CILINDRICAS</Descrip>
+  </clasesBateria>
+  <clasesBateria>
+    <Id>5</Id>
+    <Descrip>AUDITIVAS</Descrip>
+  </clasesBateria>
+  <clasesBateria>
+    <Id>6</Id>
+    <Descrip>OXIDO DE PLATA</Descrip>
+  </clasesBateria>
+  <clasesBateria>
+    <Id>7</Id>
+    <Descrip>ALCALINAS DE BOTON</Descrip>
+  </clasesBateria>
+  <clasesBateria>
+    <Id>9</Id>
+    <Descrip>SECAS</Descrip>
+  </clasesBateria>
+</clasesBateria>

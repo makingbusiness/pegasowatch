@@ -1,0 +1,148 @@
+	<!-- Slide -->
+	<section id="clockMaker">
+		<div class="container-fluid">
+			<div class="row bg-row">
+				<div class="col-md-8 col-sm-6 col-12" id="clock">
+					<img id="background" src="images/makeClock/fondos/01.png">
+					<img id="numbers" src="images/makeClock/numeros/B.png">
+					<img id="mark" src="images/makeClock/marcos/1.png">
+					<form>
+						<input type="text" id="imgBg" name="background" value="images/makeClock/fondos/01.png" hidden>
+						<input type="text" id="imgNum" name="numbers" value="images/makeClock/numeros/B.png" hidden>
+						<input type="text" id="imgMk" name="mark" value="images/makeClock/marcos/1.png" hidden>
+						<button type="submit" class="flex-c-m bg4 bo-rad-23 hov1 s-text14 trans-0-4 add-cart">Agregar al carrito</button>
+					</form>
+				</div>
+
+				<!-- ======================= FILTERS ======================= -->
+				<div class="col-md-4 col-sm-6 col-12" id="clockFilters">
+
+					<!-- ======================= TABS ======================= -->
+					<ul class="nav nav-tabs nav-fill" id="filtersTab" role="tablist">
+						<li class="nav-item">
+							<a class="nav-link hov1 s-text14 active" id="bgFilter-tab" data-toggle="tab" href="#bgFilter" role="tab" aria-controls="bgFilter" aria-selected="true">Fondos</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link hov1 s-text14" id="markFilter-tab" data-toggle="tab" href="#markFilter" role="tab" aria-controls="markFilter" aria-selected="false">Marcos</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link hov1 s-text14" id="numbersFilter-tab" data-toggle="tab" href="#numbersFilter" role="tab" aria-controls="numbersFilter" aria-selected="false">Números</a>
+						</li>
+					</ul>
+
+					<!-- ======================= TAB CONTENT ======================= -->
+					<div class="tab-content" id="filtersTabContent">
+
+						<!-- ======================= BACKGROUNDS ======================= -->
+						<div class="tab-pane fade show active" id="bgFilter" role="tabpanel" aria-labelledby="bgFilter-tab">
+							<div class="accordion" id="bg-accordeon">
+
+								<!-- ------------ CATEGORY ------------ -->
+								<div class="card">
+									<div class="card-header" id="heading-animals">
+										<h5 class="mb-0">
+											<button class="btn btn-link collapsed s-text14" type="button" data-toggle="collapse" data-target="#collapse-animals" aria-expanded="true" aria-controls="collapse-animals">Animales</button>
+										</h5>
+									</div>
+									<div id="collapse-animals" class="collapse show" aria-labelledby="heading-animals" data-parent="#bg-accordeon">
+										<div class="card-body row">
+
+											<!-- ------------ SUBCATEGORIES ------------ -->
+											<div class="accordion subcategories" id="animals-accordeon">
+
+												<!-- ------------ Subcategory ------------ -->
+												<div class="card">
+													<div class="card-header" id="heading-birds">
+														<h5 class="mb-0">
+															<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse-birds" aria-expanded="true" aria-controls="collapse-birds">Aves</button>
+														</h5>
+													</div>
+													<div id="collapse-birds" class="collapse show" aria-labelledby="heading-birds" data-parent="#animals-accordeon">
+														<div class="card-body row">
+															<div class="col-6 col-md-4">
+																<img src="images/makeClock/fondos/04.png">
+															</div>
+															<div class="col-6 col-md-4">
+																<img src="images/icons/add-bg.png" alt="Añade tu propia imagen" style="opacity: 0.8;">
+															</div>
+														</div>
+													</div>
+												</div>
+
+												<!-- ------------ Subcategory ------------ -->
+												<div class="card">
+													<div class="card-header" id="heading-felines">
+														<h5 class="mb-0">
+															<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse-felines" aria-expanded="false" aria-controls="collapse-felines">Felinos</button>
+														</h5>
+													</div>
+													<div id="collapse-felines" class="collapse" aria-labelledby="heading-felines" data-parent="#animals-accordeon">
+														<div class="card-body row">
+															<div class="col-6 col-md-4">
+																<img src="images/makeClock/fondos/09.png">
+															</div>
+														</div>
+													</div>
+												</div>
+
+												<!-- ------------ Subcategory ------------ -->
+												<div class="card">
+													<div class="card-header" id="heading-Otro">
+														<h5 class="mb-0">
+															<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapse-Otro" aria-expanded="false" aria-controls="collapse-Otro">Otro</button>
+														</h5>
+													</div>
+													<div id="collapse-Otro" class="collapse" aria-labelledby="heading-Otro" data-parent="#animals-accordeon">
+														<div class="card-body row">
+														</div>
+													</div>
+												</div>
+											</div>
+											<!-- End Accordion -->
+										</div>
+									</div>
+								</div>
+
+								<!-- ------------ CATEGORY ------------ -->
+								<div class="card">
+									<div class="card-header" id="heading-cars">
+										<h5 class="mb-0">
+											<button class="btn btn-link collapsed s-text14" type="button" data-toggle="collapse" data-target="#collapse-cars" aria-expanded="false" aria-controls="collapse-cars">Carros</button>
+										</h5>
+									</div>
+									<div id="collapse-cars" class="collapse" aria-labelledby="heading-cars" data-parent="#bg-accordeon">
+										<div class="card-body row">
+											<div class="col-6 col-md-4">
+												<img src="images/makeClock/fondos/05.png">
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- End Accordion -->
+						</div>
+
+						<!-- ======================= MARKS ======================= -->
+						<div class="tab-pane fade" id="markFilter" role="tabpanel" aria-labelledby="markFilter-tab">
+							<div class="row">
+								<div class="col-6 col-md-4">
+									<img src="images/makeClock/marcos/1.png">
+								</div>
+							</div>
+						</div>
+
+						<!-- ======================= NUMBERS ======================= -->
+						<div class="tab-pane fade" id="numbersFilter" role="tabpanel" aria-labelledby="numbersFilter-tab">
+							<div class="row">
+								<div class="col-6 col-md-4">
+									<img src="images/makeClock/numeros/A.png">
+								</div>
+							</div>
+						</div>
+					</div>
+
+
+				</div>
+			</div>
+		</div>
+	</section>

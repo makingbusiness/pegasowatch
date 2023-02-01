@@ -1,0 +1,7107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-9V</Referencia>
+    <Descripcion>BATERIA 9V RECARGABLE DE NICKEL-METAL</Descripcion>
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones>13,5*9,7*2,5</Dimensiones>
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-LR6X2</Referencia>
+    <Descripcion>BATERIA BESTON AA ALCALINA BLISTER X 2</Descripcion>
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>20,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-R6P</Referencia>
+    <Descripcion>BATERIA BESTON AA CARBON BLISTER X 4</Descripcion>
+    <Material>3</Material>
+    <Voltaje>1.5V</Voltaje>
+    <Diametro>1.3</Diametro>
+    <Altura>4.8</Altura>
+    <mAh>0</mAh>
+    <Dimensiones>4.8MM</Dimensiones>
+    <Peso>1</Peso>
+    <Caracteristicas />
+    <Unidad>4,000</Unidad>
+    <UnidadWeb>48,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-AA2500X2</Referencia>
+    <Descripcion>BATERIA BESTON AA RECARGABLE 2500 MAH</Descripcion>
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-AA3000X2</Referencia>
+    <Descripcion>BATERIA BESTON AA RECARGABLE 3000 MAH</Descripcion>
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones>13,5*9,7*2</Dimensiones>
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-LR03X2</Referencia>
+    <Descripcion>BATERIA BESTON AAA ALCALINA BLISTER X 2</Descripcion>
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>24,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-R03P</Referencia>
+    <Descripcion>BATERIA BESTON AAA CARBON BLISTER X 4</Descripcion>
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>4,000</Unidad>
+    <UnidadWeb>48,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-AAA1100X2</Referencia>
+    <Descripcion>BATERIA BESTON AAA RECARGABLE 1100 MAH</Descripcion>
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-AAA900X4</Referencia>
+    <Descripcion>BATERIA BESTON AAA RECARGABLE 900 MAH</Descripcion>
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones>13,5*9,7*2</Dimensiones>
+    <Peso />
+    <Caracteristicas />
+    <Unidad>4,000</Unidad>
+    <UnidadWeb>4,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-R14PUM-2</Referencia>
+    <Descripcion>BATERIA BESTON C CARBON SET X 2</Descripcion>
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-R20PUM-1</Referencia>
+    <Descripcion>BATERIA BESTON D CARBON SET X 2</Descripcion>
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones>5,9*6,5*3,2</Dimensiones>
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-533</Referencia>
+    <Descripcion>BATERIA BESTON PARA RADIO DE COM/MOTOROL</Descripcion>
+    <Material>1</Material>
+    <Voltaje>3.6V.</Voltaje>
+    <Diametro />
+    <Altura />
+    <mAh>900</mAh>
+    <Dimensiones>4.2X3.0X0.8CMS</Dimensiones>
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-53615</Referencia>
+    <Descripcion>BATERIA BESTON PARA RADIO MOTOROLA</Descripcion>
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-AAA750X2</Referencia>
+    <Descripcion>BATERIA BESTON RECARG. AAA 750 BL X2</Descripcion>
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-LR14X2</Referencia>
+    <Descripcion>BATERIA BESTON TIPO C ALCALINA BLISTER X</Descripcion>
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-CR14</Referencia>
+    <Descripcion>BATERIA BESTON TIPO C RECARGABLE BL X 2</Descripcion>
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-LR20X2</Referencia>
+    <Descripcion>BATERIA BESTON TIPO D  ALCALINA BLT  X 2</Descripcion>
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-DR20</Referencia>
+    <Descripcion>BATERIA BESTON TIPO D RECARGABLE BL X 2</Descripcion>
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MN-1500B2</Referencia>
+    <Descripcion>BATERIA DURACELL AA ALCALINA BL X 12</Descripcion>
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>12,000</Unidad>
+    <UnidadWeb>12,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MN-2400B2</Referencia>
+    <Descripcion>BATERIA DURACELL AAA ALCALINA BL X 12</Descripcion>
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>12,000</Unidad>
+    <UnidadWeb>12,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GP23A</Referencia>
+    <Descripcion>BATERIA GP 12V. ALCALINA PARA ALARMAS</Descripcion>
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GP27A</Referencia>
+    <Descripcion>BATERIA GP 12V. PARA ALARMAS</Descripcion>
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>1604G</Referencia>
+    <Descripcion>BATERIA GP 9 VOLTIOS CARBON BULK</Descripcion>
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GP1604AUP-5U1</Referencia>
+    <Descripcion>BATERIA GP 9V PLUS ULTRA ALCALINA</Descripcion>
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>15AUP-U2</Referencia>
+    <Descripcion>BATERIA GP AA ALCALINA ULTRA BLISTER X 2</Descripcion>
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>20,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GP270AAHC-C2N</Referencia>
+    <Descripcion>BATERIA GP AA REC. RECYKO 2700 BL X 2</Descripcion>
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>24AUP-C2</Referencia>
+    <Descripcion>BATERIA GP AAA ALCALINA ULTRA BLIST X2</Descripcion>
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>20,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>100AAAHC-U2</Referencia>
+    <Descripcion>BATERIA GP AAA RECARGABLE 1000 NiMH BLX2</Descripcion>
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>13AUP-U2</Referencia>
+    <Descripcion>BATERIA GP ALCALINA D BLISTER X 2</Descripcion>
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GP220DH-C2</Referencia>
+    <Descripcion>BATERIA GP D RECARGABLE</Descripcion>
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>476A</Referencia>
+    <Descripcion>BATERIA GP LITHIUM 6 V</Descripcion>
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>ICR18650</Referencia>
+    <Descripcion>BATERIA GP LITHIUM RECARG. 3.7 V.</Descripcion>
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>T390-U1</Referencia>
+    <Descripcion>BATERIA GP PARA TELEFO NIMH 2.4 V 910 MA</Descripcion>
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>T380-U1</Referencia>
+    <Descripcion>BATERIA GP PARA TELEFONO</Descripcion>
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>T444-C1</Referencia>
+    <Descripcion>BATERIA GP PARA TELEFONO 3.6V 650 mAh</Descripcion>
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>T157-U1</Referencia>
+    <Descripcion>BATERIA GP PARA TELEFONO NiMH</Descripcion>
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>T160-U1</Referencia>
+    <Descripcion>BATERIA GP PARA TELEFONO NiMH</Descripcion>
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>T207-U1</Referencia>
+    <Descripcion>BATERIA GP PARA TELEFONO NIMH</Descripcion>
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GP250AAHC-C2N</Referencia>
+    <Descripcion>BATERIA GP REC. RECYKO AA 2500 mAh BLX2</Descripcion>
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>17R8H-U1</Referencia>
+    <Descripcion>BATERIA GP RECARGABLE CUADRAD 8.4 V</Descripcion>
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GP210AAHCB-2EU2</Referencia>
+    <Descripcion>BATERIA GP RECARGABLE RECYKO NIMH AA 1.2</Descripcion>
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>T504-C1</Referencia>
+    <Descripcion>BATERIA GP TELEFONO</Descripcion>
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>14AUP-U2</Referencia>
+    <Descripcion>BATERIA GP TIPO C ALCALINA BLISTER X 2</Descripcion>
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GP220CH-2LAC2</Referencia>
+    <Descripcion>BATERIA GP TIPO C RECARGABLE BL X 2</Descripcion>
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>910A-U2</Referencia>
+    <Descripcion>BATERIA GP TIPO N ALCALINA  1.5 V</Descripcion>
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TR9VRBLK</Referencia>
+    <Descripcion>BATERIA TRONEX 9V CARBON EN BULK</Descripcion>
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TRAALR6ALB2</Referencia>
+    <Descripcion>BATERIA TRONEX AA ALCALINA BLX 2</Descripcion>
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>20,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TRAAR6EHDR1</Referencia>
+    <Descripcion>BATERIA TRONEX AA CARBON TIRA X 20</Descripcion>
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>20,000</Unidad>
+    <UnidadWeb>20,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TRAAFR6LPB2</Referencia>
+    <Descripcion>BATERIA TRONEX AA LITHIUM BL X 2</Descripcion>
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TRAAALR03ALB2</Referencia>
+    <Descripcion>BATERIA TRONEX AAA ALCALINA BLISTER X 2</Descripcion>
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>20,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TRAAAR03EHDBLK</Referencia>
+    <Descripcion>BATERIA TRONEX AAA CARBON TIRA X 20</Descripcion>
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>20,000</Unidad>
+    <UnidadWeb>20,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TRAAAFR03LPB2</Referencia>
+    <Descripcion>BATERIA TRONEX AAA LITHIUM BL X 2</Descripcion>
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TRDLR20ALB2</Referencia>
+    <Descripcion>BATERIA TRONEX ALCALINA D BL X 2</Descripcion>
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TRDR20RB2</Referencia>
+    <Descripcion>BATERIA TRONEX TIPO D CARBON BLISTER X 2</Descripcion>
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>20,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-C804U-2</Referencia>
+    <Descripcion>CARGADOR BESTON AA y AAA MAS 4 BATERIAS AA 1500mAh</Descripcion>
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-M533</Referencia>
+    <Descripcion>CARGADOR BESTON  CON 3 PUERTOS USB</Descripcion>
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-C812B</Referencia>
+    <Descripcion>CARGADOR BESTON AA/AAA/9V/ CON 1 BAT/9V</Descripcion>
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-C804U</Referencia>
+    <Descripcion>CARGADOR BESTON CON 4 BATERIAS AA 1500</Descripcion>
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-C801B</Referencia>
+    <Descripcion>CARGADOR BESTON CON 4 BATERIAS AA 3000</Descripcion>
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-C804U-4</Referencia>
+    <Descripcion>CARGADOR BESTON CON 4 BATERIAS AAA 1100</Descripcion>
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-C822</Referencia>
+    <Descripcion>CARGADOR BESTON CON 9V LI-ION 800 mAh 4 PUESTOS</Descripcion>
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-C821</Referencia>
+    <Descripcion>CARGADOR BESTON UNIVERSAL 9V/C/D/AA/AAA</Descripcion>
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-DC802U</Referencia>
+    <Descripcion>CARGADOR BESTON PARA 8 BAT.AAA/AA</Descripcion>
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-C818</Referencia>
+    <Descripcion>CARGADOR BESTON PARA 9V CON 1 BATERIA 9V</Descripcion>
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-C812B-1</Referencia>
+    <Descripcion>CARGADOR BESTON PARA AA/AAA/9V CON 2AA</Descripcion>
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-M104U</Referencia>
+    <Descripcion>CARGADOR BESTON UNIVERSAL BAT/CAM/CEL</Descripcion>
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GPPB211US270AAH</Referencia>
+    <Descripcion>CARGADOR GP CON 2 AA 2700mAh</Descripcion>
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GPACCPB09017</Referencia>
+    <Descripcion>CARGADOR GP PARA 9V CON 2 BATERIA</Descripcion>
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GPB410US210-LA4</Referencia>
+    <Descripcion>CARGADOR GP PB410MINI 2 AANIM 210MAH Y2</Descripcion>
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GPPB11US250-UW4</Referencia>
+    <Descripcion>CARGADOR GP POWERBANK X AA/2500 MAH</Descripcion>
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GPPB410US210-2</Referencia>
+    <Descripcion>CARGADOR GPPB410 2 AA NIMH 2100 MAH</Descripcion>
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>DB-PS012</Referencia>
+    <Descripcion>POWER BANK BESTON 10.000 mAh</Descripcion>
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>DB-PS009</Referencia>
+    <Descripcion>POWER BANK BESTON 20.000 mAh</Descripcion>
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>DB-S002</Referencia>
+    <Descripcion>POWER BANK BESTON 6000 mAh</Descripcion>
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>WXC-001</Referencia>
+    <Descripcion>POWER BANK BESTON INALAMBRICO</Descripcion>
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>DB-WST001</Referencia>
+    <Descripcion>POWER BANK BESTON INALAMBRICO 8.000 mAh</Descripcion>
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>522BP</Referencia>
+    <Descripcion>BATERIA ENERGIZER 9 V ALKALINA BL X 1</Descripcion>
+    <Material>4</Material>
+    <Voltaje>9V</Voltaje>
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones>11.0 x 2.0 x 9.5 cm</Dimensiones>
+    <Peso>50grs</Peso>
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-AA2100X4</Referencia>
+    <Descripcion>BATERIA BESTON RECARGABLE 2100 BL X 4</Descripcion>
+    <Material>1</Material>
+    <Voltaje>1,2V</Voltaje>
+    <Diametro />
+    <Altura />
+    <mAh>2100</mAh>
+    <Dimensiones>14x10x2 cm</Dimensiones>
+    <Peso>95000grs</Peso>
+    <Caracteristicas>Recargable</Caracteristicas>
+    <Unidad>4,000</Unidad>
+    <UnidadWeb>4,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>DB-SS002</Referencia>
+    <Descripcion>POWER BANK BESTON SOLAR DE 10.000 mAh</Descripcion>
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones>22x12x4 cm</Dimensiones>
+    <Peso>305 grs</Peso>
+    <Caracteristicas>Banco de energia inalambrico con bateria de polimero.Cuenta con una entrada Micro USB 5V-2A, cargador solar 5V 200mAh y salida USB1: 5V-1A / USB2: 5V-2.1A. Incluye: Cargador y Cable USB</Caracteristicas>
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR2450</Referencia>
+    <Descripcion>BATERIA SONY LITHIUM 3V.</Descripcion>
+    <Material>2</Material>
+    <Voltaje>3V</Voltaje>
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones>86,87X41,91X4,06cms</Dimensiones>
+    <Peso>9,72grs</Peso>
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR-1616</Referencia>
+    <Descripcion>BATERIA SONY LITHIUM 3V. BLISTER X 5</Descripcion>
+    <Material>2</Material>
+    <Voltaje>3V </Voltaje>
+    <Diametro>16</Diametro>
+    <Altura>1,6</Altura>
+    <mAh>50</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR-1620</Referencia>
+    <Descripcion>BATERIA SONY LITHIUM 3V. BLISTER X 5</Descripcion>
+    <Material>2</Material>
+    <Voltaje>3V </Voltaje>
+    <Diametro>16</Diametro>
+    <Altura>2</Altura>
+    <mAh>225</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR-2032</Referencia>
+    <Descripcion>BATERIA SONY LITHIUM 3V. BLISTER X 5</Descripcion>
+    <Material>2</Material>
+    <Voltaje>3V </Voltaje>
+    <Diametro>20</Diametro>
+    <Altura>3,2</Altura>
+    <mAh>220</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR-2430</Referencia>
+    <Descripcion>BATERIA SONY 3 V. LITHIUM BLISTER X 5</Descripcion>
+    <Material>2</Material>
+    <Voltaje>3V </Voltaje>
+    <Diametro>2,4</Diametro>
+    <Altura>,3</Altura>
+    <mAh>300</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR1216</Referencia>
+    <Descripcion>BATERIA SONY LITHIUM 3V. BLISTER X 5</Descripcion>
+    <Material>2</Material>
+    <Voltaje>3V </Voltaje>
+    <Diametro>12,5</Diametro>
+    <Altura>1,6</Altura>
+    <mAh>25</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR1220</Referencia>
+    <Descripcion>BATERIA SONY LITHIUM 3V. BLISTER X 5</Descripcion>
+    <Material>2</Material>
+    <Voltaje>3V </Voltaje>
+    <Diametro>12,5</Diametro>
+    <Altura>2</Altura>
+    <mAh>35</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR1632</Referencia>
+    <Descripcion>BATERIA SONY 3 V. LITHIUM BLISTER X 5</Descripcion>
+    <Material>2</Material>
+    <Voltaje>3V </Voltaje>
+    <Diametro>16</Diametro>
+    <Altura>3,2</Altura>
+    <mAh>137</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR2016-S</Referencia>
+    <Descripcion>BATERIA SONY LITHIUM 3V. BLISTER X 5</Descripcion>
+    <Material>2</Material>
+    <Voltaje>3V </Voltaje>
+    <Diametro>20</Diametro>
+    <Altura>1,6</Altura>
+    <mAh>225</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>LR-1130</Referencia>
+    <Descripcion>BATERIA SONY 189 BLISTER X 5</Descripcion>
+    <Material>7</Material>
+    <Voltaje>1,5V</Voltaje>
+    <Diametro>11,6</Diametro>
+    <Altura>3,05</Altura>
+    <mAh>65</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>LR-44S</Referencia>
+    <Descripcion>BATERIA SONY A-76 BLISTER X 5</Descripcion>
+    <Material>7</Material>
+    <Voltaje>1,5V</Voltaje>
+    <Diametro>11,6</Diametro>
+    <Altura>5,4</Altura>
+    <mAh>110</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>LR41</Referencia>
+    <Descripcion>BATERIA SONY 192 BLISTER X 5</Descripcion>
+    <Material>7</Material>
+    <Voltaje>1,5V</Voltaje>
+    <Diametro>7,9</Diametro>
+    <Altura>3,6</Altura>
+    <mAh>30</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>PR41</Referencia>
+    <Descripcion>BATERIA SONY DE AUDICION PR41(312)BLX 6</Descripcion>
+    <Material>5</Material>
+    <Voltaje>1,44V</Voltaje>
+    <Diametro>7,9</Diametro>
+    <Altura>3,6</Altura>
+    <mAh>165</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>6,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>PR44</Referencia>
+    <Descripcion>BATERIA SONY DE AUDICION PR44(675)BL X 6</Descripcion>
+    <Material>5</Material>
+    <Voltaje>1,44V</Voltaje>
+    <Diametro>11,6</Diametro>
+    <Altura>5,4</Altura>
+    <mAh>660</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>PR48</Referencia>
+    <Descripcion>BATERIA SONY DE AUDICION PR48(13) BL X 6</Descripcion>
+    <Material>5</Material>
+    <Voltaje>1,44V</Voltaje>
+    <Diametro>7,9</Diametro>
+    <Altura>5,4</Altura>
+    <mAh>305</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>PR70</Referencia>
+    <Descripcion>BATERIA SONY DE AUDICION PR70(10)BL X 6</Descripcion>
+    <Material>5</Material>
+    <Voltaje>1,44V</Voltaje>
+    <Diametro>5,8</Diametro>
+    <Altura>3,6</Altura>
+    <mAh>106</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR416</Referencia>
+    <Descripcion>BATERIA SONY 337 BLISTER X 5</Descripcion>
+    <Material>6</Material>
+    <Voltaje>1,55V </Voltaje>
+    <Diametro>4,8</Diametro>
+    <Altura>1,6</Altura>
+    <mAh>8</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR512</Referencia>
+    <Descripcion>BATERIA SONY 335 BLISTER X 5</Descripcion>
+    <Material>6</Material>
+    <Voltaje>1,55V </Voltaje>
+    <Diametro>5,8</Diametro>
+    <Altura>1,2</Altura>
+    <mAh>17</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR516</Referencia>
+    <Descripcion>BATERIA SONY 317 BLISTER X 5</Descripcion>
+    <Material>6</Material>
+    <Voltaje>1,55V </Voltaje>
+    <Diametro>5,8</Diametro>
+    <Altura>1,6</Altura>
+    <mAh>12,5</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR521</Referencia>
+    <Descripcion>BATERIA SONY 379 BLISTER X 5</Descripcion>
+    <Material>6</Material>
+    <Voltaje>1,55V </Voltaje>
+    <Diametro>5,8</Diametro>
+    <Altura>2,1</Altura>
+    <mAh>17</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR616</Referencia>
+    <Descripcion>BATERIA SONY 321 BLISTER X5</Descripcion>
+    <Material>6</Material>
+    <Voltaje>1,55V </Voltaje>
+    <Diametro>6,8</Diametro>
+    <Altura>1,6</Altura>
+    <mAh>16</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR621</Referencia>
+    <Descripcion>BATERIA SONY 364 BLISTER X 5</Descripcion>
+    <Material>6</Material>
+    <Voltaje>1,55V </Voltaje>
+    <Diametro>6,8</Diametro>
+    <Altura>2,1</Altura>
+    <mAh>20</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR621SW</Referencia>
+    <Descripcion>BATERIA SONY 364 BLISTER X 20</Descripcion>
+    <Material>6</Material>
+    <Voltaje>1,55V </Voltaje>
+    <Diametro>6,8</Diametro>
+    <Altura>2,1</Altura>
+    <mAh>23</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR626</Referencia>
+    <Descripcion>BATERIA SONY 377 BLISTER X 5</Descripcion>
+    <Material>6</Material>
+    <Voltaje>1,55V </Voltaje>
+    <Diametro>6,8</Diametro>
+    <Altura>5,6</Altura>
+    <mAh>28</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR626SW</Referencia>
+    <Descripcion>BATERIA SONY 377 BLSITER X 20</Descripcion>
+    <Material>6</Material>
+    <Voltaje>1,55V </Voltaje>
+    <Diametro>6,8</Diametro>
+    <Altura>5,6</Altura>
+    <mAh>30</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR716</Referencia>
+    <Descripcion>BATERIA SONY 315 BLISTER X 5</Descripcion>
+    <Material>6</Material>
+    <Voltaje>1,55V </Voltaje>
+    <Diametro>7,9</Diametro>
+    <Altura>1,6</Altura>
+    <mAh>23</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR721</Referencia>
+    <Descripcion>BATERIA SONY 362 BLISTER X 5 0% MERCURIO</Descripcion>
+    <Material>6</Material>
+    <Voltaje>1,55V </Voltaje>
+    <Diametro>7,9</Diametro>
+    <Altura>2,1</Altura>
+    <mAh>29</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR916</Referencia>
+    <Descripcion>BATERIA SONY 373 BLISTER X 5</Descripcion>
+    <Material>6</Material>
+    <Voltaje>1,55V </Voltaje>
+    <Diametro>9,5</Diametro>
+    <Altura>1,6</Altura>
+    <mAh>30</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>AA-2BP</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>48,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-045</Referencia>
+    <Descripcion />
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GP2CR5-2U1</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>INR18650.2600</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-201</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-446</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-992</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-AA2300X4</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>4,000</Unidad>
+    <UnidadWeb>4,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-AA2700X2</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-LI14500</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-R03PX10</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-UM-3R6P</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>AABP2</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>E91BP-2</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>20,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>E92BP-2</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>20,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>NH-15BP-2</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>NH-HR03</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR920</Referencia>
+    <Descripcion>BATERIA SONY 371 BLISTER X 5</Descripcion>
+    <Material>6</Material>
+    <Voltaje>1,55V </Voltaje>
+    <Diametro>9,5</Diametro>
+    <Altura>2</Altura>
+    <mAh>45</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR927</Referencia>
+    <Descripcion>BATERIA SONY 395 BLISTER X 5</Descripcion>
+    <Material>6</Material>
+    <Voltaje>1,55V </Voltaje>
+    <Diametro>9,5</Diametro>
+    <Altura>2,7</Altura>
+    <mAh>60</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR936</Referencia>
+    <Descripcion>BATERIA SONY 394 BLISTER X 5</Descripcion>
+    <Material>6</Material>
+    <Voltaje>1,55V </Voltaje>
+    <Diametro>9,5</Diametro>
+    <Altura>3,6</Altura>
+    <mAh>75</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>1000AAAHCE</Referencia>
+    <Descripcion>BATERIA GP AAA RECARG RECYKO 950 mAh BX2</Descripcion>
+    <Material>4</Material>
+    <Voltaje>1,2V</Voltaje>
+    <Diametro />
+    <Altura />
+    <mAh>950</mAh>
+    <Dimensiones>44,5x10,5x3,65mms</Dimensiones>
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GP25A-C2</Referencia>
+    <Descripcion>BATERIA GP AAAA ALCALINA BLISTER X 2</Descripcion>
+    <Material>4</Material>
+    <Voltaje>1,5V</Voltaje>
+    <Diametro />
+    <Altura />
+    <mAh>950</mAh>
+    <Dimensiones>0,9x0,9x4,3cms</Dimensiones>
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GPCR123A-2U1</Referencia>
+    <Descripcion>BATERIA GP LITHIUM PHOTO CR123A 1300 MAH</Descripcion>
+    <Material>2</Material>
+    <Voltaje>3V</Voltaje>
+    <Diametro />
+    <Altura />
+    <mAh>1300</mAh>
+    <Dimensiones>16.8x34.5mm</Dimensiones>
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>AG5</Referencia>
+    <Descripcion>BATERIA CHINA 393A</Descripcion>
+    <Material>7</Material>
+    <Voltaje>1,5V</Voltaje>
+    <Diametro>7,9mm</Diametro>
+    <Altura>5,4mm</Altura>
+    <mAh>38</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>AG6</Referencia>
+    <Descripcion>BATERIA TIANQIU 371 ALCALINA BLISTER X10</Descripcion>
+    <Material>7</Material>
+    <Voltaje>1,5V</Voltaje>
+    <Diametro>2,1mm</Diametro>
+    <Altura>9,5mm</Altura>
+    <mAh>30</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>AG9</Referencia>
+    <Descripcion>BATERIA TIANQIU 936 ALCALINA BLISTER X10</Descripcion>
+    <Material>7</Material>
+    <Voltaje>1,5V</Voltaje>
+    <Diametro>9,5mm</Diametro>
+    <Altura>3,6mm</Altura>
+    <mAh>50</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TCR-1216</Referencia>
+    <Descripcion>BATERIA TIANQIU 3 VOLTIOS</Descripcion>
+    <Material>2</Material>
+    <Voltaje>3V</Voltaje>
+    <Diametro>12,5mm</Diametro>
+    <Altura>1,6mm</Altura>
+    <mAh>25</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TCR-2032</Referencia>
+    <Descripcion>BATERIA TIANQIU LITHIUM 3V BLISTER X 5</Descripcion>
+    <Material>2</Material>
+    <Voltaje>3V</Voltaje>
+    <Diametro>20mm</Diametro>
+    <Altura>3,2mm</Altura>
+    <mAh>220</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-6F22</Referencia>
+    <Descripcion>BATERIA BESTON 9V CARBON BULK</Descripcion>
+    <Material>3</Material>
+    <Voltaje>9V</Voltaje>
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones>55X16X30mm</Dimensiones>
+    <Peso />
+    <Caracteristicas>Bateria de Carbon</Caracteristicas>
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-LI18650</Referencia>
+    <Descripcion>BATERIA BESTON RECARGABLE PARA LINTERNA</Descripcion>
+    <Material>1</Material>
+    <Voltaje>3,7V</Voltaje>
+    <Diametro />
+    <Altura />
+    <mAh>2600</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas>Bateria de Ion de Litio</Caracteristicas>
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-C821BW</Referencia>
+    <Descripcion>CARGADOR BESTON UNIVERSAL 9V/C/D/AA/AAA</Descripcion>
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas>• Cargador universal que puede cargar de 1 a 4 pilas AA/AAA/C/D y 2 baterias 9V.</Caracteristicas>
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MN1300B2</Referencia>
+    <Descripcion>BATERIA DURACELL TIPO D ALCALINA BL X2</Descripcion>
+    <Material>4</Material>
+    <Voltaje>1,5V</Voltaje>
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MN1400B2</Referencia>
+    <Descripcion>BATERIA DURACELL TIPO C ALCALINA BL X 2</Descripcion>
+    <Material>4</Material>
+    <Voltaje>1,5V</Voltaje>
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-9V-6F22</Referencia>
+    <Descripcion>BATERIA BESTON 9 V ALCALINA BLISTER X 1</Descripcion>
+    <Material>4</Material>
+    <Voltaje>9V</Voltaje>
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones>55X16X30mm</Dimensiones>
+    <Peso />
+    <Caracteristicas>Se utiliza principalmente en radio de transistores , interfono, juguetes de control remoto, alarma de humo, microfono inalambrico, multimetro, productos electronicos y productos de instrumentacion.</Caracteristicas>
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>12,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-9V-LION</Referencia>
+    <Descripcion>BATERIA 9 V RECARGABLE 800mAh LI-ION</Descripcion>
+    <Material>1</Material>
+    <Voltaje>9V</Voltaje>
+    <Diametro />
+    <Altura />
+    <mAh>800</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR-2025</Referencia>
+    <Descripcion>BATERIA SONY LITHIUM CR2025</Descripcion>
+    <Material>2</Material>
+    <Voltaje>3V</Voltaje>
+    <Diametro>20</Diametro>
+    <Altura>2,5</Altura>
+    <mAh>150</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>E93BP-2</Referencia>
+    <Descripcion>BATERIA ENERGIZER TIPO C ALKALINA BL X 2</Descripcion>
+    <Material>4</Material>
+    <Voltaje>1,5V</Voltaje>
+    <Diametro />
+    <Altura />
+    <mAh>8,35</mAh>
+    <Dimensiones>26,2mmx50mm</Dimensiones>
+    <Peso>66,2 grs</Peso>
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>E95BP-2</Referencia>
+    <Descripcion>BATERIA ENERGIZER TIPO D ALKALINA BL X 2</Descripcion>
+    <Material>4</Material>
+    <Voltaje>1,5V</Voltaje>
+    <Diametro />
+    <Altura />
+    <mAh>20,5</mAh>
+    <Dimensiones>34,2mmx61,5mm</Dimensiones>
+    <Peso>148 grs</Peso>
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>EL-123A</Referencia>
+    <Descripcion>BATERIA ENERGIZER LITHIUM 3V BL X 1</Descripcion>
+    <Material>2</Material>
+    <Voltaje>3V</Voltaje>
+    <Diametro />
+    <Altura />
+    <mAh>1,5</mAh>
+    <Dimensiones>16,51mmx16,51mmx 34,29mm</Dimensiones>
+    <Peso>250grs</Peso>
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>EL-1CR2BP</Referencia>
+    <Descripcion>BATERIA ENERGIZER LITHIUM 3V. BL X1</Descripcion>
+    <Material>2</Material>
+    <Voltaje>3V</Voltaje>
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones>88,9mmx17,78mm</Dimensiones>
+    <Peso>13,61 grs</Peso>
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MN1604B1</Referencia>
+    <Descripcion>BATERIA DURACEL ALCALINA 9V BL X 1</Descripcion>
+    <Material>4</Material>
+    <Voltaje>9V</Voltaje>
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones>49mmx25mmx16mm</Dimensiones>
+    <Peso>52 grs</Peso>
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MP-18650</Referencia>
+    <Descripcion>BATERIA MP-18650 3.7V 6000 MH</Descripcion>
+    <Material>2</Material>
+    <Voltaje>3,7V</Voltaje>
+    <Diametro />
+    <Altura />
+    <mAh>2600</mAh>
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>V23GA</Referencia>
+    <Descripcion>BATERIA RAYOVAC 12V ALCALINA PARA ALARMA</Descripcion>
+    <Material>7</Material>
+    <Voltaje>12V</Voltaje>
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas>Formula sin Mercurio y Cadmio</Caracteristicas>
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>335</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>337</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>362</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>364</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>377</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>394</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-27A</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-T107</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-T110</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>C-2BP</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR1216-M</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje>3.0</Voltaje>
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR1616-M</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>D-2BP</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GPCR2016-C5</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>LR14XAL-2B</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>LR20EGL-2B</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>QCR2016</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>100,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>QCR2025</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>100,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>QCR2032</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>100,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>QLR1130</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>200,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>QLR41</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>200,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>QLR44</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>200,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>QLR621</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>200,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>QLR626</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>200,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>QLR920</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR726-M</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR920-M</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>UM-3UHS-20H</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>20,000</Unidad>
+    <UnidadWeb>20,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>UM4-SHTE</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>20,000</Unidad>
+    <UnidadWeb>20,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CAT30069367</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>24,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CAT30536630</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>24,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CAT30116634</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CAT30070387</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>24,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CAT30157880</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>4,000</Unidad>
+    <UnidadWeb>48,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CAT30410398</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>24,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CAT30410572</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CAT30410589</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CAT30411708</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>4,000</Unidad>
+    <UnidadWeb>60,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CAT30411715</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>4,000</Unidad>
+    <UnidadWeb>60,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CAT30412835</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>24,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CAT30412842</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>24,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CAT30422247</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>20,000</Unidad>
+    <UnidadWeb>20,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CAT30422254</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>20,000</Unidad>
+    <UnidadWeb>20,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CAT30452862</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>4,000</Unidad>
+    <UnidadWeb>48,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CAT30635401</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>12,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CAT30820388</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>4,000</Unidad>
+    <UnidadWeb>48,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CAT30857872</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CAT30957350</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>4,000</Unidad>
+    <UnidadWeb>48,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>A10</Referencia>
+    <Descripcion />
+    <Material>5</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>6,000</Unidad>
+    <UnidadWeb>60,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>A13</Referencia>
+    <Descripcion />
+    <Material>5</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>6,000</Unidad>
+    <UnidadWeb>60,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>A312</Referencia>
+    <Descripcion />
+    <Material>5</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>6,000</Unidad>
+    <UnidadWeb>60,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>A675</Referencia>
+    <Descripcion />
+    <Material>5</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>6,000</Unidad>
+    <UnidadWeb>60,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR512-M</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-P107</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-P104</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GPCR1220-JC5</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GPCR1616-C5</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GPCR2025-C5</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GPCR2032-C5</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GPCR2430-C5</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GPCR2450-C5</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GPCR2-C1</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TR9VALK</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR616-M</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GP65AAAHC-C2K</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>6LR61-1BP</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>10AUZ-6RRLAT</Referencia>
+    <Descripcion>BATERIA RAYOVAC DE AUDICION BL X 6</Descripcion>
+    <Material>5</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>6,000</Unidad>
+    <UnidadWeb>60,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>180AAHC-U2</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>250AAHC-U2</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>270AAHC-U2</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GP100AAA-HC-C4</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>4,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GP100AAAHCE-2GB</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GP15AU8-4</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>12,000</UnidadWeb>
+    <Empaque>Kit</Empaque>
+    <EmpaqueWeb>Kit</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GP15AX5-24AX5</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Kit</Empaque>
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GP15G-2S2</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GP1604GLF-2U1</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GP189-C10</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GP192-C10</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GP210-210AAHC-C</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>4,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GP24G-2S2</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GP270-270AAHC-C</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>4,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GPCR1620-C5</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GPCR1632-C5</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GPCR2032-C10</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GPLR44</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GPRHCH63C063</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GPRHCH83B163</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>T348-U1</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>AAA-2BP</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>48,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>AAA-C5</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>AA-C5</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MCR2450</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MCR-2032</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MCR-2025</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MCR-2016</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MCR-1632</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MCR-1620</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MCR-1616</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MCR-1216</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MH03-2BP</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MH6-2BP</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MLR-1120</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MLR-1130</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MLR-41</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MLR-44</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MSR416</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MSR512</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MSR516</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MSR521</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MSR527</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MSR616</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MSR626</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MSR712</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MSR716</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MSR721</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MSR916</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MSR920</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MSR927</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MSR936</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR1616M</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR1620-M</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR1632-M</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR2016-M</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR2025-M</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR2032-M</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR2430-M</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR2450-M</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>LR1120-M</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>LR1130-M</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>LR41-M</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>LR44-M</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR416-M</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR516-M</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR521-M</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR621-M</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR621SW-M</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>20,000</Unidad>
+    <UnidadWeb>20,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR626-M</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR626SW-M</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>20,000</Unidad>
+    <UnidadWeb>20,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR716-M</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR721-M</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR916-M</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR927-M</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR936-M</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>6LR61XAL-1B</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BK-3MCCE-2BT</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BK-4MCCE-2BT</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>FA-1000</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>LR03XALC-2B</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>20,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>LR20AXL-2B</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>LR6XALC-2B</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>20,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MP45</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>P-CR2016</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>P-CR2025</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>P-CR2354</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>P-CR3032</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>PR-13HEP-6C</Referencia>
+    <Descripcion />
+    <Material>5</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>6,000</Unidad>
+    <UnidadWeb>60,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>PR-230HEP-6C</Referencia>
+    <Descripcion />
+    <Material>5</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>6,000</Unidad>
+    <UnidadWeb>60,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>PR-312HEP6C</Referencia>
+    <Descripcion />
+    <Material>5</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>6,000</Unidad>
+    <UnidadWeb>60,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>R14-UMS2</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>12,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>UM-1UHS</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>12,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>315</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>317</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>321</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>346</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>371</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>373</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>379</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>395</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>512</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>675</Referencia>
+    <Descripcion />
+    <Material>5</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>6,000</Unidad>
+    <UnidadWeb>60,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR2016-R</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR2025-R</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR2032-R</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR2477-R</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>4,000</Unidad>
+    <UnidadWeb>4,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>LR44</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>LR-1120</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR726</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>6F22</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TR9VRB1</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TRAAAR03EHDB2</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>20,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TRAALR6ALB5</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TRAAR6EHDB2</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>20,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TRCR14RB2</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>20,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TRCR2032LPB1</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TRDR20RBLK180</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>AG0</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>AG1</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>AG10</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>AG11</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>AG13</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>AG3</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>AG4</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>AG7</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>AG8</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TCR-1220</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TCR-1616</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TCR-1620</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TCR-1632</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TCR-2016</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TCR-2025</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>13</Referencia>
+    <Descripcion>BATERIA RENATA DE AUDICION PR48</Descripcion>
+    <Material>5</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>6,000</Unidad>
+    <UnidadWeb>60,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-23A</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>A23T1X5</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje>12V</Voltaje>
+    <Diametro />
+    <Altura />
+    <mAh>1,5</mAh>
+    <Dimensiones>16,51mmx16,51mmx 34,29mm</Dimensiones>
+    <Peso>250grs</Peso>
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-M7011</Referencia>
+    <Descripcion />
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-LIAA-3000X2</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-LIAAA1100X2</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-AAA5</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>50,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>DX-C818</Referencia>
+    <Descripcion />
+    <Material />
+    <Voltaje>3000</Voltaje>
+    <Diametro>6MM</Diametro>
+    <Altura />
+    <mAh>250</mAh>
+    <Dimensiones>9.0 X6</Dimensiones>
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-C8005BN-1</Referencia>
+    <Descripcion />
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR1220-M</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>DX-AA2100X2</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>DX-AA2100X4</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>4,000</Unidad>
+    <UnidadWeb>4,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>QLR936</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>QLR927</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>10,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>DX-C80065BN</Referencia>
+    <Descripcion />
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>0,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>DX-AA2700X2</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>DX-AAA1100X2</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>DX-AAA900X4</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>4,000</Unidad>
+    <UnidadWeb>4,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>DX-C8006B-2</Referencia>
+    <Descripcion />
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-C8006BN</Referencia>
+    <Descripcion />
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>DX-C8001BN</Referencia>
+    <Descripcion />
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>DX-AAA750X2</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>AAA-BP2</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CX2-T</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GP130AAHC-LAC2</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>PO-4903</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>20,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>PO-4906</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>40,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>PO-4914</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>PO-4920</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>PO-4922</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-680B</Referencia>
+    <Descripcion />
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TMI-AG13</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MCR2016</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MCR2025</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MCR2032</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MHR-3-2BP</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MHR-4-2BP</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MLR1130</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MLR44</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>13AE-6ZM</Referencia>
+    <Descripcion />
+    <Material>5</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>6,000</Unidad>
+    <UnidadWeb>60,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>312AE-6ZM</Referencia>
+    <Descripcion />
+    <Material>5</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>6,000</Unidad>
+    <UnidadWeb>60,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>675AE-6ZM</Referencia>
+    <Descripcion />
+    <Material>5</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>6,000</Unidad>
+    <UnidadWeb>60,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>675AUZ-6RRLAT</Referencia>
+    <Descripcion />
+    <Material>5</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>6,000</Unidad>
+    <UnidadWeb>60,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR2016-1</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR2025-1</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>6,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR2032-5CB</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TSLR1130</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TSLR41</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>VLD715-2P</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>VLD724-2P</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>DCR2032</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>100,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-M7001</Referencia>
+    <Descripcion />
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>ECR2032</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>DX-C8006B</Referencia>
+    <Descripcion />
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>DX-C8006B-4</Referencia>
+    <Descripcion />
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR616SK</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR516SK</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>26650</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>E96BP-2</Referencia>
+    <Descripcion />
+    <Material>4</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>2,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>GH18650</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR2032-T</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-CR2</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>60,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-CR123A</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>60,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR2325-R</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>4,000</Unidad>
+    <UnidadWeb>4,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>NH35BP-2</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>VCR2016-B5</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>VCR2025-B5</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>VCR2032-B5</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-C8001BN</Referencia>
+    <Descripcion />
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>MP-817</Referencia>
+    <Descripcion />
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>3004V04A</Referencia>
+    <Descripcion />
+    <Material>9</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>3006V01A</Referencia>
+    <Descripcion />
+    <Material>9</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>DX-C8005BN-1</Referencia>
+    <Descripcion />
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TMI-AG10</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>200,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TMI-AG3</Referencia>
+    <Descripcion />
+    <Material>7</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>10,000</Unidad>
+    <UnidadWeb>200,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>CR2016-5CB</Referencia>
+    <Descripcion />
+    <Material>2</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-P105</Referencia>
+    <Descripcion />
+    <Material>1</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>2,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>3006V05A</Referencia>
+    <Descripcion />
+    <Material>9</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>3006V07A</Referencia>
+    <Descripcion />
+    <Material>9</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>3006V12A</Referencia>
+    <Descripcion />
+    <Material>9</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>3012V012A</Referencia>
+    <Descripcion />
+    <Material>9</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>3012V03A</Referencia>
+    <Descripcion />
+    <Material>9</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>3012V04A</Referencia>
+    <Descripcion />
+    <Material>9</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>3012V07A</Referencia>
+    <Descripcion />
+    <Material>9</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>3012V09A</Referencia>
+    <Descripcion />
+    <Material>9</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>10</Referencia>
+    <Descripcion />
+    <Material>5</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>PR41WA</Referencia>
+    <Descripcion />
+    <Material>5</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>6,000</Unidad>
+    <UnidadWeb>60,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>PR44WA</Referencia>
+    <Descripcion />
+    <Material>5</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>6,000</Unidad>
+    <UnidadWeb>60,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>PR48WA</Referencia>
+    <Descripcion />
+    <Material>5</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>6,000</Unidad>
+    <UnidadWeb>60,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>PR536WA</Referencia>
+    <Descripcion />
+    <Material>5</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>6,000</Unidad>
+    <UnidadWeb>60,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Display</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>TRPBLIPO10000BL</Referencia>
+    <Descripcion />
+    <Material>3</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>0,000</UnidadWeb>
+    <Empaque />
+    <EmpaqueWeb />
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-040</Referencia>
+    <Descripcion />
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>BST-C8006B</Referencia>
+    <Descripcion />
+    <Material />
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>1,000</Unidad>
+    <UnidadWeb>1,000</UnidadWeb>
+    <Empaque>Unidad</Empaque>
+    <EmpaqueWeb>Unidad</EmpaqueWeb>
+  </caracteristicasBaterias>
+  <caracteristicasBaterias>
+    <Referencia>SR712-M</Referencia>
+    <Descripcion />
+    <Material>6</Material>
+    <Voltaje />
+    <Diametro />
+    <Altura />
+    <mAh />
+    <Dimensiones />
+    <Peso />
+    <Caracteristicas />
+    <Unidad>5,000</Unidad>
+    <UnidadWeb>5,000</UnidadWeb>
+    <Empaque>Blister</Empaque>
+    <EmpaqueWeb>Blister</EmpaqueWeb>
+  </caracteristicasBaterias>
+</caracteristicasBaterias>

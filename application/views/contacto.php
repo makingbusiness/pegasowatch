@@ -21,7 +21,7 @@
 							</div>
 						<?php endif; ?>
 
-						<h4 class="m-text26 p-b-36 p-t-15">Envianos un mensaje</h4>
+						<h4 class="m-text26 p-b-36 p-t-15">Env&iacute;anos un mensaje</h4>
 
 						<div class="bo4 of-hidden size15 m-b-20">
 							<input class="sizefull s-text7 p-l-22 p-r-22" type="text" id="name_contact" name="name" placeholder="Nombre completo" required=true>

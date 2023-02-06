@@ -33,7 +33,9 @@ class Pedidos extends CI_Controller
 	
 			$datosEnvio = array(
 				'CodClie'           => $this->input->post('documentoEnvio') ? $this->input->post('documentoEnvio') : $this->session->CodClie,
+				'Nombres'       => $this->input->post('nombreEnvio') ? $this->input->post('nombreEnvio') : $this->session->Nombres,
 				'nombreEnvio'       => $this->input->post('nombreEnvio') ? $this->input->post('nombreEnvio') : $this->session->Nombres,
+				'Apellidos'     => $this->input->post('apellidoEnvio') ? $this->input->post('apellidoEnvio') : $this->session->Apellidos,
 				'apellidoEnvio'     => $this->input->post('apellidoEnvio') ? $this->input->post('apellidoEnvio') : $this->session->Apellidos,
 				'Email'             => $this->input->post('correoEnvio') ? $this->input->post('correoEnvio') : $this->session->Email,
 				'paisEnvio'         => $this->input->post('paisEnvio') ? $this->input->post('paisEnvio') : $this->session->paisEnvio,

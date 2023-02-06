@@ -283,6 +283,7 @@
 
 	$('#btn-pago').click(function (e) {
 		//e.preventDefault();
+		$('#btn-pago').prop('disabled', true)
 		var info = {
 			'rowid': "Prueba de pedido temporal",
 			'qty': "100"
@@ -354,6 +355,10 @@
 			});
 		}
 		e.stopPropagation();
+	});
+
+	$('#chk-datos').on('click', function(){
+		$('#btn-finalizar-compra').prop('disabled', !$('#chk-datos').prop('checked'));
 	});
 
 	$('.slick3').on('afterChange', function (event, slick, currentSlide, nextSlide) {

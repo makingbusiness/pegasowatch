@@ -6,13 +6,20 @@
 		//if (!$CI->session->has_userdata('pais_usuario'))
 		{
 			$ip = $CI->input->server('REMOTE_ADDR');
-			if ($ip == '::1') $ip = '181.58.38.15';//'201.218.95.102';// '181.58.38.15';
-			$geoPlugin_array = unserialize( file_get_contents('http://www.geoplugin.net/php.gp?ip='.$ip) );
+			if ($ip == '::1') $ip = '181.58.38.177';//'201.218.95.102';// '181.58.38.15';
+			/*$geoPlugin_array = unserialize( file_get_contents('http://www.geoplugin.net/php.gp?ip='.$ip) );
 	
 			$pais = $geoPlugin_array['geoplugin_countryName'];
 			$CI->session->set_userdata('pais_usuario', $pais);
-			$CI->session->set_userdata('moneda_usuario', $pais == 'Colombia' ? 'COP' : 'USD');
+			$CI->session->set_userdata('moneda_usuario', $pais == 'Colombia' ? 'COP' : 'USD');*/
 			//echo $pais.' = '.$CI->session->moneda_usuario;
+
+			$info = json_decode(file_get_contents('https://api.ip2location.io/?key='.$CI->config->item('keyIPLocation').'&ip='.$ip.'&format=json'));			
+			
+			$pais = $info->country_name;
+
+			$CI->session->set_userdata('pais_usuario', $pais);
+			$CI->session->set_userdata('moneda_usuario', $pais == 'Colombia' ? 'COP' : 'USD');
 		}
 	}
 /*

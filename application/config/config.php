@@ -564,3 +564,4 @@ $config['movil_pedidos'] = '3104767568';
 $config['crear_reloj'] = 'N';
 $config['IDGoogle'] = '913945391440-lupnhoun15k7io93cj64h4egnv3roo8t.apps.googleusercontent.com';
 $config['SecretGoogle'] = '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';
+$config['keyIPLocation'] = 'B21110EA1B97216797CE8403B71D1D90';

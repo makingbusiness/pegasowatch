@@ -228,6 +228,14 @@
 							<input class="s-text7 p-l-15 p-r-15" type="textarea" rows="10" name="obsEnvio" value="<?php echo $this->session->obsEnvio; ?>">
 						</div>
 
+						<div class="size19 bo4 m-b-22 fs-11">
+							<input type="checkbox" id="chk-datos" name="chk-datos">&nbsp;
+							<label for="chk-datos">
+								Autorizo Tratamiento de mis datos.
+							</label>
+							 <br><a href="<?php echo base_url(); ?>ptd" target="_blank"><p class="fs-11" style="font-weight: bold;text-decoration: underline;">Ver aquí</p></a>
+						</div>
+
 						<!--div class="size14 trans-0-4 m-b-10">
 							<button class="flex-c-m sizefull bg1 bo-rad-23 hov1 s-text1 trans-0-4">
 								Actualizar total
@@ -255,7 +263,7 @@
 						</button>
 					<?php else : ?>
 						<div class="w-size25 margin-center mt-3 dis-inline-block">
-							<button class="flex-c-m size2 bg1 bo-rad-23 hov1 s-text14 trans-0-4" type="submit">Finalizar compra</button>
+							<button class="flex-c-m size2 bg1 bo-rad-23 hov1 s-text14 trans-0-4" id="btn-finalizar-compra" type="submit" disabled>Finalizar compra</button>
 						</div>
 	
 						<div class="w-size25 margin-center mt-3 dis-inline-block">

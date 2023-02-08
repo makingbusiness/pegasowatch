@@ -130,6 +130,7 @@ class Usuarios extends CI_Controller{
 				'direccionEnvio'   => $resultado[0]->Direccion,
 				'telefonoEnvio'    => $resultado[0]->Telefono,
 				'Email'            => $resultado[0]->Email,
+				'correoEnvio'      => $resultado[0]->Email,
 				'IDTipoUsuario'    => $resultado[0]->IDTipoUsuario,
 				'paisEnvio'        => $resultado[0]->Pais,
 				'estadoEnvio'      => $resultado[0]->Estado,
